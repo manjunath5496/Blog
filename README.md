@@ -13,4 +13,7 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/README.md" style="text-decoration:none;">List of important publications in physics </a></b></li>  
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/README.md" style="text-decoration:none;">List of important publications in computer science </a></b></li>
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/README.md" style="text-decoration:none;">List of important publications in chemistry </a></b></li>
+  
  </ul>
