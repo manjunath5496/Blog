@@ -16,6 +16,6 @@
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/README.md" style="text-decoration:none;">List of important publications in chemistry </a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/README.md" style="text-decoration:none;">Books by Karl-Marx </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/README.md" style="text-decoration:none;">Books by Karl Marx </a></b></li>
   
  </ul>
