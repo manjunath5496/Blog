@@ -7,6 +7,8 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Great-Papers-in-Computer-Science/blob/master/README.md" style="text-decoration:none;">Great Papers in Computer Science </a></b></li> 
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/README.md" style="text-decoration:none;">Classic Papers in Biology </a></b></li> 
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Important-Philosophy-Books-Ever-Written/blob/master/README.md" style="text-decoration:none;">The Most Important Philosophy Books Ever Written </a></b></li> 
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/README.md" style="text-decoration:none;">Published works of Srinivasa Ramanujan </a></b></li> 
   
