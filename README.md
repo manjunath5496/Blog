@@ -10,6 +10,8 @@
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/James-Gosling-Books/blob/master/README.md" style="text-decoration:none;">Books By James Gosling </a></b></li> 
   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/3-Cognitive-Science-Books-That-Teach-Jewish-Ideas/blob/master/README.md" style="text-decoration:none;">3 Cognitive Science Books That Teach Jewish Ideas </a></b></li> 
+  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">50 selected papers in Data Mining and Machine Learning</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Dennis-M-Ritchie-papers/blob/master/README.md" style="text-decoration:none;">Collected Papers | Dennis Ritchie </a></b></li> 
