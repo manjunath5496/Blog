@@ -45,7 +45,7 @@
  </ul>
  </br>
  
-  <p><strong>Books by James D. Watson:   </strong>
+  <p><strong>Books by James D. Watson:   </strong></p>
  
  <hr>
  
@@ -73,7 +73,7 @@
  
   </br>
  
-  <p><strong>Books by Enrico Fermi:   </strong>
+  <p><strong>Books by Enrico Fermi:   </strong></p>
  
  <hr>
  
