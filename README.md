@@ -12,6 +12,8 @@
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/James-Gosling-Books/blob/master/README.md" style="text-decoration:none;">Books By James Gosling </a></b></li> 
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Programming-Languages-and-Logic/blob/master/README.md" style="text-decoration:none;">Classic Papers in Programming Languages and Logic</a></b></li> 
+  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/3-Cognitive-Science-Books-That-Teach-Jewish-Ideas/blob/master/README.md" style="text-decoration:none;">3 Cognitive Science Books That Teach Jewish Ideas </a></b></li> 
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">50 selected papers in Data Mining and Machine Learning</a></b></li>
