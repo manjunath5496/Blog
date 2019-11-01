@@ -5,6 +5,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Max-Born-Books/blob/master/README.md" style="text-decoration:none;">Max Born Books </a></b></li> 
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Great-Papers-in-Computer-Science/blob/master/README.md" style="text-decoration:none;">Great Papers in Computer Science </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/10-Cutting-Edge-Research-Papers-In-Computer-Vision-and-Image-Generation/blob/master/README.md" style="text-decoration:none;">10 Cutting Edge Research-Papers In Computer Vision and Image Generation </a></b></li> 
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/README.md" style="text-decoration:none;">Classic Papers in Biology </a></b></li> 
   
