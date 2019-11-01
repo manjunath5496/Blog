@@ -6,7 +6,8 @@
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Great-Papers-in-Computer-Science/blob/master/README.md" style="text-decoration:none;">Great Papers in Computer Science </a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/10-Cutting-Edge-Research-Papers-In-Computer-Vision-and-Image-Generation/blob/master/README.md" style="text-decoration:none;">10 Cutting Edge Research-Papers In Computer Vision and Image Generation </a></b></li> 
- 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/21-hottest-research-papers-on-Computer-Vision-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">21 hottest research papers on Computer Vision and Machine Learning </a></b></li>
+   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/README.md" style="text-decoration:none;">Classic Papers in Biology </a></b></li> 
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/11-Technical-Papers-Every-Programmer-Should-Read/blob/master/README.md" style="text-decoration:none;">11 Technical Papers Every Programmer Should Read </a></b></li> 
