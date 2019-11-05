@@ -44,6 +44,9 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/README.md" style="text-decoration:none;">Books by Karl Marx </a></b></li>
 
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/22-Selected-Top-Papers-on-Deep-Learning/blob/master/README.md" style="text-decoration:none;">22 Selected Top Papers on Deep Learning </a></b></li>
+
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-most-cited-statistical-papers/blob/master/README.md" style="text-decoration:none;">The most-cited statistics papers </a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/21-Most-Influential-Economic-Papers-Of-All-Time/blob/master/README.md" style="text-decoration:none;">21 Most Influential Economic Papers Of All Time </a></b></li>
