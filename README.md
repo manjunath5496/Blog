@@ -31,6 +31,7 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/README.md" style="text-decoration:none;">Roger Penrose Research Papers </a></b></li> 
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Edgar-F-Codd-Papers/blob/master/README.md" style="text-decoration:none;">Important Papers: Codd and the Relational Model </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/10-Important-AI-Research-Papers/blob/master/README.md" style="text-decoration:none;">10 Important AI Research Papers </a></b></li> 
    
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/README.md" style="text-decoration:none;">SCIENTIST AT WORK: Steven Weinberg Publications </a></b></li>
   
