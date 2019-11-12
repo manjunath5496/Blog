@@ -9,6 +9,8 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/21-hottest-research-papers-on-Computer-Vision-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">21 hottest research papers on Computer Vision and Machine Learning </a></b></li>
    
 <li><b><a target="_blank" href="https://github.com/manjunath5496/6-Top-NLP-Papers/blob/master/README.md" style="text-decoration:none;">6 Top NLP Papers  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-30-most-influential-papers-in-the-world-of-big-data/blob/master/README.md" style="text-decoration:none;">Top 30 most influential papers in the world of big data </a></b></li>
    
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nikola-Tesla-writings/blob/master/README.md" style="text-decoration:none;">Nikola Tesla Writings </a></b></li>
    
