@@ -11,7 +11,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Machine-Learning/blob/master/README.md" style="text-decoration:none;">Top Papers on Machine Learning</a></b></li>
    
 <li><b><a target="_blank" href="https://github.com/manjunath5496/6-Top-NLP-Papers/blob/master/README.md" style="text-decoration:none;">6 Top NLP Papers  </a></b></li>
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/5-Important-Deep-Learning-Research-Papers/blob/master/README.md" style="text-decoration:none;">5 Important Deep Learning Research Papers You Must Read In 2019 </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-30-most-influential-papers-in-the-world-of-big-data/blob/master/README.md" style="text-decoration:none;">Top 30 most influential papers in the world of big data </a></b></li>
    
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Clustering-Algorithms/blob/master/README.md" style="text-decoration:none;">Top Papers on Clustering Algorithms </a></b></li>   
