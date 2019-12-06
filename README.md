@@ -11,7 +11,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-concurrent-parallel-and-distributed-computing/blob/master/README.md" style="text-decoration:none;">List of important publications in concurrent, parallel and distributed computing </a></b></li>
    
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Machine-Learning/blob/master/README.md" style="text-decoration:none;">Top Papers on Machine Learning</a></b></li>
-   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-3-Most-Entertaining-Academic-Papers-of-All-Time/blob/master/README.md" style="text-decoration:none;">The 3 Most Entertaining Academic Papers of All Time</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/6-Top-NLP-Papers/blob/master/README.md" style="text-decoration:none;">6 Top NLP Papers  </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/5-Important-Deep-Learning-Research-Papers/blob/master/README.md" style="text-decoration:none;">5 Important Deep Learning Research Papers You Must Read In 2019 </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-30-most-influential-papers-in-the-world-of-big-data/blob/master/README.md" style="text-decoration:none;">Top 30 most influential papers in the world of big data </a></b></li>
