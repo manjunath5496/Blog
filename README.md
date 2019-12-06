@@ -8,6 +8,8 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/10-Cutting-Edge-Research-Papers-In-Computer-Vision-and-Image-Generation/blob/master/README.md" style="text-decoration:none;">10 Cutting Edge Research-Papers In Computer Vision and Image Generation </a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/21-hottest-research-papers-on-Computer-Vision-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">21 hottest research papers on Computer Vision and Machine Learning </a></b></li>
    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-concurrent-parallel-and-distributed-computing/blob/master/README.md" style="text-decoration:none;">List of important publications in concurrent, parallel and distributed computing </a></b></li>
+   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Machine-Learning/blob/master/README.md" style="text-decoration:none;">Top Papers on Machine Learning</a></b></li>
    
 <li><b><a target="_blank" href="https://github.com/manjunath5496/6-Top-NLP-Papers/blob/master/README.md" style="text-decoration:none;">6 Top NLP Papers  </a></b></li>
