@@ -23,7 +23,9 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/README.md" style="text-decoration:none;">Classic Papers in Biology </a></b></li> 
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/11-Technical-Papers-Every-Programmer-Should-Read/blob/master/README.md" style="text-decoration:none;">11 Technical Papers Every Programmer Should Read </a></b></li> 
-  
+    
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Pattern-Recognition-Articles/blob/master/README.md" style="text-decoration:none;">Most Popular Pattern Recognition Articles </a></b></li> 
+   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/James-Gosling-Books/blob/master/README.md" style="text-decoration:none;">Books By James Gosling </a></b></li> 
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Programming-Languages-and-Logic/blob/master/README.md" style="text-decoration:none;">Classic Papers in Programming Languages and Logic</a></b></li> 
