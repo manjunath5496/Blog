@@ -12,7 +12,7 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/The-5-Best-Data-Science-Books-for-Non-Techies/blob/master/README.md" style="text-decoration:none;">The 5 Best Data Science Books for Non-Techies </a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/The-top-35-most-cited-research-papers-of-all-time/blob/master/README.md" style="text-decoration:none;">The top 35 most cited research papers of all time </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-concurrent-parallel-and-distributed-computing/blob/master/README.md" style="text-decoration:none;">List of important publications in concurrent, parallel and distributed computing </a></b></li>
-   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/6-Essential-Books-Featuring-Dinosaurs-in-Science-Fiction/blob/master/README.md" style="text-decoration:none;">6 Essential Books Featuring Dinosaurs in Science Fiction </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Machine-Learning/blob/master/README.md" style="text-decoration:none;">Top Papers on Machine Learning</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/The-3-Most-Entertaining-Academic-Papers-of-All-Time/blob/master/README.md" style="text-decoration:none;">The 3 Most Entertaining Academic Papers of All Time</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/6-Top-NLP-Papers/blob/master/README.md" style="text-decoration:none;">6 Top NLP Papers  </a></b></li>
