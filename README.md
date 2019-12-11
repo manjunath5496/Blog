@@ -3,7 +3,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/README.md" style="text-decoration:none;">Classic Papers in Applied Mathematics </a></b></li>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Max-Born-Books/blob/master/README.md" style="text-decoration:none;">Max Born Books </a></b></li> 
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/13-Best-Quantum-Field-Theory-Books-for-Beginners/blob/master/README.md" style="text-decoration:none;">13 Best Quantum Field Theory Books for Beginners</a></b></li> 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Great-Papers-in-Computer-Science/blob/master/README.md" style="text-decoration:none;">Great Papers in Computer Science </a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/10-Cutting-Edge-Research-Papers-In-Computer-Vision-and-Image-Generation/blob/master/README.md" style="text-decoration:none;">10 Cutting Edge Research-Papers In Computer Vision and Image Generation </a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/21-hottest-research-papers-on-Computer-Vision-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">21 hottest research papers on Computer Vision and Machine Learning </a></b></li>
