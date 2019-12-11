@@ -23,7 +23,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-10-papers-from-Physical-Review-s-first-125-years/blob/master/README.md" style="text-decoration:none;">Top 10 papers from Physical Review's first 125 years </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/5-Important-Deep-Learning-Research-Papers/blob/master/README.md" style="text-decoration:none;">5 Important Deep Learning Research Papers You Must Read In 2019 </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-30-most-influential-papers-in-the-world-of-big-data/blob/master/README.md" style="text-decoration:none;">Top 30 most influential papers in the world of big data </a></b></li>
-   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/README.md" style="text-decoration:none;">Must read Books and Articles on AI</a></b></li>  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Clustering-Algorithms/blob/master/README.md" style="text-decoration:none;">Top Papers on Clustering Algorithms </a></b></li>   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-cryptography/blob/master/README.md" style="text-decoration:none;">List of important publications in cryptography </a></b></li>   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nikola-Tesla-writings/blob/master/README.md" style="text-decoration:none;">Nikola Tesla Writings </a></b></li>
