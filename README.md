@@ -14,6 +14,7 @@
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/README.md" style="text-decoration:none;">Awesome AI Papers </a></b></li> 
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Numenta-Research-Papers/blob/master/README.md" style="text-decoration:none;">Numenta Research Papers </a></b></li>
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Learning Papers </a></b></li>
+       <li><b><a target="_blank" href="https://github.com/manjunath5496/5-Must-read-Papers-on-Product-Categorization-for-Data-Scientists/blob/master/README.md" style="text-decoration:none;">5 Must-read Papers on Product Categorization for Data Scientists</a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Readings-In-Cognitive-Science/blob/master/README.md" style="text-decoration:none;">Classic Readings In Cognitive Science </a></b></li>
           <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Ten-Works-Of-The-20th-Century/blob/master/README.md" style="text-decoration:none;">Top Ten Works Of The 20th Century</a></b></li>
            <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Ten-Works-Of-The-19th-Century/blob/master/README.md" style="text-decoration:none;">Top Ten Works Of The 19th Century</a></b></li>
