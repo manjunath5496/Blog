@@ -14,6 +14,7 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/README.md" style="text-decoration:none;">Impactful Papers and Literature on AI </a></b></li>
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/README.md" style="text-decoration:none;">Awesome AI Papers </a></b></li> 
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Numenta-Research-Papers/blob/master/README.md" style="text-decoration:none;">Numenta Research Papers </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Eight-Computer-Science-Education-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top Eight Computer Science Education Research Papers </a></b></li>
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Learning Papers </a></b></li>
        <li><b><a target="_blank" href="https://github.com/manjunath5496/5-Must-read-Papers-on-Product-Categorization-for-Data-Scientists/blob/master/README.md" style="text-decoration:none;">5 Must-read Papers on Product Categorization for Data Scientists</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/README.md" style="text-decoration:none;">Key Papers in Deep RL</a></b></li>      
