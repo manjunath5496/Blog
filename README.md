@@ -14,6 +14,7 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Ten-Trending-Academic-Papers-on-the-Future-of-Computer-Vision/blob/master/README.md" style="text-decoration:none;">Ten Trending Academic Papers on the Future of Computer Vision </a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Papers on Deep Vision</a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Science Research Papers</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/README.md" style="text-decoration:none;">Keras-Deep-Learning-Paper-Implementations</a></b></li>
           <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/README.md" style="text-decoration:none;">Most Popular Theoretical Computer Science Articles</a></b></li>
       <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Detection-Papers/blob/master/README.md" style="text-decoration:none;">3D Detection Papers</a></b></li>
             <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-4-Genetics-Papers/blob/master/README.md" style="text-decoration:none;">Top 4 Genetics Papers</a></b></li>
