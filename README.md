@@ -79,7 +79,7 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">50 selected papers in Data Mining and Machine Learning</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Dennis-M-Ritchie-papers/blob/master/README.md" style="text-decoration:none;">Collected Papers | Dennis Ritchie </a></b></li> 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/NLP-paper-implementation-with-PyTorch/blob/master/README.md" style="text-decoration:none;">NLP paper implementation with PyTorch </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/README.md" style="text-decoration:none;">The Collected Works of Bjarne Stroustrup </a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Important-Philosophy-Books-Ever-Written/blob/master/README.md" style="text-decoration:none;">The Most Important Philosophy Books Ever Written </a></b></li> 
