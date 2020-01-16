@@ -83,7 +83,8 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/README.md" style="text-decoration:none;">The Collected Works of Bjarne Stroustrup </a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Important-Philosophy-Books-Ever-Written/blob/master/README.md" style="text-decoration:none;">The Most Important Philosophy Books Ever Written </a></b></li> 
- 
+   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Economics ML Papers </a></b></li> 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/README.md" style="text-decoration:none;">Published works of Srinivasa Ramanujan </a></b></li> 
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/README.md" style="text-decoration:none;">Roger Penrose Research Papers </a></b></li> 
