@@ -114,7 +114,9 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Reference-Papers/blob/master/README.md" style="text-decoration:none;"> AI Reference Papers</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/21-Most-Influential-Economic-Papers-Of-All-Time/blob/master/README.md" style="text-decoration:none;">21 Most Influential Economic Papers Of All Time </a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/README.md" style="text-decoration:none;">AI Papers and Notes </a></b></li>
-       <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-ML-Papers/blob/master/README.md" style="text-decoration:none;"> Biology ML Papers</a></b></li>
+           <li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/README.md" style="text-decoration:none;">Lecture notes and papers on physics and astronomy </a></b></li> 
+    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-ML-Papers/blob/master/README.md" style="text-decoration:none;"> Biology ML Papers</a></b></li>
     
  </ul>
  </br>
