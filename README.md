@@ -118,6 +118,8 @@
            <li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/README.md" style="text-decoration:none;">Lecture notes and papers on physics and astronomy </a></b></li> 
     
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-ML-Papers/blob/master/README.md" style="text-decoration:none;"> Biology ML Papers</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Theoretical-Blockchain-Research-Papers/blob/master/README.md" style="text-decoration:none;"> Theoretical Blockchain Research Papers</a></b></li>
     
  </ul>
  </br>
