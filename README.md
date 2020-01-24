@@ -19,6 +19,7 @@
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/README.md" style="text-decoration:none;">Keras-Deep-Learning-Paper-Implementations</a></b></li>
           <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/README.md" style="text-decoration:none;">Most Popular Theoretical Computer Science Articles</a></b></li>
       <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Detection-Papers/blob/master/README.md" style="text-decoration:none;">3D Detection Papers</a></b></li>
+       <li><b><a target="_blank" href="https://github.com/manjunath5496/Face-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Face Recognition Papers</a></b></li>     
           <li><b><a target="_blank" href="https://github.com/manjunath5496/Works-By-Francis-Bacon/blob/master/README.md" style="text-decoration:none;">Works By Francis Bacon</a></b></li>
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/README.md" style="text-decoration:none;">Quantum ML Papers</a></b></li>
               <li><b><a target="_blank" href="https://github.com/manjunath5496/Papers-On-Database-Management-Systems/blob/master/README.md" style="text-decoration:none;">Papers On Database Management Systems</a></b></li> 
