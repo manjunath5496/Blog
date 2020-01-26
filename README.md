@@ -15,6 +15,7 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Ten-Trending-Academic-Papers-on-the-Future-of-Computer-Vision/blob/master/README.md" style="text-decoration:none;">Ten Trending Academic Papers on the Future of Computer Vision </a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Papers on Deep Vision</a></b></li>
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Physics-Papers/blob/master/README.md" style="text-decoration:none;">Quantum Physics Papers</a></b></li> 
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Genomics-DL-Papers/blob/master/README.md" style="text-decoration:none;">Genomics DL Papers</a></b></li>      
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Science Research Papers</a></b></li>
            <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Physics ML Papers</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/README.md" style="text-decoration:none;">Keras-Deep-Learning-Paper-Implementations</a></b></li>
