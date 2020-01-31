@@ -20,6 +20,7 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Genomics-DL-Papers/blob/master/README.md" style="text-decoration:none;">Genomics DL Papers</a></b></li>      
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Science Research Papers</a></b></li>
            <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Physics ML Papers</a></b></li>
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Network-Architecture-Search-Papers/blob/master/README.md" style="text-decoration:none;">Network Architecture Search Papers</a></b></li>          
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/README.md" style="text-decoration:none;">Astronomy ML Papers</a></b></li>          
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/README.md" style="text-decoration:none;">Keras-Deep-Learning-Paper-Implementations</a></b></li>
           <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/README.md" style="text-decoration:none;">Most Popular Theoretical Computer Science Articles</a></b></li>
