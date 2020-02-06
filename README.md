@@ -23,6 +23,7 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Genomics-DL-Papers/blob/master/README.md" style="text-decoration:none;">Genomics DL Papers</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Mining-with-Mind-Maps-Papers/blob/master/README.md" style="text-decoration:none;">Data Mining with Mind Maps (Papers)</a></b></li>     
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Science Research Papers</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/README.md" style="text-decoration:none;">3D Reconstruction Paper List</a></b></li>       
            <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Physics ML Papers</a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Robotics ML Papers </a></b></li>          
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Network-Architecture-Search-Papers/blob/master/README.md" style="text-decoration:none;">Network Architecture Search (NAS) Papers</a></b></li>          
