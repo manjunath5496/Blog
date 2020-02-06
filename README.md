@@ -23,6 +23,7 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Mining-with-Mind-Maps-Papers/blob/master/README.md" style="text-decoration:none;">Data Mining with Mind Maps (Papers)</a></b></li>     
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Science Research Papers</a></b></li>
            <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Physics ML Papers</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Robotics ML Papers </a></b></li>          
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Network-Architecture-Search-Papers/blob/master/README.md" style="text-decoration:none;">Network Architecture Search (NAS) Papers</a></b></li>          
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/README.md" style="text-decoration:none;">Astronomy ML Papers</a></b></li>          
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/README.md" style="text-decoration:none;">Keras-Deep-Learning-Paper-Implementations</a></b></li>
