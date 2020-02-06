@@ -43,6 +43,7 @@
        <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Influential-Data-Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Most Influential Data-Science Research Papers </a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Downloaded-Artificial-Intelligence-Articles/blob/master/README.md" style="text-decoration:none;">Most Downloaded Artificial Intelligence Articles </a></b></li>   
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Numenta-Research-Papers/blob/master/README.md" style="text-decoration:none;">Numenta Research Papers </a></b></li>
+           <li><b><a target="_blank" href="https://github.com/manjunath5496/Concurrency-Papers/blob/master/README.md" style="text-decoration:none;">Concurrency Papers</a></b></li>     
                <li><b><a target="_blank" href="https://github.com/manjunath5496/Healthcare-ML-Papers/blob/master/README.md" style="text-decoration:none;">Healthcare ML Papers</a></b></li> 
             <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Fraud-Detection-Research-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Fraud Detection Research Papers </a></b></li>    
               <li><b><a target="_blank" href="https://github.com/manjunath5496/14-NLP-Research-Breakthroughs-You-Can-Apply-To-Your-Business/blob/master/README.md" style="text-decoration:none;">14 NLP Research Breakthroughs You Can Apply To Your Business</a></b></li> 
