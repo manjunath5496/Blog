@@ -16,7 +16,8 @@
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-research-papers-on-Data-Structures/blob/master/README.md" style="text-decoration:none;">Must read research papers on Data Structures </a></b></li>
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Ten-Trending-Academic-Papers-on-the-Future-of-Computer-Vision/blob/master/README.md" style="text-decoration:none;">Ten Trending Academic Papers on the Future of Computer Vision </a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Papers on Deep Vision</a></b></li>
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Papers/blob/master/README.md" style="text-decoration:none;">Computer Science Papers</a></b></li>   
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Papers/blob/master/README.md" style="text-decoration:none;">Computer Science Papers</a></b></li>
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Functional-Programming-Papers/blob/master/README.md" style="text-decoration:none;">Functional Programming Papers</a></b></li>    
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Physics-Papers/blob/master/README.md" style="text-decoration:none;">Quantum Physics Papers</a></b></li> 
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Interactive-Labeling-Algorithm-Papers/blob/master/README.md" style="text-decoration:none;">Interactive Labeling Algorithm Papers</a></b></li>   
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Genomics-DL-Papers/blob/master/README.md" style="text-decoration:none;">Genomics DL Papers</a></b></li>  
