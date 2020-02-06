@@ -64,7 +64,9 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Five-Must-Read-Statistics-Books-to-Become-a-Successful-Data-Analyst/blob/master/README.md" style="text-decoration:none;">Five Must Read Statistics Books to Become a Successful Data Analyst </a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Type-Theory-Papers/blob/master/README.md" style="text-decoration:none;">Type Theory Papers</a></b></li>     
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Machine-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Machine Learning Papers </a></b></li> 
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/README.md" style="text-decoration:none;">3D Machine Learning Papers </a></b></li>       
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/README.md" style="text-decoration:none;">3D Machine Learning Papers </a></b></li>    
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/AutoML-Papers/blob/master/README.md" style="text-decoration:none;">AutoML Papers</a></b></li>     
+     
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/README.md" style="text-decoration:none;">Paul Strassmann Papers </a></b></li>  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-Read-Papers-on-GANs/blob/master/README.md" style="text-decoration:none;">Must Read Papers on GANs </a></b></li>  
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Blockchain-Papers/blob/master/README.md" style="text-decoration:none;">Blockchain Papers </a></b></li>
