@@ -11,7 +11,8 @@
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Papers-by-John-McCarthy/blob/master/README.md" style="text-decoration:none;">Papers by John McCarthy</a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Robust-ML-Papers/blob/master/README.md" style="text-decoration:none;">Robust ML Papers</a></b></li>  
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-Papers/blob/master/README.md" style="text-decoration:none;">Software Engineering Papers</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Finance-ML-Papers/blob/master/README.md" style="text-decoration:none;">Finance ML Papers</a></b></li>        
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Finance-ML-Papers/blob/master/README.md" style="text-decoration:none;">Finance ML Papers</a></b></li>   
+       <li><b><a target="_blank" href="https://github.com/manjunath5496/Super-Resolution-Papers/blob/master/README.md" style="text-decoration:none;">Super Resolution Papers</a></b></li>    
           <li><b><a target="_blank" href="https://github.com/manjunath5496/Publications-By-Niklaus-Wirth/blob/master/README.md" style="text-decoration:none;">Publications by Niklaus Wirth</a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-research-papers-on-Data-Structures/blob/master/README.md" style="text-decoration:none;">Must read research papers on Data Structures </a></b></li>
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Ten-Trending-Academic-Papers-on-the-Future-of-Computer-Vision/blob/master/README.md" style="text-decoration:none;">Ten Trending Academic Papers on the Future of Computer Vision </a></b></li>
