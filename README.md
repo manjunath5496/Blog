@@ -55,6 +55,7 @@
        <li><b><a target="_blank" href="https://github.com/manjunath5496/5-Must-read-Papers-on-Product-Categorization-for-Data-Scientists/blob/master/README.md" style="text-decoration:none;">5 Must-read Papers on Product Categorization for Data Scientists</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-cell-biology-papers/blob/master/README.md" style="text-decoration:none;">Top 5 Cell Biology Papers</a></b></li> 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Neuro-AI-Papers/blob/master/README.md" style="text-decoration:none;">Neuro AI Papers</a></b></li>  
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Max-Tegmark-Publications/blob/master/README.md" style="text-decoration:none;">Max Tegmark Publications</a></b></li> 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Lectures/blob/master/README.md" style="text-decoration:none;">Chemistry Lectures</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/README.md" style="text-decoration:none;">Key Papers in Deep RL</a></b></li>      
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Cited-Papers-Quantum-Computers/blob/master/README.md" style="text-decoration:none;">Most Cited Papers: Quantum Computers</a></b></li>  
