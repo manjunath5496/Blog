@@ -173,7 +173,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-heat-engine-technology/blob/master/README.md" style="text-decoration:none;"> Timeline of heat engine technology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-temperature-and-pressure-measurement-technology/blob/master/README.md" style="text-decoration:none;"> Timeline of temperature and pressure measurement technology</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-social-psychology-theories/blob/master/README.md" style="text-decoration:none;"> List of social psychology theories</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-hydrogen-technologies/blob/master/README.md" style="text-decoration:none;"> Timeline of hydrogen technologies</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-low-temperature-technology/blob/master/README.md" style="text-decoration:none;">Timeline of low temperature technology</a></li>
 
