@@ -211,7 +211,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-algorithms/blob/master/README.md" style="text-decoration:none;"> Timeline of algorithms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-information-theory/blob/master/README.md" style="text-decoration:none;"> Timeline of information theory</a></li>
  
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-white-dwarfs-neutron-stars-and-supernovae/blob/master/README.md" style="text-decoration:none;"> Timeline of white dwarfs, neutron stars, and supernovae</a></li>
  
  
  
