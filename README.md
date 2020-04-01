@@ -203,7 +203,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-knowledge-about-the-interstellar-and-intergalactic-medium/blob/master/README.md" style="text-decoration:none;"> Timeline of knowledge about the interstellar and intergalactic medium</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-cosmic-microwave-background-astronomy/blob/master/README.md" style="text-decoration:none;"> Timeline of cosmic microwave background astronomy</a></li>
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Russian-astronomers-and-astrophysicists/blob/master/README.md" style="text-decoration:none;"> List of Russian astronomers and astrophysicists</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-stellar-astronomy/blob/master/README.md" style="text-decoration:none;"> Timeline of stellar astronomy</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-astronomy/blob/master/README.md" style="text-decoration:none;">Timeline of astronomy</a></li>
