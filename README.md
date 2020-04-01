@@ -221,7 +221,8 @@
    
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Jewish-economists/blob/master/README.md" style="text-decoration:none;">List of Jewish economists</a></li>  
    
-   
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Ten-Japanese-Great-Inventors/blob/master/README.md" style="text-decoration:none;">Ten Japanese Great Inventors</a></li>    
    
    
  </ul>
