@@ -165,7 +165,11 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-materials-technology/blob/master/README.md" style="text-decoration:none;"> Timeline of materials technology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-time-measurement-technology/blob/master/README.md" style="text-decoration:none;"> Timeline of time measurement technology</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-scientific-discoveries/blob/master/README.md" style="text-decoration:none;"> Timeline of scientific discoveries</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-prehistory/blob/master/README.md" style="text-decoration:none;">Timeline of human prehistory</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-epochs-in-cosmology/blob/master/README.md" style="text-decoration:none;"> Timeline of epochs in cosmology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-cosmological-theories/blob/master/README.md" style="text-decoration:none;"> Timeline of cosmological theories</a></li>
 
     
  </ul>
