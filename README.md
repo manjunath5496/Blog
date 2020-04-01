@@ -225,7 +225,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Ten-Japanese-Great-Inventors/blob/master/README.md" style="text-decoration:none;">Ten Japanese Great Inventors</a></li>    
    
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Russian-physicists/blob/master/README.md" style="text-decoration:none;">List of Russian physicists</a></li>  
-   
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-German-inventors-and-discoverers/blob/master/README.md" style="text-decoration:none;">List of German inventors and discoverers</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/README.md" style="text-decoration:none;">List of Russian mathematicians</a></li>    
  </ul>
  </br>
