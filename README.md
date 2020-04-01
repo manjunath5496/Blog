@@ -28,8 +28,23 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-DL-Papers/blob/master/README.md" style="text-decoration:none;">Genomics DL Papers</a></li>  
    <li><a target="_blank" href="https://github.com/manjunath5496/Data-Mining-with-Mind-Maps-Papers/blob/master/README.md" style="text-decoration:none;">Data Mining with Mind Maps (Papers)</a></li>     
         <li><a target="_blank" href="https://github.com/manjunath5496/Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Science Research Papers</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/README.md" style="text-decoration:none;">3D Reconstruction Paper List</a></li>       
-           <li><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Physics ML Papers</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/README.md" style="text-decoration:none;">3D Reconstruction Paper List</a></li>   
+    
+    
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-probability-and-statistics/blob/master/README.md" style="text-decoration:none;">Timeline of probability and statistics</a></li>   
+      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-classical-mechanics/blob/master/README.md" style="text-decoration:none;">Timeline of classical mechanics</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-particle-discoveries/blob/master/README.md" style="text-decoration:none;">Timeline of particle discoveries</a></li>     
+        <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-fundamental-physics-discoveries/blob/master/README.md" style="text-decoration:none;">Timeline of fundamental physics discoveries</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-microscope-technology/blob/master/README.md" style="text-decoration:none;">Timeline of microscope technology</a></li>    
+    
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-telecommunication/blob/master/README.md" style="text-decoration:none;">Timeline of telecommunication</a></li>   
+      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-rocket-and-missile-technology/blob/master/README.md" style="text-decoration:none;">Timeline of rocket and missile technology</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-states-of-matter-and-phase-transitions/blob/master/README.md" style="text-decoration:none;">Timeline of states of matter and phase transitions</a></li>     
+        <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-postal-history/blob/master/README.md" style="text-decoration:none;">Timeline of postal history</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-lighting-technology/blob/master/README.md" style="text-decoration:none;">Timeline of lighting technology</a></li>     
+    
+    
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Physics ML Papers</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Robotics ML Papers </a></li>          
      <li><a target="_blank" href="https://github.com/manjunath5496/Network-Architecture-Search-Papers/blob/master/README.md" style="text-decoration:none;">Network Architecture Search (NAS) Papers</a></li>          
  <li><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/README.md" style="text-decoration:none;">Astronomy ML Papers</a></li>          
