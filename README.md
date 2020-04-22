@@ -280,6 +280,66 @@
                <a href="https://github.com/manjunath5496/Blog/blob/master/rmi(5).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
  
             
+</br>
+<h2> 31 of the Best Biology Books of All Time</h2>
+<ul>
 
- 
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(1).pdf" style="text-decoration:none;">Soft clay behaviour: analysis and assessment</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(2).pdf" style="text-decoration:none;">Clay Sedimentology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(3).pdf" style="text-decoration:none;">Landslides in Sensitive Clays: From Research to Implementation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(4).pdf" style="text-decoration:none;">The prediction and back analysis of excavation behaviour in Oxford Clay</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(5).pdf" style="text-decoration:none;">Calcined Clays for Sustainable Concrete</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(6).pdf" style="text-decoration:none;">Handbook of Clay Science</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(7).pdf" style="text-decoration:none;">Structural Clay Products</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(8).pdf" style="text-decoration:none;">Barrier Properties of Polymer Clay Nanocomposites</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(9).pdf" style="text-decoration:none;">Fundamentals of Polymer–Clay Nanocomposites</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(10).pdf" style="text-decoration:none;">Clays and Clay Minerals</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(11).pdf" style="text-decoration:none;">Clays, Clay Minerals and Ceramic Materials Based on Clay Minerals</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(12).pdf" style="text-decoration:none;">Introduction to Zeolite Science and Practice</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(13).pdf" style="text-decoration:none;">Dynamic Response and Deformation Characteristic of Saturated Soft Clay under Subway Vehicle Loading</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(14).pdf" style="text-decoration:none;"> Plant nutrition and soil fertility manual</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(15).pdf" style="text-decoration:none;">Clay's Handbook of Environmental Health</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(16).pdf" style="text-decoration:none;">Properties and Applications of Polymer Nanocomposites</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(17).pdf" style="text-decoration:none;">Experimental study of Hollow Fibre Reinforced Polymer Piles in soft clay</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(18).pdf" style="text-decoration:none;">Coagulation and Flocculation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(19).pdf" style="text-decoration:none;">Fire Retardancy Behavior of Polymer/Clay Nanocomposites</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(20).pdf" style="text-decoration:none;">Laboratory and numerical modelling of natural clays</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(21).pdf" style="text-decoration:none;">Clays</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(22).pdf" style="text-decoration:none;">Advances in Soil Science: Volume 9</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(23).pdf" style="text-decoration:none;">Clay mineralogy and chemistry of soils formed in volcanic material in diverse climatic regions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(24).pdf" style="text-decoration:none;">Clay mineral cements in sandstones</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(25).pdf" style="text-decoration:none;">Environmental Interactions of Clays: Clays and the Environment</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(26).pdf" style="text-decoration:none;">The Science of Clays: Applications in Industry, Engineering and Environment</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(27).pdf" style="text-decoration:none;">Greenhouse Gases and Clay Minerals</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(28).pdf" style="text-decoration:none;">Clay Swelling and Colloid Stability</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(29).pdf" style="text-decoration:none;">Silica and Clay Dispersed Polymer Nanocomposites</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(30).pdf" style="text-decoration:none;">Geotechnical modelling of a deep tunnel excavation in the Boom Clay formation</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(31).pdf" style="text-decoration:none;">Clays in the Critical Zone</a></li>
+                            
+
+</ul> 
+ </br>
  
