@@ -281,63 +281,67 @@
  
             
 </br>
-<h2> 31 of the Best Biology Books of All Time</h2>
+
+  <p><strong>31 of the Best Biology Books of All Time:   </strong></p>
+ 
+ <hr>
+
 <ul>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(1).pdf" style="text-decoration:none;">Soft clay behaviour: analysis and assessment</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(1).pdf" style="text-decoration:none;">Are We Smart Enough to Know How Smart Animals Are?</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(2).pdf" style="text-decoration:none;">Clay Sedimentology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(2).pdf" style="text-decoration:none;">Behave: The Biology of Humans at Our Best and Worst</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(3).pdf" style="text-decoration:none;">Landslides in Sensitive Clays: From Research to Implementation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(4).pdf" style="text-decoration:none;">The prediction and back analysis of excavation behaviour in Oxford Clay</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(5).pdf" style="text-decoration:none;">Calcined Clays for Sustainable Concrete</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(3).pdf" style="text-decoration:none;">The Lives of a Cell: Notes of a Biology Watcher</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(4).pdf" style="text-decoration:none;">The Voyage of the Beagle</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(5).pdf" style="text-decoration:none;">Darwin's Dangerous Idea: Evolution and the Meanings of Life</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(6).pdf" style="text-decoration:none;">Handbook of Clay Science</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(6).pdf" style="text-decoration:none;">Endless Forms Most Beautiful</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(7).pdf" style="text-decoration:none;">Structural Clay Products</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(7).pdf" style="text-decoration:none;">Gut: The Inside Story of our Body's Most Underrated Organ</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(8).pdf" style="text-decoration:none;">Barrier Properties of Polymer Clay Nanocomposites</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(9).pdf" style="text-decoration:none;">Fundamentals of Polymer–Clay Nanocomposites</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(10).pdf" style="text-decoration:none;">Clays and Clay Minerals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(8).pdf" style="text-decoration:none;">I Contain Multitudes: The Microbes Within Us and a Grander View of Life</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(9).pdf" style="text-decoration:none;"Genome: The Autobiography of a Species in 23 Chapters</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(10).pdf" style="text-decoration:none;">On the Origin of Species</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(11).pdf" style="text-decoration:none;">Clays, Clay Minerals and Ceramic Materials Based on Clay Minerals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(11).pdf" style="text-decoration:none;">The Greatest Show on Earth: The Evidence for Evolution</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(12).pdf" style="text-decoration:none;">Introduction to Zeolite Science and Practice</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(12).pdf" style="text-decoration:none;">Silent Spring</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(13).pdf" style="text-decoration:none;">Dynamic Response and Deformation Characteristic of Saturated Soft Clay under Subway Vehicle Loading</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(14).pdf" style="text-decoration:none;"> Plant nutrition and soil fertility manual</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(15).pdf" style="text-decoration:none;">Clay's Handbook of Environmental Health</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(13).pdf" style="text-decoration:none;">Spillover: Animal Infections and the Next Human Pandemic</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(14).pdf" style="text-decoration:none;"> Stiff: The Curious Life of Human Cadavers</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(15).pdf" style="text-decoration:none;">The Ancestor's Tale: A Pilgrimage to the Dawn of Life</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(16).pdf" style="text-decoration:none;">Properties and Applications of Polymer Nanocomposites</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(16).pdf" style="text-decoration:none;">The Biology of Desire: Why Addiction Is Not a Disease</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(17).pdf" style="text-decoration:none;">Experimental study of Hollow Fibre Reinforced Polymer Piles in soft clay</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(17).pdf" style="text-decoration:none;">The Double Helix: A Personal Account of the Discovery of the Structure of DNA</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(18).pdf" style="text-decoration:none;">Coagulation and Flocculation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(19).pdf" style="text-decoration:none;">Fire Retardancy Behavior of Polymer/Clay Nanocomposites</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(20).pdf" style="text-decoration:none;">Laboratory and numerical modelling of natural clays</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(18).pdf" style="text-decoration:none;">The Emperor of All Maladies: A Biography of Cancer </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(19).pdf" style="text-decoration:none;">The Gene: An Intimate History</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(20).pdf" style="text-decoration:none;">The Hidden Life of Trees: What They Feel, How They Communicate – Discoveries from a Secret World</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(21).pdf" style="text-decoration:none;">Clays</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(21).pdf" style="text-decoration:none;">The Meaning of Human Existence</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(22).pdf" style="text-decoration:none;">Advances in Soil Science: Volume 9</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(22).pdf" style="text-decoration:none;">The Mismeasure of Man</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(23).pdf" style="text-decoration:none;">Clay mineralogy and chemistry of soils formed in volcanic material in diverse climatic regions</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(24).pdf" style="text-decoration:none;">Clay mineral cements in sandstones</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(25).pdf" style="text-decoration:none;">Environmental Interactions of Clays: Clays and the Environment</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(23).pdf" style="text-decoration:none;">The Selfish Gene</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(24).pdf" style="text-decoration:none;">The Sixth Extinction: An Unnatural History</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(25).pdf" style="text-decoration:none;">The Social Conquest of Earth</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(26).pdf" style="text-decoration:none;">The Science of Clays: Applications in Industry, Engineering and Environment</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(26).pdf" style="text-decoration:none;">The Story of the Human Body: Evolution, Health, and Disease</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(27).pdf" style="text-decoration:none;">Greenhouse Gases and Clay Minerals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(27).pdf" style="text-decoration:none;">The Vital Question: Why Is Life the Way It Is?</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(28).pdf" style="text-decoration:none;">Clay Swelling and Colloid Stability</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(29).pdf" style="text-decoration:none;">Silica and Clay Dispersed Polymer Nanocomposites</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(30).pdf" style="text-decoration:none;">Geotechnical modelling of a deep tunnel excavation in the Boom Clay formation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(28).pdf" style="text-decoration:none;">The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(29).pdf" style="text-decoration:none;">The Immortal Life of Henrietta Lacks</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(30).pdf" style="text-decoration:none;">What is life?</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(31).pdf" style="text-decoration:none;">Clays in the Critical Zone</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/bpl(31).pdf" style="text-decoration:none;">The Superorganism – The Beauty, Elegance and Strangeness of Insect Societies</a></li>
                             
 
 </ul> 
