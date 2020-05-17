@@ -19,6 +19,7 @@
         <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-Papers/blob/master/README.md" style="text-decoration:none;">Software Engineering Papers</a></li>  
      <li><a target="_blank" href="https://github.com/manjunath5496/Finance-ML-Papers/blob/master/README.md" style="text-decoration:none;">Finance ML Papers</a></li>   
        <li><a target="_blank" href="https://github.com/manjunath5496/Super-Resolution-Papers/blob/master/README.md" style="text-decoration:none;">Super Resolution Papers</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computational-physics/blob/master/README.md" style="text-decoration:none;">Timeline of computational physics</a></li>       
       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-medicine-and-medical-technology/blob/master/README.md" style="text-decoration:none;">Timeline of medicine and medical technology</a></li>       
         <li><a target="_blank" href="https://github.com/manjunath5496/List-of-security-hacking-incidents/blob/master/README.md" style="text-decoration:none;">List of security hacking incidents</a></li>       
      <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/README.md" style="text-decoration:none;">List of important publications in mathematics</a></li>        
