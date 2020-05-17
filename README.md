@@ -15,7 +15,8 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/README.md" style="text-decoration:none;">Phytochemicals</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-crystallography/blob/master/README.md" style="text-decoration:none;">Timeline of crystallography</a></li>     
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/README.md" style="text-decoration:none;">Timeline of science and engineering in the Islamic world</a></li>      
-        <li><a target="_blank" href="https://github.com/manjunath5496/Robust-ML-Papers/blob/master/README.md" style="text-decoration:none;">Robust ML Papers</a></li> 
+        <li><a target="_blank" href="https://github.com/manjunath5496/Robust-ML-Papers/blob/master/README.md" style="text-decoration:none;">Robust ML Papers</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-nuclear-fusion/blob/master/README.md" style="text-decoration:none;">Timeline of nuclear fusion</a></li>       
       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-astronomical-maps-catalogs-and-surveys/blob/master/README.md" style="text-decoration:none;">Timeline of astronomical maps, catalogs, and surveys</a></li>       
         <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-Papers/blob/master/README.md" style="text-decoration:none;">Software Engineering Papers</a></li>  
      <li><a target="_blank" href="https://github.com/manjunath5496/Finance-ML-Papers/blob/master/README.md" style="text-decoration:none;">Finance ML Papers</a></li>   
