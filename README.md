@@ -30,7 +30,8 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Papers on Deep Vision</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Papers/blob/master/README.md" style="text-decoration:none;">Computer Science Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/README.md" style="text-decoration:none;">Inspirational Quotes From Famous Scientists</a></li>    
-     <li><a target="_blank" href="https://github.com/manjunath5496/Functional-Programming-Papers/blob/master/README.md" style="text-decoration:none;">Functional Programming Papers</a></li>    
+     <li><a target="_blank" href="https://github.com/manjunath5496/Functional-Programming-Papers/blob/master/README.md" style="text-decoration:none;">Functional Programming Papers</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-the-Manhattan-Project/blob/master/README.md" style="text-decoration:none;">Timeline of the Manhattan Project</a></li>      
       <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Physics-Papers/blob/master/README.md" style="text-decoration:none;">Quantum Physics Papers</a></li> 
         <li><a target="_blank" href="https://github.com/manjunath5496/Interactive-Labeling-Algorithm-Papers/blob/master/README.md" style="text-decoration:none;">Interactive Labeling Algorithm Papers</a></li>   
       <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-DL-Papers/blob/master/README.md" style="text-decoration:none;">Genomics DL Papers</a></li> 
