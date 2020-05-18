@@ -25,7 +25,8 @@
         <li><a target="_blank" href="https://github.com/manjunath5496/Robust-ML-Papers/blob/master/README.md" style="text-decoration:none;">Robust ML Papers</a></li>
         <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-class-field-theory/blob/master/README.md" style="text-decoration:none;">Timeline of class field theory</a></li>       
       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-extinctions-in-the-Holocene/blob/master/README.md" style="text-decoration:none;">Timeline of extinctions in the Holocene</a></li>       
-       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-physical-chemistry/blob/master/README.md" style="text-decoration:none;">Timeline of physical chemistry</a></li>      
+       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-physical-chemistry/blob/master/README.md" style="text-decoration:none;">Timeline of physical chemistry</a></li>
+       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-algebra/blob/master/README.md" style="text-decoration:none;">Timeline of algebra</a></li>        
      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-nuclear-fusion/blob/master/README.md" style="text-decoration:none;">Timeline of nuclear fusion</a></li> 
      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-chemistry/blob/master/README.md" style="text-decoration:none;">Timeline of chemistry</a></li>     
       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-astronomical-maps-catalogs-and-surveys/blob/master/README.md" style="text-decoration:none;">Timeline of astronomical maps, catalogs, and surveys</a></li>       
