@@ -129,7 +129,8 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-Read-Papers-on-GANs/blob/master/README.md" style="text-decoration:none;">Must Read Papers on GANs </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Maritime-timeline/blob/master/README.md" style="text-decoration:none;">Maritime timeline </a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/Blockchain-Papers/blob/master/README.md" style="text-decoration:none;">Blockchain Papers </a></li>
-     <li><a target="_blank" href="https://github.com/manjunath5496/Compilers-Papers/blob/master/README.md" style="text-decoration:none;">Compilers Papers </a></li>   
+     <li><a target="_blank" href="https://github.com/manjunath5496/Compilers-Papers/blob/master/README.md" style="text-decoration:none;">Compilers Papers </a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-mathematical-logic/blob/master/README.md" style="text-decoration:none;">Timeline of mathematical logic</a></li>       
 <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers-on-Programming-Languages/blob/master/README.md" style="text-decoration:none;">Research Papers on Programming Languages </a></li>    
        <li><a target="_blank" href="https://github.com/manjunath5496/The-5-Best-Data-Science-Books-for-Non-Techies/blob/master/README.md" style="text-decoration:none;">The 5 Best Data Science Books for Non-Techies </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/The-top-35-most-cited-research-papers-of-all-time/blob/master/README.md" style="text-decoration:none;">The top 35 most cited research papers of all time </a></li> 
