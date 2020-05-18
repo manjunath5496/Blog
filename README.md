@@ -32,7 +32,8 @@
      <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/README.md" style="text-decoration:none;">List of important publications in mathematics</a></li>        
         <li><a target="_blank" href="https://github.com/manjunath5496/Church-Turing-Thesis-Research-Papers/blob/master/README.md" style="text-decoration:none;">Church Turing Thesis Research Papers</a></li>       
           <li><a target="_blank" href="https://github.com/manjunath5496/Publications-By-Niklaus-Wirth/blob/master/README.md" style="text-decoration:none;">Publications by Niklaus Wirth</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-psychotherapy/blob/master/README.md" style="text-decoration:none;">Timeline of psychotherapy</a></li>        
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-psychotherapy/blob/master/README.md" style="text-decoration:none;">Timeline of psychotherapy</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-chemical-element-discoveries/blob/master/README.md" style="text-decoration:none;">Timeline of chemical element discoveries</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-research-papers-on-Data-Structures/blob/master/README.md" style="text-decoration:none;">Must read research papers on Data Structures </a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Ten-Trending-Academic-Papers-on-the-Future-of-Computer-Vision/blob/master/README.md" style="text-decoration:none;">Ten Trending Academic Papers on the Future of Computer Vision </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Papers on Deep Vision</a></li>
