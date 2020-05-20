@@ -1465,3 +1465,151 @@
 </tbody>
 </table>
 </br>
+<table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner mw-made-collapsible">
+<tbody>
+<tr style="height: 26px;">
+<th class="navbox-title" style="height: 26px;" colspan="3" scope="col"><span class="mw-collapsible-toggle mw-collapsible-toggle-default" tabindex="0"><a class="mw-collapsible-text">hide</a></span>
+<div id="History_of_science"><a title="" href="https://en.wikipedia.org/wiki/History_of_science">History of science</a></div>
+</th>
+</tr>
+<tr style="height: 61px;">
+<th class="navbox-group" style="height: 61px;" scope="row">Background</th>
+<td class="navbox-list navbox-odd" style="height: 61px;">
+<div>
+<ul>
+<li><a title="Sociology of the history of science" href="https://en.wikipedia.org/wiki/Sociology_of_the_history_of_science">Theories and sociology</a></li>
+<li><a title="Historiography of science" href="https://en.wikipedia.org/wiki/Historiography_of_science">Historiography</a></li>
+<li><a title="History of pseudoscience" href="https://en.wikipedia.org/wiki/History_of_pseudoscience">Pseudoscience</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" style="height: 878px;" rowspan="8">&nbsp;</td>
+</tr>
+<tr style="height: 100px;">
+<th class="navbox-group" style="height: 100px;" scope="row">By era</th>
+<td class="navbox-list navbox-even" style="height: 100px;">
+<div>
+<ul>
+<li><a title="History of science in early cultures" href="https://en.wikipedia.org/wiki/History_of_science_in_early_cultures">Early cultures</a></li>
+<li><a title="History of science in classical antiquity" href="https://en.wikipedia.org/wiki/History_of_science_in_classical_antiquity">Classical Antiquity</a></li>
+<li><a title="Science in the medieval Islamic world" href="https://en.wikipedia.org/wiki/Science_in_the_medieval_Islamic_world">The Golden Age of Islam</a></li>
+<li><a title="History of science in the Renaissance" href="https://en.wikipedia.org/wiki/History_of_science_in_the_Renaissance">Renaissance</a></li>
+<li><a title="Scientific Revolution" href="https://en.wikipedia.org/wiki/Scientific_Revolution">Scientific Revolution</a></li>
+<li><a title="Romanticism in science" href="https://en.wikipedia.org/wiki/Romanticism_in_science">Romanticism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 113px;">
+<th class="navbox-group" style="height: 113px;" scope="row">By culture</th>
+<td class="navbox-list navbox-odd" style="height: 113px;">
+<div>
+<ul>
+<li><a title="History of science and technology in Africa" href="https://en.wikipedia.org/wiki/History_of_science_and_technology_in_Africa">African</a></li>
+<li><a title="Byzantine science" href="https://en.wikipedia.org/wiki/Byzantine_science">Byzantine</a></li>
+<li><a title="European science in the Middle Ages" href="https://en.wikipedia.org/wiki/European_science_in_the_Middle_Ages">Medieval European</a></li>
+<li><a title="History of science and technology in China" href="https://en.wikipedia.org/wiki/History_of_science_and_technology_in_China">Chinese</a></li>
+<li><a title="History of science and technology in the Indian subcontinent" href="https://en.wikipedia.org/wiki/History_of_science_and_technology_in_the_Indian_subcontinent">Indian</a></li>
+<li><a title="Science in the medieval Islamic world" href="https://en.wikipedia.org/wiki/Science_in_the_medieval_Islamic_world">Medieval Islamic</a></li>
+<li><a title="History of science and technology in Korea" href="https://en.wikipedia.org/wiki/History_of_science_and_technology_in_Korea">Korean</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 152px;">
+<th class="navbox-group" style="height: 152px;" scope="row"><a class="mw-redirect" title="History of natural science" href="https://en.wikipedia.org/wiki/History_of_natural_science">Natural sciences</a></th>
+<td class="navbox-list navbox-even" style="height: 152px;">
+<div>
+<ul>
+<li><a title="History of astronomy" href="https://en.wikipedia.org/wiki/History_of_astronomy">Astronomy</a></li>
+<li><a title="History of biology" href="https://en.wikipedia.org/wiki/History_of_biology">Biology</a></li>
+<li><a title="History of botany" href="https://en.wikipedia.org/wiki/History_of_botany">Botany</a></li>
+<li><a title="History of chemistry" href="https://en.wikipedia.org/wiki/History_of_chemistry">Chemistry</a></li>
+<li><a title="History of ecology" href="https://en.wikipedia.org/wiki/History_of_ecology">Ecology</a></li>
+<li><a title="History of evolutionary thought" href="https://en.wikipedia.org/wiki/History_of_evolutionary_thought">Evolution</a></li>
+<li><a title="History of geology" href="https://en.wikipedia.org/wiki/History_of_geology">Geology</a></li>
+<li><a title="History of geophysics" href="https://en.wikipedia.org/wiki/History_of_geophysics">Geophysics</a></li>
+<li><a title="History of paleontology" href="https://en.wikipedia.org/wiki/History_of_paleontology">Paleontology</a></li>
+<li><a title="History of physics" href="https://en.wikipedia.org/wiki/History_of_physics">Physics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 126px;">
+<th class="navbox-group" style="height: 126px;" scope="row"><a title="History of mathematics" href="https://en.wikipedia.org/wiki/History_of_mathematics">Mathematics</a></th>
+<td class="navbox-list navbox-odd" style="height: 126px;">
+<div>
+<ul>
+<li><a title="History of algebra" href="https://en.wikipedia.org/wiki/History_of_algebra">Algebra</a></li>
+<li><a title="History of calculus" href="https://en.wikipedia.org/wiki/History_of_calculus">Calculus</a></li>
+<li><a title="History of combinatorics" href="https://en.wikipedia.org/wiki/History_of_combinatorics">Combinatorics</a></li>
+<li><a title="History of geometry" href="https://en.wikipedia.org/wiki/History_of_geometry">Geometry</a></li>
+<li><a title="History of logic" href="https://en.wikipedia.org/wiki/History_of_logic">Logic</a></li>
+<li><a title="History of probability" href="https://en.wikipedia.org/wiki/History_of_probability">Probability</a></li>
+<li><a title="History of statistics" href="https://en.wikipedia.org/wiki/History_of_statistics">Statistics</a></li>
+<li><a title="History of trigonometry" href="https://en.wikipedia.org/wiki/History_of_trigonometry">Trigonometry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 126px;">
+<th class="navbox-group" style="height: 126px;" scope="row"><a title="History of the social sciences" href="https://en.wikipedia.org/wiki/History_of_the_social_sciences">Social sciences</a></th>
+<td class="navbox-list navbox-even" style="height: 126px;">
+<div>
+<ul>
+<li><a title="History of anthropology" href="https://en.wikipedia.org/wiki/History_of_anthropology">Anthropology</a></li>
+<li><a title="History of economic thought" href="https://en.wikipedia.org/wiki/History_of_economic_thought">Economics</a></li>
+<li><a title="History of geography" href="https://en.wikipedia.org/wiki/History_of_geography">Geography</a></li>
+<li><a title="History of linguistics" href="https://en.wikipedia.org/wiki/History_of_linguistics">Linguistics</a></li>
+<li><a title="History of political science" href="https://en.wikipedia.org/wiki/History_of_political_science">Political science</a></li>
+<li><a title="History of psychology" href="https://en.wikipedia.org/wiki/History_of_psychology">Psychology</a></li>
+<li><a title="History of sociology" href="https://en.wikipedia.org/wiki/History_of_sociology">Sociology</a></li>
+<li><a title="History of sustainability" href="https://en.wikipedia.org/wiki/History_of_sustainability">Sustainability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 74px;">
+<th class="navbox-group" style="height: 74px;" scope="row"><a title="History of technology" href="https://en.wikipedia.org/wiki/History_of_technology">Technology</a></th>
+<td class="navbox-list navbox-odd" style="height: 74px;">
+<div>
+<ul>
+<li><a title="History of agricultural science" href="https://en.wikipedia.org/wiki/History_of_agricultural_science">Agricultural science</a></li>
+<li><a title="History of computer science" href="https://en.wikipedia.org/wiki/History_of_computer_science">Computer science</a></li>
+<li><a title="History of materials science" href="https://en.wikipedia.org/wiki/History_of_materials_science">Materials science</a></li>
+<li><a title="History of engineering" href="https://en.wikipedia.org/wiki/History_of_engineering">Engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 126px;">
+<th class="navbox-group" style="height: 126px;" scope="row"><a title="History of medicine" href="https://en.wikipedia.org/wiki/History_of_medicine">Medicine</a></th>
+<td class="navbox-list navbox-even" style="height: 126px;">
+<div>
+<ul>
+<li><a title="History of medicine" href="https://en.wikipedia.org/wiki/History_of_medicine">Human medicine</a></li>
+<li><a class="mw-redirect" title="History of veterinary medicine" href="https://en.wikipedia.org/wiki/History_of_veterinary_medicine">Veterinary medicine</a></li>
+<li><a title="History of anatomy" href="https://en.wikipedia.org/wiki/History_of_anatomy">Anatomy</a></li>
+<li><a title="History of neuroscience" href="https://en.wikipedia.org/wiki/History_of_neuroscience">Neuroscience</a></li>
+<li><a title="History of neurology and neurosurgery" href="https://en.wikipedia.org/wiki/History_of_neurology_and_neurosurgery">Neurology and neurosurgery&nbsp;</a></li>
+<li><a class="mw-redirect" title="History of nutrition" href="https://en.wikipedia.org/wiki/History_of_nutrition">Nutrition</a></li>
+<li><a title="History of pathology" href="https://en.wikipedia.org/wiki/History_of_pathology">Pathology</a></li>
+<li><a title="History of pharmacy" href="https://en.wikipedia.org/wiki/History_of_pharmacy">Pharmacy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 72px;">
+<td class="navbox-abovebelow hlist" style="height: 72px;" colspan="3">
+<div>
+<ul>
+<li><a title="List of timelines" href="https://en.wikipedia.org/wiki/List_of_timelines#Science">Timelines</a></li>
+<li><span class="nowrap"><a title="Portal:History of science" href="https://en.wikipedia.org/wiki/Portal:History_of_science">Portal</a></span></li>
+<li><span class="nowrap"><a title="Category:History of science" href="https://en.wikipedia.org/wiki/Category:History_of_science">Category</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
