@@ -1468,7 +1468,7 @@
 <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner mw-made-collapsible">
 <tbody>
 <tr style="height: 26px;">
-<th class="navbox-title" style="height: 26px;" colspan="3" scope="col"><span class="mw-collapsible-toggle mw-collapsible-toggle-default" tabindex="0"><a class="mw-collapsible-text">hide</a></span>
+<th class="navbox-title" style="height: 26px;" colspan="3" scope="col">
 <div id="History_of_science"><a title="" href="https://en.wikipedia.org/wiki/History_of_science">History of science</a></div>
 </th>
 </tr>
