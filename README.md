@@ -28,6 +28,7 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-electromagnetism-and-classical-optics/blob/master/README.md" style="text-decoration:none;">Timeline of electromagnetism and classical optics</a></li>    
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/README.md" style="text-decoration:none;">Timeline of science and engineering in the Islamic world</a></li>      
         <li><a target="_blank" href="https://github.com/manjunath5496/Robust-ML-Papers/blob/master/README.md" style="text-decoration:none;">Robust ML Papers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-planetariums/blob/master/README.md" style="text-decoration:none;">Timeline of planetariums</a></li>        
         <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-class-field-theory/blob/master/README.md" style="text-decoration:none;">Timeline of class field theory</a></li>       
       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-extinctions-in-the-Holocene/blob/master/README.md" style="text-decoration:none;">Timeline of extinctions in the Holocene</a></li>       
        <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-physical-chemistry/blob/master/README.md" style="text-decoration:none;">Timeline of physical chemistry</a></li>
