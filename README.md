@@ -24,7 +24,8 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-the-nuclear-program-of-Iran/blob/master/README.md" style="text-decoration:none;">Timeline of the nuclear program of Iran</a></li>  
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-snowflake-research/blob/master/README.md" style="text-decoration:none;">Timeline of snowflake research</a></li>  
    <li><a target="_blank" href="https://github.com/manjunath5496/21-hottest-research-papers-on-Computer-Vision-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">21 hottest research papers on Computer Vision and Machine Learning </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/README.md" style="text-decoration:none;">The 100 Most Influential Scientists of All Time </a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/README.md" style="text-decoration:none;">The 100 Most Influential Scientists of All Time </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-nuclear-weapons-development/blob/master/README.md" style="text-decoration:none;">Nuclear Science and Engineering [MIT Lectures]</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Papers-by-John-McCarthy/blob/master/README.md" style="text-decoration:none;">Papers by John McCarthy</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-electrical-and-electronic-engineering/blob/master/README.md" style="text-decoration:none;">Timeline of electrical and electronic engineering</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-luminiferous-aether/blob/master/README.md" style="text-decoration:none;">Timeline of luminiferous aether</a></li>
