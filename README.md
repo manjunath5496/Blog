@@ -1706,7 +1706,7 @@
 </tr>
 <tr>
 <td>3.</td>
-<td align="left"><a title="Earth" href="https://en.wikipedia.org/wiki/Earth">Earth</a>&thinsp;<sup>(a)</sup></td>
+<td align="left"><a title="Earth" href="https://en.wikipedia.org/wiki/Earth">Earth</a>&thinsp;</td>
 <td>1.00</td>
 <td>1.00</td>
 <td>1.00</td>
