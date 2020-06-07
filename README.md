@@ -1645,3 +1645,155 @@
 </tbody>
 </table>
 </br>
+<h3><span id="Planetary_attributes" class="mw-headline">Planetary attributes</span></h3>
+<table class="wikitable sortable jquery-tablesorter">
+<thead>
+<tr>
+<th class="headerSort" tabindex="0" title="Sort ascending">&nbsp;</th>
+<th class="unsortable">Name</th>
+<th class="headerSort" tabindex="0" title="Sort ascending">
+<p>Equatorial<br />diameter</p>
+<p><strong>[Measured relative to Earth]</strong></p>
+</th>
+<th class="headerSort" tabindex="0" title="Sort ascending">
+<p><a title="Planetary mass" href="https://en.wikipedia.org/wiki/Planetary_mass">Mass</a>&thinsp;</p>
+<p>[Measured relative to Earth]</p>
+</th>
+<th class="headerSort" tabindex="0" title="Sort ascending"><a class="mw-redirect" title="Semi-major axis" href="https://en.wikipedia.org/wiki/Semi-major_axis">Semi-major axis</a>&nbsp;(<a title="Astronomical unit" href="https://en.wikipedia.org/wiki/Astronomical_unit">AU</a>)</th>
+<th class="headerSort" tabindex="0" title="Sort ascending">
+<p><a title="Orbital period" href="https://en.wikipedia.org/wiki/Orbital_period">Orbital period</a><br />(years)&thinsp;</p>
+<p>[Measured relative to Earth]</p>
+</th>
+<th class="headerSort" tabindex="0" title="Sort ascending"><a title="Orbital inclination" href="https://en.wikipedia.org/wiki/Orbital_inclination">Inclination<br />to Sun's equator</a>&nbsp;(&deg;)</th>
+<th class="headerSort" tabindex="0" title="Sort ascending"><a title="Orbital eccentricity" href="https://en.wikipedia.org/wiki/Orbital_eccentricity">Orbital<br />eccentricity</a></th>
+<th class="headerSort" tabindex="0" title="Sort ascending"><a title="Rotation period" href="https://en.wikipedia.org/wiki/Rotation_period">Rotation period</a><br />(days)</th>
+<th class="unsortable">Confirmed<br /><a title="Natural satellite" href="https://en.wikipedia.org/wiki/Natural_satellite">moons</a>&thinsp;</th>
+<th class="headerSort" tabindex="0" title="Sort ascending"><a title="Axial tilt" href="https://en.wikipedia.org/wiki/Axial_tilt">Axial tilt</a>&nbsp;(&deg;)</th>
+<th class="unsortable"><a class="mw-redirect" title="Ring system (astronomy)" href="https://en.wikipedia.org/wiki/Ring_system_(astronomy)">Rings</a></th>
+<th class="unsortable"><a title="Atmosphere" href="https://en.wikipedia.org/wiki/Atmosphere">Atmosphere</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.</td>
+<td align="left"><a title="Mercury (planet)" href="https://en.wikipedia.org/wiki/Mercury_(planet)">Mercury</a></td>
+<td>0.382</td>
+<td>0.06</td>
+<td>0.39</td>
+<td>0.24</td>
+<td>3.38</td>
+<td>0.206</td>
+<td>58.64</td>
+<td>0</td>
+<td>0.04</td>
+<td>no</td>
+<td>minimal</td>
+</tr>
+<tr>
+<td>2.</td>
+<td align="left"><a title="Venus" href="https://en.wikipedia.org/wiki/Venus">Venus</a></td>
+<td>0.949</td>
+<td>0.82</td>
+<td>0.72</td>
+<td>0.62</td>
+<td>3.86</td>
+<td>0.007</td>
+<td>&minus;243.02</td>
+<td>0</td>
+<td>177.36</td>
+<td>no</td>
+<td><a title="Carbon dioxide" href="https://en.wikipedia.org/wiki/Carbon_dioxide">CO<sub>2</sub></a>,&nbsp;<a title="Nitrogen" href="https://en.wikipedia.org/wiki/Nitrogen">N<sub>2</sub></a></td>
+</tr>
+<tr>
+<td>3.</td>
+<td align="left"><a title="Earth" href="https://en.wikipedia.org/wiki/Earth">Earth</a>&thinsp;<sup>(a)</sup></td>
+<td>1.00</td>
+<td>1.00</td>
+<td>1.00</td>
+<td>1.00</td>
+<td>7.25</td>
+<td>0.017</td>
+<td>1.00</td>
+<td><a title="Moon" href="https://en.wikipedia.org/wiki/Moon">1</a></td>
+<td>23.44</td>
+<td>no</td>
+<td>N<sub>2</sub>,&nbsp;<a title="Oxygen" href="https://en.wikipedia.org/wiki/Oxygen">O<sub>2</sub></a>,&nbsp;<a title="Argon" href="https://en.wikipedia.org/wiki/Argon">Ar</a></td>
+</tr>
+<tr>
+<td>4.</td>
+<td align="left"><a title="Mars" href="https://en.wikipedia.org/wiki/Mars">Mars</a></td>
+<td>0.532</td>
+<td>0.11</td>
+<td>1.52</td>
+<td>1.88</td>
+<td>5.65</td>
+<td>0.093</td>
+<td>1.03</td>
+<td><a title="Moons of Mars" href="https://en.wikipedia.org/wiki/Moons_of_Mars">2</a></td>
+<td>25.19</td>
+<td>no</td>
+<td>CO<sub>2</sub>, N<sub>2</sub>, Ar</td>
+</tr>
+<tr>
+<td>5.</td>
+<td align="left"><a title="Jupiter" href="https://en.wikipedia.org/wiki/Jupiter">Jupiter</a></td>
+<td>11.209</td>
+<td>317.8</td>
+<td>5.20</td>
+<td>11.86</td>
+<td>6.09</td>
+<td>0.048</td>
+<td>0.41</td>
+<td><a title="Moons of Jupiter" href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">79</a></td>
+<td>3.13</td>
+<td><a title="Rings of Jupiter" href="https://en.wikipedia.org/wiki/Rings_of_Jupiter">yes</a></td>
+<td><a title="Hydrogen" href="https://en.wikipedia.org/wiki/Hydrogen">H<sub>2</sub></a>,&nbsp;<a title="Helium" href="https://en.wikipedia.org/wiki/Helium">He</a></td>
+</tr>
+<tr>
+<td>6.</td>
+<td align="left"><a title="Saturn" href="https://en.wikipedia.org/wiki/Saturn">Saturn</a></td>
+<td>9.449</td>
+<td>95.2</td>
+<td>9.54</td>
+<td>29.46</td>
+<td>5.51</td>
+<td>0.054</td>
+<td>0.43</td>
+<td><a title="Moons of Saturn" href="https://en.wikipedia.org/wiki/Moons_of_Saturn">82</a></td>
+<td>26.73</td>
+<td><a title="Rings of Saturn" href="https://en.wikipedia.org/wiki/Rings_of_Saturn">yes</a></td>
+<td>H<sub>2</sub>, He</td>
+</tr>
+<tr>
+<td>7.</td>
+<td align="left"><a title="Uranus" href="https://en.wikipedia.org/wiki/Uranus">Uranus</a></td>
+<td>4.007</td>
+<td>14.6</td>
+<td>19.22</td>
+<td>84.01</td>
+<td>6.48</td>
+<td>0.047</td>
+<td>&minus;0.72</td>
+<td><a title="Moons of Uranus" href="https://en.wikipedia.org/wiki/Moons_of_Uranus">27</a></td>
+<td>97.77</td>
+<td><a title="Rings of Uranus" href="https://en.wikipedia.org/wiki/Rings_of_Uranus">yes</a></td>
+<td>H<sub>2</sub>, He,&nbsp;<a title="Methane" href="https://en.wikipedia.org/wiki/Methane">CH<sub>4</sub></a></td>
+</tr>
+<tr>
+<td>8.</td>
+<td align="left"><a title="Neptune" href="https://en.wikipedia.org/wiki/Neptune">Neptune</a></td>
+<td>3.883</td>
+<td>17.2</td>
+<td>30.06</td>
+<td>164.8</td>
+<td>6.43</td>
+<td>0.009</td>
+<td>0.67</td>
+<td><a title="Moons of Neptune" href="https://en.wikipedia.org/wiki/Moons_of_Neptune">14</a></td>
+<td>28.32</td>
+<td><a title="Rings of Neptune" href="https://en.wikipedia.org/wiki/Rings_of_Neptune">yes</a></td>
+<td>H<sub>2</sub>, He, CH<sub>4</sub></td>
+</tr>
+</tbody>
+</table>
+</br>
