@@ -40,6 +40,7 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-telescope-technology/blob/master/Lectures/README.md" style="text-decoration:none;">Institute for Data, Systems, and Society [MIT Lectures]</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-electrical-and-electronic-engineering/blob/master/README.md" style="text-decoration:none;">Timeline of electrical and electronic engineering</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-luminiferous-aether/blob/master/README.md" style="text-decoration:none;">Timeline of luminiferous aether</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-solar-cells/blob/master/Lectures/README.md" style="text-decoration:none;">MIT Lectures [Literature]</a></li>    
       <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Jewish-economists/blob/master/Lectures/README.md" style="text-decoration:none;">MIT Lectures [Economics]</a></li>    
        <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/README.md" style="text-decoration:none;">Timeline of Chinese astronomy</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/README.md" style="text-decoration:none;">Phytochemicals</a></li>
