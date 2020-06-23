@@ -33,7 +33,8 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/Lectures/README.md" style="text-decoration:none;">Anthropology [MIT Lectures]</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-speech-and-voice-recognition/blob/master/Lectures/README.md" style="text-decoration:none;">Civil and Environmental Engineering [MIT Lectures]</a></li>   
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-planetariums/blob/master/Lectures/README.md" style="text-decoration:none;">Earth, Atmospheric, and Planetary Sciences [MIT Lectures]</a></li>   
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-photography-technology/blob/master/README.md" style="text-decoration:none;">Timeline of photography technology</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-photography-technology/blob/master/README.md" style="text-decoration:none;">Timeline of photography technology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-inventors/blob/master/README.md" style="text-decoration:none;">List of inventors</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-the-nuclear-program-of-Iran/blob/master/README.md" style="text-decoration:none;">Timeline of the nuclear program of Iran</a></li>  
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-snowflake-research/blob/master/README.md" style="text-decoration:none;">Timeline of snowflake research</a></li>  
    <li><a target="_blank" href="https://github.com/manjunath5496/21-hottest-research-papers-on-Computer-Vision-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">21 hottest research papers on Computer Vision and Machine Learning </a></li>
