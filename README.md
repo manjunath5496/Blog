@@ -40,6 +40,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/README.md" style="text-decoration:none;">The 100 Most Influential Scientists of All Time </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-nuclear-weapons-development/blob/master/Lectures/README.md" style="text-decoration:none;">Nuclear Science and Engineering [MIT Lectures]</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Papers-by-John-McCarthy/blob/master/README.md" style="text-decoration:none;">Papers by John McCarthy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/README.md" style="text-decoration:none;">Top 10 Greatest Philosophers in History</a></li>     
       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-telescope-technology/blob/master/Lectures/README.md" style="text-decoration:none;">Institute for Data, Systems, and Society [MIT Lectures]</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-electrical-and-electronic-engineering/blob/master/README.md" style="text-decoration:none;">Timeline of electrical and electronic engineering</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-luminiferous-aether/blob/master/README.md" style="text-decoration:none;">Timeline of luminiferous aether</a></li>
