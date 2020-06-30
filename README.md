@@ -20,7 +20,7 @@ Top 10 inventors of all time </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Roman-history/blob/master/README.md" style="text-decoration:none;">Timeline of Roman history </a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-women-s-education/blob/master/Lectures/README.md" style="text-decoration:none;">Experimental Study Group [MIT Lectures]</a></li>  
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/Lectures/README.md" style="text-decoration:none;">Hindu Mythology Books</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/README.md" style="text-decoration:none;">Hindu Mythology Books</a></li> 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Nietzsche-Books/blob/master/README.md" style="text-decoration:none;">The Best Nietzsche Books</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-mathematics/blob/master/README.md" style="text-decoration:none;">Timeline of mathematics</a></li>  
