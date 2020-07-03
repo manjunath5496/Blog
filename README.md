@@ -1832,3 +1832,108 @@ Top 10 inventors of all time </a></li>
 </tbody>
 </table>
 </br>
+<h2>Glossary of computer programming</h2>
+
+<p><a href="https://en.wiktionary.org/wiki/abstract_class" target="_blank" rel="nofollow noopener">abstract class</a></p>
+<p>A class that cannot be directly constructed, one that can be constructed only through construction of some of its subclasses.</p>
+<p><a href="https://en.wiktionary.org/wiki/abstract_type" target="_blank" rel="nofollow noopener">abstract type</a></p>
+<p>A type in a nominative type system that cannot be instantiated.</p>
+<p><a href="https://en.wiktionary.org/w/index.php?title=actual_argument&amp;action=edit&amp;redlink=1" target="_blank" rel="nofollow noopener">actual argument</a></p>
+<p>A value, or reference to a value, passed to a function.</p>
+<p><a href="https://en.wiktionary.org/wiki/app" target="_blank" rel="nofollow noopener">app</a></p>
+<p>An&nbsp;<a href="https://en.wiktionary.org/wiki/application" target="_blank" rel="nofollow noopener">application</a>&nbsp;that executes on a small, handheld device.</p>
+<p><a href="https://en.wiktionary.org/wiki/application" target="_blank" rel="nofollow noopener">application</a></p>
+<p>A program or integrated suite of programs that has a defined function.</p>
+<p><a href="https://en.wiktionary.org/wiki/argument" target="_blank" rel="nofollow noopener">argument</a></p>
+<p>A value, or reference to a value, passed to a function; an actual argument.</p>
+<p><a href="https://en.wiktionary.org/wiki/argument" target="_blank" rel="nofollow noopener">argument</a></p>
+<p>A parameter in a function definition; a formal argument.</p>
+<p><a href="https://en.wiktionary.org/wiki/array" target="_blank" rel="nofollow noopener">array</a></p>
+<p>An ordered sequence of same-typed values whose elements are fast to access by their numerical index in the array.</p>
+<p><a href="https://en.wiktionary.org/wiki/Boolean" target="_blank" rel="nofollow noopener">Boolean</a></p>
+<p>A data type for yes or no, true or false values.</p>
+<p><a href="https://en.wiktionary.org/wiki/class" target="_blank" rel="nofollow noopener">class</a></p>
+<p>A set of objects having the same behavior (but typically differing in state), or a template defining such a set.</p>
+<p><a href="https://en.wiktionary.org/wiki/compiler" target="_blank" rel="nofollow noopener">compiler</a></p>
+<p>A computer program which transforms source code into object code.</p>
+<p><a href="https://en.wiktionary.org/wiki/constant" target="_blank" rel="nofollow noopener">constant</a></p>
+<p>An identifier that is bound to an invariant value.</p>
+<p><a href="https://en.wiktionary.org/wiki/constructor" target="_blank" rel="nofollow noopener">constructor</a></p>
+<p>A class method (in object-oriented programming) that creates and initializes each instance of an object.</p>
+<p><a href="https://en.wiktionary.org/wiki/data_type" target="_blank" rel="nofollow noopener">data type</a></p>
+<p>A classification or category of various types of data, that states the possible values that can be taken, how they are stored, and what range of operations are allowed on them.</p>
+<p><a href="https://en.wiktionary.org/wiki/destructor" target="_blank" rel="nofollow noopener">destructor</a></p>
+<p>In object-oriented programming, the command sequence that is launched when the execution of an object is finished.</p>
+<p><a href="https://en.wiktionary.org/wiki/dump" target="_blank" rel="nofollow noopener">dump</a></p>
+<p>A formatted listing of the contents of program storage, especially when produced automatically by a failing program</p>
+<p><a href="https://en.wiktionary.org/wiki/enumeration" target="_blank" rel="nofollow noopener">enumeration</a></p>
+<p>A data type whose values are a set of mutually exclusive named constants.</p>
+<p><a href="https://en.wiktionary.org/wiki/exception" target="_blank" rel="nofollow noopener">exception</a></p>
+<p>An interruption in normal processing, especially as caused by an error condition.</p>
+<p><a href="https://en.wiktionary.org/wiki/floating_point" target="_blank" rel="nofollow noopener">floating point</a></p>
+<p>A method of representing real numbers as a pair of integers (the mantissa and characteristic)</p>
+<p><a href="https://en.wiktionary.org/wiki/flow_chart" target="_blank" rel="nofollow noopener">flow chart</a></p>
+<p>A schematic representation of the logic that defines the flow of control through a program</p>
+<p><a href="https://en.wiktionary.org/w/index.php?title=formal_argument&amp;action=edit&amp;redlink=1" target="_blank" rel="nofollow noopener">formal argument</a></p>
+<p>A parameter in a function definition.</p>
+<p><a href="https://en.wiktionary.org/wiki/function" target="_blank" rel="nofollow noopener">function</a></p>
+<p>A routine that receives zero or more arguments and may return a result.</p>
+<p><a href="https://en.wiktionary.org/wiki/functional_programming" target="_blank" rel="nofollow noopener">functional programming</a></p>
+<p>A programming paradigm that treats computation as the evaluation of mathematical functions, avoids state and mutable data, and makes it easy to construct functions as if they were data objects.</p>
+<p><a href="https://en.wiktionary.org/wiki/goto" target="_blank" rel="nofollow noopener">goto</a>&nbsp;/&nbsp;<a href="https://en.wiktionary.org/wiki/go_to" target="_blank" rel="nofollow noopener">go to</a></p>
+<p>A statement (in source code) that transfers control unconditionally to another part of a program</p>
+<p><a href="https://en.wiktionary.org/wiki/heap" target="_blank" rel="nofollow noopener">heap</a></p>
+<p>An area of memory reserved for dynamically allocated data objects, contrasted to the stack.</p>
+<p><a href="https://en.wiktionary.org/wiki/identifier" target="_blank" rel="nofollow noopener">identifier</a></p>
+<p>A formal name used in source code to refer to a variable, function, procedure, package, etc.</p>
+<p><a href="https://en.wiktionary.org/wiki/integer" target="_blank" rel="nofollow noopener">integer</a></p>
+<p>A data type for integer values.</p>
+<p><a href="https://en.wiktionary.org/wiki/interpreter" target="_blank" rel="nofollow noopener">interpreter</a></p>
+<p>A program which executes another program written in a programming language other than machine code.</p>
+<p><a href="https://en.wiktionary.org/wiki/linker" target="_blank" rel="nofollow noopener">linker</a>&nbsp;/&nbsp;<a href="https://en.wiktionary.org/wiki/link_editor" target="_blank" rel="nofollow noopener">link editor</a></p>
+<p>A computer program that takes one or more objects generated by compilers and assembles them into a single executable program.</p>
+<p><a href="https://en.wiktionary.org/wiki/logic_programming" target="_blank" rel="nofollow noopener">logic programming</a></p>
+<p>A style or paradigm of computer programming exemplified by the language Prolog.</p>
+<p><a href="https://en.wiktionary.org/wiki/machine_code" target="_blank" rel="nofollow noopener">machine code</a></p>
+<p>System of instructions and data directly understandable by a computer's central processing unit.</p>
+<p><a href="https://en.wiktionary.org/wiki/method" target="_blank" rel="nofollow noopener">method</a></p>
+<p>In object-oriented languages, a subroutine or function belonging to a class or object.</p>
+<p><a href="https://en.wiktionary.org/wiki/module" target="_blank" rel="nofollow noopener">module</a></p>
+<p>A program that is linked with others to form a functioning application; one method of implementing a&nbsp;<a href="https://en.wiktionary.org/wiki/subroutine" target="_blank" rel="nofollow noopener">subroutine</a></p>
+<p><a href="https://en.wiktionary.org/wiki/object" target="_blank" rel="nofollow noopener">object</a></p>
+<p>An instance of a class.</p>
+<p><a href="https://en.wiktionary.org/wiki/object_code" target="_blank" rel="nofollow noopener">object code</a></p>
+<p>The output of a compiler or assembler, not necessarily executable directly without linking to other modules.</p>
+<p><a href="https://en.wiktionary.org/wiki/object-oriented" target="_blank" rel="nofollow noopener">object-oriented</a></p>
+<p>Using entities called objects that can process data and exchange messages with other objects.</p>
+<p><a href="https://en.wiktionary.org/wiki/paradigm" target="_blank" rel="nofollow noopener">paradigm</a></p>
+<p>A fundamental style of computer programming to which the design of a programming language typically has to cater, such as imperative programming, declarative programming, or, on a finer level, functional programming, logic programming or object-oriented programming.</p>
+<p><a href="https://en.wiktionary.org/wiki/parameter" target="_blank" rel="nofollow noopener">parameter</a></p>
+<p>A name in a function or subroutine definition that is replaced by, or bound to, the corresponding actual argument when the function or subroutine is called.</p>
+<p><a href="https://en.wiktionary.org/wiki/procedure" target="_blank" rel="nofollow noopener">procedure</a></p>
+<p>A subroutine or function coded to perform a specific task.</p>
+<p><a href="https://en.wiktionary.org/wiki/program" target="_blank" rel="nofollow noopener">program</a></p>
+<p>A software application, or a collection of software applications, designed to perform a specific task.</p>
+<p><a href="https://en.wiktionary.org/wiki/real" target="_blank" rel="nofollow noopener">real</a></p>
+<p>a number containing a decimal point, e.g. the number&nbsp;<a href="https://en.wiktionary.org/wiki/pi" target="_blank" rel="nofollow noopener">pi</a>&nbsp;is a real number with a value of approximately 3.14159268</p>
+<p><a href="https://en.wiktionary.org/wiki/run_time" target="_blank" rel="nofollow noopener">run time</a></p>
+<p>The time during which a program is executing, as oppose to the compile time.</p>
+<p><a href="https://en.wiktionary.org/wiki/source_code" target="_blank" rel="nofollow noopener">source code</a></p>
+<p>Human-readable instructions in a programming language, to be transformed into machine instructions by a compiler, interpreter, assembler or other such system.</p>
+<p><a href="https://en.wiktionary.org/wiki/stack" target="_blank" rel="nofollow noopener">stack</a></p>
+<p>The portion of the computer memory used to keep track of called procedures or call instructions.</p>
+<p><a href="https://en.wiktionary.org/wiki/string" target="_blank" rel="nofollow noopener">string</a></p>
+<p>A data type for a sequence of characters such as letters of English alphabet.</p>
+<p><a href="https://en.wiktionary.org/wiki/subclass" target="_blank" rel="nofollow noopener">subclass</a></p>
+<p>In object-oriented programming, an object class derived from another class (its superclass) from which it inherits a base set of properties and methods.</p>
+<p><a href="https://en.wiktionary.org/wiki/subprogram" target="_blank" rel="nofollow noopener">subprogram</a></p>
+<p>A program contained within a larger program.</p>
+<p><a href="https://en.wiktionary.org/wiki/subroutine" target="_blank" rel="nofollow noopener">subroutine</a></p>
+<p>A section of code that implements a task. While it may be used at more than one point in a program, it need not be.</p>
+<p><a href="https://en.wiktionary.org/wiki/superclass" target="_blank" rel="nofollow noopener">superclass</a></p>
+<p>A class that passes attributes and methods down the hierarchy to subclasses.</p>
+<p><a href="https://en.wiktionary.org/wiki/type" target="_blank" rel="nofollow noopener">type</a></p>
+<p>A tag attached to variables and values used in determining what values may be assigned to what variables.</p>
+<p><a href="https://en.wiktionary.org/wiki/variable" target="_blank" rel="nofollow noopener">variable</a></p>
+<p>A named memory location in which a program can store intermediate results and from which it can read them.</p>
+</br>
