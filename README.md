@@ -34,6 +34,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-About-Silicon-Valley/blob/master/README.md" style="text-decoration:none;">The Best Books About Silicon Valley</a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Great-Papers-in-Computer-Science/blob/master/README.md" style="text-decoration:none;">Great Papers in Computer Science </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-ancient-Greece/blob/master/README.md" style="text-decoration:none;">Timeline of ancient Greece </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Western-philosophers/blob/master/README.md" style="text-decoration:none;">Timeline of Western philosophers </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-ancient-history/blob/master/README.md" style="text-decoration:none;">Timeline of ancient history </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-knowledge-about-galaxies-clusters-of-galaxies-and-large-scale-structure/blob/master/README.md" style="text-decoration:none;">Timeline of knowledge about galaxies, clusters of galaxies, and large-scale structure </a></li>   
     <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-scientific-thought/blob/master/README.md" style="text-decoration:none;">Timeline of scientific thought </a></li>    
