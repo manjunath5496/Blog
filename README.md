@@ -11,6 +11,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antisemitism/blob/master/README.md" style="text-decoration:none;">Timeline of antisemitism</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-the-BBC/blob/master/README.md" style="text-decoration:none;">Timeline of the BBC</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Norse-colonization-of-the-Americas/blob/master/README.md" style="text-decoration:none;">Timeline of Norse colonization of the Americas</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Jainism/blob/master/README.md" style="text-decoration:none;">Timeline of Jainism</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-natural-history/blob/master/README.md" style="text-decoration:none;">Timeline of natural history</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-extraordinary-Nature-papers/blob/master/README.md" style="text-decoration:none;">10 extraordinary Nature papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Buddhism/blob/master/README.md" style="text-decoration:none;">Timeline of Buddhism</a></li>
