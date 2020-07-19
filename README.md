@@ -108,7 +108,7 @@ Top 10 inventors of all time </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-luminiferous-aether/blob/master/README.md" style="text-decoration:none;">Timeline of luminiferous aether</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-solar-cells/blob/master/Lectures/README.md" style="text-decoration:none;">MIT Lectures [Literature]</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-quantum-mechanics/blob/master/Lectures/README.md" style="text-decoration:none;">Timeline of quantum mechanics</a></li> 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-the-English-Reformation/blob/master/Lectures/README.md" style="text-decoration:none;">Timeline of the English Reformation</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-the-English-Reformation/blob/master/README.md" style="text-decoration:none;">Timeline of the English Reformation</a></li>   
       <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Jewish-economists/blob/master/Lectures/README.md" style="text-decoration:none;">MIT Lectures [Economics]</a></li>    
        <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/README.md" style="text-decoration:none;">Timeline of Chinese astronomy</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/README.md" style="text-decoration:none;">Phytochemicals</a></li>
