@@ -137,7 +137,8 @@ Top 10 inventors of all time </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-chemistry/blob/master/README.md" style="text-decoration:none;">Timeline of chemistry</a></li>  
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Jodrell-Bank-Observatory/blob/master/README.md" style="text-decoration:none;">Timeline of Jodrell Bank Observatory</a></li>     
       <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-astronomical-maps-catalogs-and-surveys/blob/master/README.md" style="text-decoration:none;">Timeline of astronomical maps, catalogs, and surveys</a></li>       
-        <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-Papers/blob/master/README.md" style="text-decoration:none;">Software Engineering Papers</a></li>  
+        <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-Papers/blob/master/README.md" style="text-decoration:none;">Software Engineering Papers</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-epidemics/blob/master/README.md" style="text-decoration:none;">List of epidemics</a></li>          
      <li><a target="_blank" href="https://github.com/manjunath5496/Finance-ML-Papers/blob/master/README.md" style="text-decoration:none;">Finance ML Papers</a></li>   
        <li><a target="_blank" href="https://github.com/manjunath5496/Super-Resolution-Papers/blob/master/README.md" style="text-decoration:none;">Super Resolution Papers</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computational-physics/blob/master/README.md" style="text-decoration:none;">Timeline of computational physics</a></li>       
