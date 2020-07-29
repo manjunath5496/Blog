@@ -14,7 +14,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Jagadish-Chandra-Bose-Publications/blob/master/README.md" style="text-decoration:none;">Jagadish Chandra Bose Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Sam-Harris-Books/blob/master/README.md" style="text-decoration:none;">Sam Harris Books</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Scientific-Papers/blob/master/README.md" style="text-decoration:none;">Scientific Papers</a></li>
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Jainism/blob/master/README.md" style="text-decoration:none;">Timeline of Jainism</a></li>
