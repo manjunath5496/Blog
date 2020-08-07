@@ -31,6 +31,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Indian-history/blob/master/README.md" style="text-decoration:none;">Timeline of Indian history</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/README.md" style="text-decoration:none;">Timeline of German history</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Prize-Winners-of-India/blob/master/README.md" style="text-decoration:none;">Nobel Prize Winners of India</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/8-must-read-scientific-research-papers-on-conversion-rate-optimization/blob/master/README.md" style="text-decoration:none;">8 must read scientific research papers on conversion rate optimization</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-pioneers-in-computer-science/blob/master/README.md" style="text-decoration:none;">List of pioneers in computer science</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-the-Middle-Ages/blob/master/README.md" style="text-decoration:none;">Timeline of the Middle Ages</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Gulf-War/blob/master/README.md" style="text-decoration:none;">Timeline of Gulf War (1990–1991)</a></li>
