@@ -24,6 +24,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-natural-history/blob/master/README.md" style="text-decoration:none;">Timeline of natural history</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Adversarial-Machine-Learning-Reading-List/blob/master/README.md" style="text-decoration:none;">Adversarial Machine Learning Reading List</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-extraordinary-Nature-papers/blob/master/README.md" style="text-decoration:none;">10 extraordinary Nature papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/10-Must-Read-Technical-Papers-On-NLP/blob/master/README.md" style="text-decoration:none;">10 Must Read Technical Papers On NLP</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-events-preceding-World-War-II/blob/master/README.md" style="text-decoration:none;">Timeline of events preceding World War II</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-unsolved-problems-in-astronomy/blob/master/README.md" style="text-decoration:none;">List of unsolved problems in astronomy</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Eastern-philosophers/blob/master/README.md" style="text-decoration:none;">Timeline of Eastern philosophers</a></li>
