@@ -43,7 +43,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-AI-Chatbot-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 AI Chatbot Research Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Reinforcement-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 Reinforcement Learning Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Neil-deGrasse-Tyson-Books/blob/master/README.md" style="text-decoration:none;">Neil deGrasse Tyson Books</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/README.md" style="text-decoration:none;">Must read papers on GNN [Graph Neural Network]</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-sexual-orientation-and-medicine/blob/master/README.md" style="text-decoration:none;">Timeline of sexual orientation and medicine</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-HIV/blob/master/README.md" style="text-decoration:none;">Timeline of HIV</a></li>
