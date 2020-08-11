@@ -12,7 +12,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Networking-Reading-List/blob/master/README.md" style="text-decoration:none;">Computer Networking Reading List</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Papers-From-ICLR-2020-Conference/blob/master/README.md" style="text-decoration:none;">Top 10 Papers From ICLR 2020 Conference</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Papers-Every-Developer-Should-Read/blob/master/README.md" style="text-decoration:none;">10 Papers Every Developer Should Read</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/README.md" style="text-decoration:none;">Leonard Susskind Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antisemitism/blob/master/README.md" style="text-decoration:none;">Timeline of antisemitism</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-the-BBC/blob/master/README.md" style="text-decoration:none;">Timeline of the BBC</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Norse-colonization-of-the-Americas/blob/master/README.md" style="text-decoration:none;">Timeline of Norse colonization of the Americas</a></li>
