@@ -43,6 +43,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Indian-history/blob/master/README.md" style="text-decoration:none;">Timeline of Indian history</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Animal-Husbandry-Books/blob/master/README.md" style="text-decoration:none;">Animal Husbandry Books</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/README.md" style="text-decoration:none;">Timeline of German history</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-that-triumphed-over-their-rejections/blob/master/README.md" style="text-decoration:none;">Scientific Papers that triumphed over their rejections</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Prize-Winners-of-India/blob/master/README.md" style="text-decoration:none;">Nobel Prize Winners of India</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/README.md" style="text-decoration:none;">List of contributors to general relativity</a></li>
 
