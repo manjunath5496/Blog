@@ -24,6 +24,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Papers-From-ICLR-2020-Conference/blob/master/README.md" style="text-decoration:none;">Top 10 Papers From ICLR 2020 Conference</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Papers-Every-Developer-Should-Read/blob/master/README.md" style="text-decoration:none;">10 Papers Every Developer Should Read</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/README.md" style="text-decoration:none;">Leonard Susskind Publications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computing/blob/master/README.md" style="text-decoration:none;">Outline of computing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-aerospace/blob/master/README.md" style="text-decoration:none;">Outline of aerospace</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/README.md" style="text-decoration:none;">6 of the Greatest Modern Physicists</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antisemitism/blob/master/README.md" style="text-decoration:none;">Timeline of antisemitism</a></li>
