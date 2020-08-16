@@ -9,6 +9,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-environmental-studies/blob/master/README.md" style="text-decoration:none;">Outline of environmental studies</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-control-engineering/blob/master/README.md" style="text-decoration:none;">Outline of control engineering</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Russian-physicians-and-psychologists/blob/master/README.md" style="text-decoration:none;">List of Russian physicians and psychologists</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-Albert-Einstein/blob/master/README.md" style="text-decoration:none;">Outline of Albert Einstein</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-5-Papers-By-Turing-Award-Winner-Yoshua-Bengio-That-Push-The-Boundaries-Of-AI/blob/master/README.md" style="text-decoration:none;">Top 5 Papers By Turing Award Winner Yoshua Bengio That Push The Boundaries Of AI</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Kip-S-Thorne-Publications/blob/master/README.md" style="text-decoration:none;">Kip S.Thorne Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Important-Research-Papers-In-Conversational-AI/blob/master/README.md" style="text-decoration:none;">10 Important Research Papers In Conversational AI</a></li>
