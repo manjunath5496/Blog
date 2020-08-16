@@ -46,6 +46,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Papers-Every-Developer-Should-Read/blob/master/README.md" style="text-decoration:none;">10 Papers Every Developer Should Read</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/README.md" style="text-decoration:none;">Leonard Susskind Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-electrical-engineering/blob/master/README.md" style="text-decoration:none;">Outline of electrical engineering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-geologists/blob/master/README.md" style="text-decoration:none;">List of geologists</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computing/blob/master/README.md" style="text-decoration:none;">Outline of computing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-aerospace/blob/master/README.md" style="text-decoration:none;">Outline of aerospace</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/README.md" style="text-decoration:none;">6 of the Greatest Modern Physicists</a></li>
