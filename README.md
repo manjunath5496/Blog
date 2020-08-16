@@ -80,6 +80,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/8-must-read-scientific-research-papers-on-conversion-rate-optimization/blob/master/README.md" style="text-decoration:none;">8 must read scientific research papers on conversion rate optimization</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-pioneers-in-computer-science/blob/master/README.md" style="text-decoration:none;">List of pioneers in computer science</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-the-Middle-Ages/blob/master/README.md" style="text-decoration:none;">Timeline of the Middle Ages</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-industrial-machinery/blob/master/README.md" style="text-decoration:none;">Outline of industrial machinery</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-engineering/blob/master/README.md" style="text-decoration:none;">Outline of engineering</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Gulf-War/blob/master/README.md" style="text-decoration:none;">Timeline of Gulf War (1990–1991)</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-the-Three-Kingdoms-period/blob/master/README.md" style="text-decoration:none;">Timeline of the Three Kingdoms period</a></li>
