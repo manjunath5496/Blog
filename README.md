@@ -8,7 +8,8 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-5-Papers-By-Turing-Award-Winner-Yoshua-Bengio-That-Push-The-Boundaries-Of-AI/blob/master/README.md" style="text-decoration:none;">Top 5 Papers By Turing Award Winner Yoshua Bengio That Push The Boundaries Of AI</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Kip-S-Thorne-Publications/blob/master/README.md" style="text-decoration:none;">Kip S.Thorne Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Important-Research-Papers-In-Conversational-AI/blob/master/README.md" style="text-decoration:none;">10 Important Research Papers In Conversational AI</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/5-Essential-Papers-on-Sentiment-Analysis/blob/master/README.md" style="text-decoration:none;">5 Essential Papers on Sentiment Analysis</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/5-Essential-Papers-on-Sentiment-Analysis/blob/master/README.md" style="text-decoration:none;">5 Essential Papers on Sentiment Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/README.md" style="text-decoration:none;">Outline of computer engineering</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-botany/blob/master/README.md" style="text-decoration:none;">Outline of botany</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-biophysics/blob/master/README.md" style="text-decoration:none;">Outline of biophysics</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-geology/blob/master/README.md" style="text-decoration:none;">Outline of geology</a></li> 
