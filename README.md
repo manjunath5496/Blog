@@ -33,6 +33,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/README.md" style="text-decoration:none;">Books about Mars</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Israeli-history/blob/master/README.md" style="text-decoration:none;">Timeline of Israeli history</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Networking-Reading-List/blob/master/README.md" style="text-decoration:none;">Computer Networking Reading List</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-energy-development/blob/master/README.md" style="text-decoration:none;">Outline of energy development</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Papers-From-ICLR-2020-Conference/blob/master/README.md" style="text-decoration:none;">Top 10 Papers From ICLR 2020 Conference</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Papers-Every-Developer-Should-Read/blob/master/README.md" style="text-decoration:none;">10 Papers Every Developer Should Read</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/README.md" style="text-decoration:none;">Leonard Susskind Publications</a></li>
