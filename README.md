@@ -20,6 +20,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-geology/blob/master/README.md" style="text-decoration:none;">Outline of geology</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-cell-biology/blob/master/README.md" style="text-decoration:none;">Outline of cell biology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/John-Archibald-Wheeler-Publications/blob/master/README.md" style="text-decoration:none;">John Archibald Wheeler Publications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-Russian-Earth-scientists/blob/master/README.md" style="text-decoration:none;">List of Russian Earth scientists</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-biotechnology/blob/master/README.md" style="text-decoration:none;">Outline of biotechnology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-information-science/blob/master/README.md" style="text-decoration:none;">Outline of information science </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-programming/blob/master/README.md" style="text-decoration:none;">Outline of computer programming </a></li>
