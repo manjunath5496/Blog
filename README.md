@@ -49,6 +49,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/10-extraordinary-Nature-papers/blob/master/README.md" style="text-decoration:none;">10 extraordinary Nature papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Must-Read-Technical-Papers-On-NLP/blob/master/README.md" style="text-decoration:none;">10 Must Read Technical Papers On NLP</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-events-preceding-World-War-II/blob/master/README.md" style="text-decoration:none;">Timeline of events preceding World War II</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-chemical-engineering/blob/master/README.md" style="text-decoration:none;">Outline of chemical engineering</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-unsolved-problems-in-astronomy/blob/master/README.md" style="text-decoration:none;">List of unsolved problems in astronomy</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Eastern-philosophers/blob/master/README.md" style="text-decoration:none;">Timeline of Eastern philosophers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-cosmologists/blob/master/README.md" style="text-decoration:none;">List of cosmologists</a></li>
