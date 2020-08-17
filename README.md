@@ -13,6 +13,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/John-Edensor-Littlewood-Books/blob/master/README.md" style="text-decoration:none;">John Edensor Littlewood Books</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-environmental-studies/blob/master/README.md" style="text-decoration:none;">Outline of environmental studies</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-control-engineering/blob/master/README.md" style="text-decoration:none;">Outline of control engineering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/README.md" style="text-decoration:none;">Nobel Lectures in Economic Sciences</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Image-classification-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 Image classification Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Russian-physicians-and-psychologists/blob/master/README.md" style="text-decoration:none;">List of Russian physicians and psychologists</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-Albert-Einstein/blob/master/README.md" style="text-decoration:none;">Outline of Albert Einstein</a></li>
