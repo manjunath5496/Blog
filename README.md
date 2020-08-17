@@ -24,6 +24,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Glossary-of-ecology/blob/master/README.md" style="text-decoration:none;">Glossary of ecology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/5-Essential-Papers-on-Sentiment-Analysis/blob/master/README.md" style="text-decoration:none;">5 Essential Papers on Sentiment Analysis</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/README.md" style="text-decoration:none;">Outline of computer engineering</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Object-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 Object Detection Papers</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-science/blob/master/README.md" style="text-decoration:none;">Outline of computer science</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Computer-Vision-Papers-to-Start/blob/master/README.md" style="text-decoration:none;">Computer Vision: 10 Papers to Start</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/12-Interesting-ACL-Papers/blob/master/README.md" style="text-decoration:none;">12 Interesting ACL [Association for Computational Linguistics] Papers</a></li>
