@@ -17,6 +17,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/README.md" style="text-decoration:none;">Nobel Lectures in Economic Sciences</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Image-classification-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 Image classification Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Literature/blob/master/README.md" style="text-decoration:none;">Nobel Lectures in Literature</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/README.md" style="text-decoration:none;">Mathematics Textbooks</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Russian-physicians-and-psychologists/blob/master/README.md" style="text-decoration:none;">List of Russian physicians and psychologists</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-Albert-Einstein/blob/master/README.md" style="text-decoration:none;">Outline of Albert Einstein</a></li>
