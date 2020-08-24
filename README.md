@@ -9,6 +9,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-information-technology/blob/master/README.md" style="text-decoration:none;">Outline of information technology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Semantic-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 Semantic Segmentation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Interesting-ICML-Papers/blob/master/README.md" style="text-decoration:none;">10 Interesting ICML [International Conference on Machine Learning] Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/README.md" style="text-decoration:none;">Sau Lan Wu Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Papers-On-Transfer-Learning/blob/master/README.md" style="text-decoration:none;">Top 10 Papers On Transfer Learning</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/John-Edensor-Littlewood-Books/blob/master/README.md" style="text-decoration:none;">John Edensor Littlewood Books</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-environmental-studies/blob/master/README.md" style="text-decoration:none;">Outline of environmental studies</a></li>
