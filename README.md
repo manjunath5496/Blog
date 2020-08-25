@@ -6,6 +6,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/12-must-read-papers-from-AI-experts/blob/master/README.md" style="text-decoration:none;">12 must-read papers from AI experts</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-project-management/blob/master/README.md" style="text-decoration:none;">Timeline of project management</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-8-Psychedelic-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 8 Psychedelic Research Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/README.md" style="text-decoration:none;">Abhay Ashtekar Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-information-technology/blob/master/README.md" style="text-decoration:none;">Outline of information technology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/README.md" style="text-decoration:none;">James Hartle Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-female-Nobel-laureates/blob/master/README.md" style="text-decoration:none;">List of female Nobel laureates</a></li>
