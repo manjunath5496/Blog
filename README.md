@@ -12,6 +12,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;"> Scene Segmentation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/13-Seminal-Articles-Every-Data-Scientist-Should-Read/blob/master/README.md" style="text-decoration:none;">13 Seminal Articles Every Data Scientist Should Read</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Papers-Every-Software-Architect-Should-Read/blob/master/README.md" style="text-decoration:none;">10 Papers Every Software Architect Should Read</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Sequence-To-Sequence-Speech-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Sequence To Sequence Speech Recognition Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Community Detection Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-Read-Papers-in-Math/blob/master/README.md" style="text-decoration:none;">Must Read Papers in Math</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Motion-Planning-Papers/blob/master/README.md" style="text-decoration:none;">Motion Planning Papers</a></li>
