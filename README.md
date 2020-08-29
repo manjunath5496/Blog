@@ -26,6 +26,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Navigation-Papers/blob/master/README.md" style="text-decoration:none;">Visual Navigation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-environmental-studies/blob/master/README.md" style="text-decoration:none;">Outline of environmental studies</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-control-engineering/blob/master/README.md" style="text-decoration:none;">Outline of control engineering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotic-Grasping-Papers/blob/master/README.md" style="text-decoration:none;">Robotic Grasping Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/README.md" style="text-decoration:none;">CRM Articles</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Brian-Greene-Technical-Papers/blob/master/README.md" style="text-decoration:none;">Brian Greene Technical Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/README.md" style="text-decoration:none;">Nobel Lectures in Economic Sciences</a></li>
