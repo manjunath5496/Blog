@@ -7,6 +7,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-project-management/blob/master/README.md" style="text-decoration:none;">Timeline of project management</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-8-Psychedelic-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 8 Psychedelic Research Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Community Detection Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Motion-Planning-Papers/blob/master/README.md" style="text-decoration:none;">Motion Planning Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/README.md" style="text-decoration:none;">Robotics Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/README.md" style="text-decoration:none;">Abhay Ashtekar Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/README.md" style="text-decoration:none;">Causal Inference Papers</a></li>
