@@ -14,6 +14,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Papers-Every-Software-Architect-Should-Read/blob/master/README.md" style="text-decoration:none;">10 Papers Every Software Architect Should Read</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Sequence-To-Sequence-Speech-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Sequence To Sequence Speech Recognition Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Community Detection Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-To-Sql-Papers/blob/master/README.md" style="text-decoration:none;">Text To Sql Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-Read-Papers-in-Math/blob/master/README.md" style="text-decoration:none;">Must Read Papers in Math</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Motion-Planning-Papers/blob/master/README.md" style="text-decoration:none;">Motion Planning Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/README.md" style="text-decoration:none;">Robotics Papers</a></li>
