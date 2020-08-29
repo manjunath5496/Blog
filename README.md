@@ -8,6 +8,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-8-Psychedelic-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 8 Psychedelic Research Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/README.md" style="text-decoration:none;">Robotics Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/README.md" style="text-decoration:none;">Abhay Ashtekar Publications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/README.md" style="text-decoration:none;">Causal Inference Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-information-technology/blob/master/README.md" style="text-decoration:none;">Outline of information technology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/README.md" style="text-decoration:none;">Leonardo Modesto Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/README.md" style="text-decoration:none;">Gary Gibbons Publications</a></li>
