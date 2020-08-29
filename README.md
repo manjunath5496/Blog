@@ -17,6 +17,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/README.md" style="text-decoration:none;">Causal Inference Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-information-technology/blob/master/README.md" style="text-decoration:none;">Outline of information technology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/README.md" style="text-decoration:none;">Leonardo Modesto Publications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Audio-Classification-Papers/blob/master/README.md" style="text-decoration:none;">Audio Classification Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Must-Read-Fintech-Regtech-and-Blockchain-Research-Papers/blob/master/README.md" style="text-decoration:none;">10 Must Read Fintech Regtech and Blockchain Research Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/README.md" style="text-decoration:none;">Gary Gibbons Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/README.md" style="text-decoration:none;">James Hartle Publications</a></li>
