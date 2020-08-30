@@ -26,6 +26,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Monocular-Visual-Odometry-Papers/blob/master/README.md" style="text-decoration:none;">Monocular Visual Odometry Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Audio-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Audio Generation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/README.md" style="text-decoration:none;">Leonardo Modesto Publications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Music Generation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Audio-Classification-Papers/blob/master/README.md" style="text-decoration:none;">Audio Classification Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Sound Event Detection Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Must-Read-Fintech-Regtech-and-Blockchain-Research-Papers/blob/master/README.md" style="text-decoration:none;">10 Must Read Fintech Regtech and Blockchain Research Papers</a></li>
