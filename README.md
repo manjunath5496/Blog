@@ -22,6 +22,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/README.md" style="text-decoration:none;">Causal Inference Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-information-technology/blob/master/README.md" style="text-decoration:none;">Outline of information technology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Commonsense-Reasoning-Papers/blob/master/README.md" style="text-decoration:none;">Visual Commonsense Reasoning Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Monocular-Visual-Odometry-Papers/blob/master/README.md" style="text-decoration:none;">Monocular Visual Odometry Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Audio-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Audio Generation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/README.md" style="text-decoration:none;">Leonardo Modesto Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Audio-Classification-Papers/blob/master/README.md" style="text-decoration:none;">Audio Classification Papers</a></li>
