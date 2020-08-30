@@ -7,6 +7,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-project-management/blob/master/README.md" style="text-decoration:none;">Timeline of project management</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/5-Evidenced-Based-Papers-All-Teachers-Should-Read/blob/master/README.md" style="text-decoration:none;">5 Evidenced Based Papers All Teachers Should Read</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-8-Psychedelic-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 8 Psychedelic Research Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Decision-Making-Under-Uncertainty-Papers/blob/master/README.md" style="text-decoration:none;">Decision Making Under Uncertainty Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Gesture-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Gesture Generation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Music-Auto-Tagging-Papers/blob/master/README.md" style="text-decoration:none;">Music Auto Tagging Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Safe-Exploration-Papers/blob/master/README.md" style="text-decoration:none;">Safe Exploration Papers</a></li>
