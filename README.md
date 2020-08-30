@@ -29,6 +29,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Music-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Music Generation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Audio-Classification-Papers/blob/master/README.md" style="text-decoration:none;">Audio Classification Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Sound Event Detection Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-Modeling-Papers/blob/master/README.md" style="text-decoration:none;">Music Modeling Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Music-Information-Retrieval-Papers/blob/master/README.md" style="text-decoration:none;">Music Information Retrieval Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Must-Read-Fintech-Regtech-and-Blockchain-Research-Papers/blob/master/README.md" style="text-decoration:none;">10 Must Read Fintech Regtech and Blockchain Research Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/README.md" style="text-decoration:none;">Gary Gibbons Publications</a></li>
