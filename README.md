@@ -18,6 +18,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Papers-Every-Software-Architect-Should-Read/blob/master/README.md" style="text-decoration:none;">10 Papers Every Software Architect Should Read</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Research-papers-on-Integer-Multiplication/blob/master/README.md" style="text-decoration:none;">Research papers on Integer Multiplication</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/3D-Semantic-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">3D Semantic Segmentation Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/DeepHash-Papers/blob/master/README.md" style="text-decoration:none;">DeepHash Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Program-Synthesis-Papers/blob/master/README.md" style="text-decoration:none;">Program Synthesis Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/PointGoal-Navigation-Papers/blob/master/README.md" style="text-decoration:none;">PointGoal Navigation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Discovery-Papers/blob/master/README.md" style="text-decoration:none;">Causal Discovery Papers</a></li>
