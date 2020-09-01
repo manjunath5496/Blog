@@ -28,6 +28,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Language-Model-Papers/blob/master/README.md" style="text-decoration:none;">Pre-trained Language Model Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-research-papers-on-Algorithms/blob/master/README.md" style="text-decoration:none;">Must read research papers on Algorithms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Sequence-To-Sequence-Speech-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Sequence To Sequence Speech Recognition Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Robot-Interaction-Papers/blob/master/README.md" style="text-decoration:none;">Human Robot Interaction Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Community Detection Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Knowledge-Graph-Completion-Papers/blob/master/README.md" style="text-decoration:none;">Knowledge Graph Completion Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Robot-Navigation-Papers/blob/master/README.md" style="text-decoration:none;">Robot Navigation Papers</a></li>
