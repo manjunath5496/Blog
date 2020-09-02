@@ -3,6 +3,7 @@
   
 <li><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/README.md" style="text-decoration:none;">Classic Papers in Applied Mathematics </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-women-in-mathematics/blob/master/README.md" style="text-decoration:none;">Timeline of women in mathematics </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/README.md" style="text-decoration:none;">Machine Translation Reading List </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/12-must-read-papers-from-AI-experts/blob/master/README.md" style="text-decoration:none;">12 must-read papers from AI experts</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-project-management/blob/master/README.md" style="text-decoration:none;">Timeline of project management</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/README.md" style="text-decoration:none;">Must read papers on Neural Relation Extraction</a></li>
