@@ -9,6 +9,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/5-Evidenced-Based-Papers-All-Teachers-Should-Read/blob/master/README.md" style="text-decoration:none;">5 Evidenced Based Papers All Teachers Should Read</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Knowledge-Base-Completion-Papers/blob/master/README.md" style="text-decoration:none;">Knowledge Base Completion Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Network-Embedding/blob/master/README.md" style="text-decoration:none;">Must read Papers on Network Embedding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/README.md" style="text-decoration:none;">Must read papers on continuous track on Graph Neural Network progress</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Textual-Adversarial-Attack-and-Defense/blob/master/README.md" style="text-decoration:none;"> Must read Papers on Textual Adversarial Attack and Defense</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-8-Psychedelic-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 8 Psychedelic Research Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Drug-Discovery-Papers/blob/master/README.md" style="text-decoration:none;">AI Drug Discovery Papers</a></li>
