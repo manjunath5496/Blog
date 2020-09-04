@@ -21,6 +21,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Code-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Code Generation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Decision-Making-Under-Uncertainty-Papers/blob/master/README.md" style="text-decoration:none;">Decision Making Under Uncertainty Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Distributed-Systems-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Distributed Systems Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pose-Estimation-Papers/blob/master/README.md" style="text-decoration:none;">Pose Estimation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Gesture-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Gesture Generation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Music-Auto-Tagging-Papers/blob/master/README.md" style="text-decoration:none;">Music Auto Tagging Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Safe-Exploration-Papers/blob/master/README.md" style="text-decoration:none;">Safe Exploration Papers</a></li>
