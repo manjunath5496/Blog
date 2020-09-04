@@ -10,6 +10,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-project-management/blob/master/README.md" style="text-decoration:none;">Timeline of project management</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/README.md" style="text-decoration:none;">Must read papers on Neural Relation Extraction</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/5-Evidenced-Based-Papers-All-Teachers-Should-Read/blob/master/README.md" style="text-decoration:none;">5 Evidenced Based Papers All Teachers Should Read</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Real-Time-Strategy-Games-Papers/blob/master/README.md" style="text-decoration:none;">Real Time Strategy Games Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Knowledge-Base-Completion-Papers/blob/master/README.md" style="text-decoration:none;">Knowledge Base Completion Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Network-Embedding/blob/master/README.md" style="text-decoration:none;">Must read Papers on Network Embedding</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/README.md" style="text-decoration:none;">Must read papers on continuous track on Graph Neural Network progress</a></li>
