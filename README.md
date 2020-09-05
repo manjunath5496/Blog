@@ -52,6 +52,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Music-Source-Separation-Papers/blob/master/README.md" style="text-decoration:none;">Music Source Separation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-microbiologists/blob/master/README.md" style="text-decoration:none;">List of microbiologists</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/README.md" style="text-decoration:none;">Must read Papers on Legal Intelligence</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-pre-modern-Iranian-scientists-and-scholars/blob/master/README.md" style="text-decoration:none;">List of pre-modern Iranian scientists and scholars</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Language-Model-Papers/blob/master/README.md" style="text-decoration:none;">Pre-trained Language Model Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-research-papers-on-Algorithms/blob/master/README.md" style="text-decoration:none;">Must read research papers on Algorithms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Sequence-To-Sequence-Speech-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Sequence To Sequence Speech Recognition Papers</a></li>
