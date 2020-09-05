@@ -37,6 +37,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;"> Scene Segmentation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/13-Seminal-Articles-Every-Data-Scientist-Should-Read/blob/master/README.md" style="text-decoration:none;">13 Seminal Articles Every Data Scientist Should Read</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Papers-Every-Software-Architect-Should-Read/blob/master/README.md" style="text-decoration:none;">10 Papers Every Software Architect Should Read</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-game-theorists/blob/master/README.md" style="text-decoration:none;">List of game theorists</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Science-Textbooks/blob/master/README.md" style="text-decoration:none;">Science Textbooks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Research-papers-on-Integer-Multiplication/blob/master/README.md" style="text-decoration:none;">Research papers on Integer Multiplication</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/3D-Semantic-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">3D Semantic Segmentation Papers</a></li>
