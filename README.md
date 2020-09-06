@@ -30,6 +30,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Drug-Discovery-Papers/blob/master/README.md" style="text-decoration:none;">AI Drug Discovery Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Code-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Code Generation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Decision-Making-Under-Uncertainty-Papers/blob/master/README.md" style="text-decoration:none;">Decision Making Under Uncertainty Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/README.md" style="text-decoration:none;">Papers in Chemical Sciences</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-biologists/blob/master/README.md" style="text-decoration:none;">List of biologists</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Distributed-Systems-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Distributed Systems Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Jewish-American-mathematicians/blob/master/README.md" style="text-decoration:none;">List of Jewish American mathematicians</a></li>
