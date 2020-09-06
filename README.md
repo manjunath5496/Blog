@@ -2173,3 +2173,115 @@ Top 10 inventors of all time </a></li>
 <p><a href="https://en.wiktionary.org/wiki/variable" target="_blank" rel="nofollow noopener">variable</a></p>
 <p>A named memory location in which a program can store intermediate results and from which it can read them.</p>
 </br>
+<h2> Selected History of Contributions to Genetics</h2>
+
+<table border="" width="100%">
+<tbody>
+<tr>
+<th>Year</th>
+<th>Researcher</th>
+<th>Contribution/Discovery</th>
+</tr>
+<tr>
+<td>1865</td>
+<td>Mendel</td>
+<td>Mendelian laws</td>
+</tr>
+<tr>
+<td>1900</td>
+<td>Correns, DeVries, Tschermak</td>
+<td>Rediscovery of Mendelian laws</td>
+</tr>
+<tr>
+<td>1900</td>
+<td>Landsteiner</td>
+<td>ABO blood group system</td>
+</tr>
+<tr>
+<td>1908</td>
+<td>Hardy &amp; Weinburg</td>
+<td>Hardy-Weinburg law</td>
+</tr>
+<tr>
+<td>1910-1920</td>
+<td>Morgan</td>
+<td>Chromosome mapping in fruit flies</td>
+</tr>
+<tr>
+<td>1941</td>
+<td>Beadle &amp; Tatum</td>
+<td>One gene, one enzyme</td>
+</tr>
+<tr>
+<td>1942</td>
+<td>Ford</td>
+<td>Genetic polymorphism</td>
+</tr>
+<tr>
+<td>1949</td>
+<td>Barr &amp; Bertram</td>
+<td>Sex chromatin</td>
+</tr>
+<tr>
+<td>1953</td>
+<td>Watson &amp; Crick</td>
+<td>Structure of DNA</td>
+</tr>
+<tr>
+<td>1961</td>
+<td>Lyon</td>
+<td>X-chromosome inactivation</td>
+</tr>
+<tr>
+<td>1968-1970</td>
+<td>Linn, Arber &amp; Smith</td>
+<td>Restriction endonucleases (RE)</td>
+</tr>
+<tr>
+<td>1971-1975</td>
+<td>Nathans &amp; Smith</td>
+<td>DNA characterization with RE</td>
+</tr>
+<tr>
+<td>1975</td>
+<td>Southern</td>
+<td>DNA blotting</td>
+</tr>
+<tr>
+<td>1975-1977</td>
+<td>Sanger &amp; Gilbert</td>
+<td>DNA sequencing</td>
+</tr>
+<tr>
+<td>1976</td>
+<td>Tonegawa, et al.</td>
+<td>Somatic recombination in immunoglobulin genes</td>
+</tr>
+<tr>
+<td>1984</td>
+<td>Bishop &amp; Varmus</td>
+<td>Oncogenes</td>
+</tr>
+<tr>
+<td>1984</td>
+<td>Gitschier, Toole, et al.</td>
+<td>Cloning of Factor VIII gene</td>
+</tr>
+<tr>
+<td>1984-1985</td>
+<td>Mullis, Saiki, et al.</td>
+<td>Polymerase chain reaction</td>
+</tr>
+<tr>
+<td>1989</td>
+<td>Collins, Riordan, Tsui, et al.</td>
+<td>Isolation of cystic fibrosis gene</td>
+</tr>
+<tr>
+<td>1990</td>
+<td>Yamamoto, et al.</td>
+<td>Cloning of the ABO genes</td>
+</tr>
+</tbody>
+</table>
+
