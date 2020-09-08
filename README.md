@@ -7,7 +7,8 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/The-10-most-cited-Bioinformatics-papers-of-all-time/blob/master/README.md" style="text-decoration:none;">The 10 most cited Bioinformatics papers of all time</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Brain Segmentation Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/README.md" style="text-decoration:none;">Papers in Biological Sciences </a></li>   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/README.md" style="text-decoration:none;">Papers in Chemical Sciences </a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/README.md" style="text-decoration:none;">Papers in Chemical Sciences </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-unsolved-problems-in-neuroscience/blob/master/README.md" style="text-decoration:none;">List of unsolved problems in neuroscience </a></li>   
 <li><a target="_blank" href="https://github.com/manjunath5496/12-must-read-papers-from-AI-experts/blob/master/README.md" style="text-decoration:none;">12 must-read papers from AI experts</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-chemists/blob/master/README.md" style="text-decoration:none;">List of chemists</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Fashion-ML-Papers/blob/master/README.md" style="text-decoration:none;">Fashion ML Papers</a></li>
