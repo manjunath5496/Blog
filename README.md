@@ -25,6 +25,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Knowledge-Base-Completion-Papers/blob/master/README.md" style="text-decoration:none;">Knowledge Base Completion Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Word-Embeddings-Papers/blob/master/README.md" style="text-decoration:none;">Word Embeddings Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Network-Embedding/blob/master/README.md" style="text-decoration:none;">Must read Papers on Network Embedding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-historically-important-scientific-experiments-and-observations/blob/master/README.md" style="text-decoration:none;">List of historically important scientific experiments and observations</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-biochemists/blob/master/README.md" style="text-decoration:none;">List of biochemists</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/README.md" style="text-decoration:none;">Must read papers on continuous track on Graph Neural Network progress</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Textual-Adversarial-Attack-and-Defense/blob/master/README.md" style="text-decoration:none;"> Must read Papers on Textual Adversarial Attack and Defense</a></li>
