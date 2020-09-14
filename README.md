@@ -13,7 +13,8 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/README.md" style="text-decoration:none;">Papers in Biological Sciences </a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/DL-Recommender-System-Papers/blob/master/README.md" style="text-decoration:none;">Deep Learning Recommender System Papers </a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/Mars-Curiosity-Research-Papers/blob/master/README.md" style="text-decoration:none;">Mars Curiosity Research Papers </a></li>  
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Numerical-Analysis/blob/master/README.md" style="text-decoration:none;">Classical Papers in Numerical Analysis </a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Numerical-Analysis/blob/master/README.md" style="text-decoration:none;">Classical Papers in Numerical Analysis </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Activity Prediction Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Fluid-Dynamics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Fluid Dynamics </a></li>   
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/README.md" style="text-decoration:none;">Papers in Chemical Sciences </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/The-most-influential-climate-change-papers-of-all-time/blob/master/README.md" style="text-decoration:none;">The most influential climate change papers of all time</a></li>
