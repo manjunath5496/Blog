@@ -8,6 +8,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/The-10-most-cited-Bioinformatics-papers-of-all-time/blob/master/README.md" style="text-decoration:none;">The 10 most cited Bioinformatics papers of all time</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Brain Segmentation Papers </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Sequence-Modelling-Papers/blob/master/README.md" style="text-decoration:none;">Sequence Modelling Papers </a></li>  
+     <li><a target="_blank" href="https://github.com/manjunath5496/Search-and-Ranking-Papers/blob/master/README.md" style="text-decoration:none;">Search and Ranking Papers</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Speaker-Diarization-papers/blob/master/README.md" style="text-decoration:none;">Speaker Diarization papers </a></li>     
 <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/README.md" style="text-decoration:none;">Pre-trained Languge Model (PLM) Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Action-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Action Recognition Papers </a></li> 
