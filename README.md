@@ -15,7 +15,7 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Deformable-Convolution-Network-Papers/blob/master/README.md" style="text-decoration:none;">Deformable Convolution Network Papers </a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Continual-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Continual Learning Papers </a></li>  
      <li><a target="_blank" href="https://github.com/manjunath5496/Imitation-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Imitation Learning Papers</a></li>   
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/README.md" style="text-decoration:none;">Pre-trained Languge Model (PLM) Papers </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/README.md" style="text-decoration:none;">Quantum Algorithm Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Action-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Action Recognition Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Stochastic-Analysis-Simulation-and-Statistical-Mechanics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Stochastic Analysis, Simulation, and Statistical Mechanics </a></li>    
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/README.md" style="text-decoration:none;">Papers in Biological Sciences </a></li>  
