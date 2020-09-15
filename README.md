@@ -12,7 +12,8 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Sequence-Modelling-Papers/blob/master/README.md" style="text-decoration:none;">Sequence Modelling Papers </a></li>  
      <li><a target="_blank" href="https://github.com/manjunath5496/Search-and-Ranking-Papers/blob/master/README.md" style="text-decoration:none;">Search and Ranking Papers</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Speaker-Diarization-papers/blob/master/README.md" style="text-decoration:none;">Speaker Diarization papers </a></li>  
-    <li><a target="_blank" href="https://github.com/manjunath5496/Continual-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Continual Learning Papers </a></li>    
+    <li><a target="_blank" href="https://github.com/manjunath5496/Continual-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Continual Learning Papers </a></li>  
+     <li><a target="_blank" href="https://github.com/manjunath5496/Imitation-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Imitation Learning Papers</a></li>   
 <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/README.md" style="text-decoration:none;">Pre-trained Languge Model (PLM) Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Action-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Action Recognition Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Stochastic-Analysis-Simulation-and-Statistical-Mechanics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Stochastic Analysis, Simulation, and Statistical Mechanics </a></li>    
