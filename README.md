@@ -28,7 +28,8 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Classic-Works-in-Evolutionary-Biology/blob/master/README.md" style="text-decoration:none;">Classic Works in Evolutionary Biology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/README.md" style="text-decoration:none;">Papers in Chemical Sciences </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/The-most-influential-climate-change-papers-of-all-time/blob/master/README.md" style="text-decoration:none;">The most influential climate change papers of all time</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/List-of-unsolved-problems-in-neuroscience/blob/master/README.md" style="text-decoration:none;">List of unsolved problems in neuroscience </a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-unsolved-problems-in-neuroscience/blob/master/README.md" style="text-decoration:none;">List of unsolved problems in neuroscience </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dialogue-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Dialogue Generation Papers</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-papers-in-bioinformatics/blob/master/README.md" style="text-decoration:none;">Classical papers in bioinformatics </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/12-must-read-papers-from-AI-experts/blob/master/README.md" style="text-decoration:none;">12 must-read papers from AI experts</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-chemists/blob/master/README.md" style="text-decoration:none;">List of chemists</a></li>
