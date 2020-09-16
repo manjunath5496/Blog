@@ -13,6 +13,7 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-neural-network-papers/blob/master/README.md" style="text-decoration:none;">Bayesian neural network papers </a></li>      
      <li><a target="_blank" href="https://github.com/manjunath5496/Search-and-Ranking-Papers/blob/master/README.md" style="text-decoration:none;">Search and Ranking Papers</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Speaker-Diarization-papers/blob/master/README.md" style="text-decoration:none;">Speaker Diarization papers </a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Background-subtraction-papers/blob/master/README.md" style="text-decoration:none;">Background subtraction papers</a></li>    
        <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/README.md" style="text-decoration:none;">A curated list of papers for Learning with Noisy Labels </a></li>    
       <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Relation-Extraction-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Relation Extraction Papers</a></li>     
       <li><a target="_blank" href="https://github.com/manjunath5496/Deformable-Convolution-Network-Papers/blob/master/README.md" style="text-decoration:none;">Deformable Convolution Network Papers </a></li>
