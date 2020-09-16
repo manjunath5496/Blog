@@ -14,7 +14,8 @@
      <li><a target="_blank" href="https://github.com/manjunath5496/Speaker-Diarization-papers/blob/master/README.md" style="text-decoration:none;">Speaker Diarization papers </a></li>
        <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/README.md" style="text-decoration:none;">A curated list of papers for Learning with Noisy Labels </a></li>    
       <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Relation-Extraction-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Relation Extraction Papers</a></li>     
-      <li><a target="_blank" href="https://github.com/manjunath5496/Deformable-Convolution-Network-Papers/blob/master/README.md" style="text-decoration:none;">Deformable Convolution Network Papers </a></li>    
+      <li><a target="_blank" href="https://github.com/manjunath5496/Deformable-Convolution-Network-Papers/blob/master/README.md" style="text-decoration:none;">Deformable Convolution Network Papers </a></li>
+         <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Pedestrian Attribute Recognition Papers </a></li>     
     <li><a target="_blank" href="https://github.com/manjunath5496/Continual-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Continual Learning Papers </a></li>  
      <li><a target="_blank" href="https://github.com/manjunath5496/Imitation-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Imitation Learning Papers</a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/A-list-of-papers-about-audio-captioning/blob/master/README.md" style="text-decoration:none;">A list of papers about audio captioning</a></li> 
