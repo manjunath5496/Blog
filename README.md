@@ -9,7 +9,8 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Brain Segmentation Papers </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Autonomous-Driving-Papers/blob/master/README.md" style="text-decoration:none;">Deep Autonomous Driving Papers </a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Attention-Model-Papers/blob/master/README.md" style="text-decoration:none;">Attention Model Papers </a></li>  
-    <li><a target="_blank" href="https://github.com/manjunath5496/Sequence-Modelling-Papers/blob/master/README.md" style="text-decoration:none;">Sequence Modelling Papers </a></li>  
+    <li><a target="_blank" href="https://github.com/manjunath5496/Sequence-Modelling-Papers/blob/master/README.md" style="text-decoration:none;">Sequence Modelling Papers </a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-neural-network-papers/blob/master/README.md" style="text-decoration:none;">Bayesian neural network papers </a></li>      
      <li><a target="_blank" href="https://github.com/manjunath5496/Search-and-Ranking-Papers/blob/master/README.md" style="text-decoration:none;">Search and Ranking Papers</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Speaker-Diarization-papers/blob/master/README.md" style="text-decoration:none;">Speaker Diarization papers </a></li>
        <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/README.md" style="text-decoration:none;">A curated list of papers for Learning with Noisy Labels </a></li>    
