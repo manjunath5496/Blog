@@ -8,6 +8,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/The-10-most-cited-Bioinformatics-papers-of-all-time/blob/master/README.md" style="text-decoration:none;">The 10 most cited Bioinformatics papers of all time</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Brain Segmentation Papers </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Autonomous-Driving-Papers/blob/master/README.md" style="text-decoration:none;">Deep Autonomous Driving Papers </a></li> 
+     <li><a target="_blank" href="https://github.com/manjunath5496/SOD-CNNs-based-Read-List/blob/master/README.md" style="text-decoration:none;">SOD CNNs based Read List </a></li>      
      <li><a target="_blank" href="https://github.com/manjunath5496/Meta-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Meta Learning Papers </a></li>     
        <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/README.md" style="text-decoration:none;">Deep Neuroevolution Papers</a></li>  
          <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Agent-Reinforcement-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Multi Agent Reinforcement Learning Papers</a></li>      
