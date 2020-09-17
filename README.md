@@ -17,7 +17,8 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Sequence-Modelling-Papers/blob/master/README.md" style="text-decoration:none;">Sequence Modelling Papers </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Mean-field-theory-deep-learning-papers/blob/master/README.md" style="text-decoration:none;">Mean field theory deep learning papers</a></li>   
      <li><a target="_blank" href="https://github.com/manjunath5496/Deeplearning-Biology-Papers/blob/master/README.md" style="text-decoration:none;">Deeplearning Biology Papers </a></li>  
-    <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-neural-network-papers/blob/master/README.md" style="text-decoration:none;">Bayesian neural network papers </a></li>      
+    <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-neural-network-papers/blob/master/README.md" style="text-decoration:none;">Bayesian neural network papers </a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Self Supervised Learning Papers </a></li>     
      <li><a target="_blank" href="https://github.com/manjunath5496/Search-and-Ranking-Papers/blob/master/README.md" style="text-decoration:none;">Search and Ranking Papers</a></li> 
       <li><a target="_blank" href="https://github.com/manjunath5496/Image-Retrieval-Papers/blob/master/README.md" style="text-decoration:none;">Image Retrieval Papers</a></li>       
      <li><a target="_blank" href="https://github.com/manjunath5496/Speaker-Diarization-papers/blob/master/README.md" style="text-decoration:none;">Speaker Diarization papers </a></li>
