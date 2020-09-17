@@ -9,7 +9,8 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Brain Segmentation Papers </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Autonomous-Driving-Papers/blob/master/README.md" style="text-decoration:none;">Deep Autonomous Driving Papers </a></li> 
      <li><a target="_blank" href="https://github.com/manjunath5496/Meta-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Meta Learning Papers </a></li>     
-       <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/README.md" style="text-decoration:none;">Deep Neuroevolution Papers</a></li>    
+       <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/README.md" style="text-decoration:none;">Deep Neuroevolution Papers</a></li>  
+         <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Agent-Reinforcement-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Multi Agent Reinforcement Learning Papers</a></li>      
     <li><a target="_blank" href="https://github.com/manjunath5496/Attention-Model-Papers/blob/master/README.md" style="text-decoration:none;">Attention Model Papers </a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/Sequence-Modelling-Papers/blob/master/README.md" style="text-decoration:none;">Sequence Modelling Papers </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Mean-field-theory-deep-learning-papers/blob/master/README.md" style="text-decoration:none;">Mean field theory deep learning papers</a></li>   
