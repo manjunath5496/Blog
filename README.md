@@ -15,6 +15,7 @@
          <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Agent-Reinforcement-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Multi Agent Reinforcement Learning Papers</a></li>      
     <li><a target="_blank" href="https://github.com/manjunath5496/Attention-Model-Papers/blob/master/README.md" style="text-decoration:none;">Attention Model Papers </a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/Sequence-Modelling-Papers/blob/master/README.md" style="text-decoration:none;">Sequence Modelling Papers </a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-point-cloud-analysis-papers/blob/master/README.md" style="text-decoration:none;">Awesome point cloud analysis papers </a></li>   
      <li><a target="_blank" href="https://github.com/manjunath5496/Mean-field-theory-deep-learning-papers/blob/master/README.md" style="text-decoration:none;">Mean field theory deep learning papers</a></li>   
      <li><a target="_blank" href="https://github.com/manjunath5496/Deeplearning-Biology-Papers/blob/master/README.md" style="text-decoration:none;">Deeplearning Biology Papers </a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-neural-network-papers/blob/master/README.md" style="text-decoration:none;">Bayesian neural network papers </a></li>
