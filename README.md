@@ -8,6 +8,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Paper-List-for-Style-Transfer-in-Text/blob/master/README.md" style="text-decoration:none;">Paper List for Style Transfer in Text</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/README.md" style="text-decoration:none;">COVID 19 Imaging based AI Research Papers</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-infectious-diseases/blob/master/README.md" style="text-decoration:none;">List of infectious diseases</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Simultaneous-localization-and-mapping-papers/blob/master/README.md" style="text-decoration:none;">Simultaneous localization and mapping (SLAM) papers</a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/The-10-most-cited-Bioinformatics-papers-of-all-time/blob/master/README.md" style="text-decoration:none;">The 10 most cited Bioinformatics papers of all time</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Brain Segmentation Papers </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Articles/blob/master/README.md" style="text-decoration:none;">Heuristics Articles </a></li> 
