@@ -24,7 +24,8 @@
      <li><a target="_blank" href="https://github.com/manjunath5496/Supertech-Papers/blob/master/README.md" style="text-decoration:none;">Supertech Papers</a></li>    
    <li><a target="_blank" href="https://github.com/manjunath5496/DL-Papers-on-Medical-Image-Analysis/blob/master/README.md" style="text-decoration:none;">DL Papers on Medical Image Analysis</a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/Top-9-most-influential-papers-in-the-neuroscience-of-language/blob/master/README.md" style="text-decoration:none;">Top 9 most influential papers in the neuroscience of language</a></li>    
-    <li><a target="_blank" href="https://github.com/manjunath5496/Simultaneous-localization-and-mapping-papers/blob/master/README.md" style="text-decoration:none;">Simultaneous localization and mapping (SLAM) papers</a></li>   
+    <li><a target="_blank" href="https://github.com/manjunath5496/Simultaneous-localization-and-mapping-papers/blob/master/README.md" style="text-decoration:none;">Simultaneous localization and mapping (SLAM) papers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/README.md" style="text-decoration:none;">Shafi Goldwasser Publications</a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/The-10-most-cited-Bioinformatics-papers-of-all-time/blob/master/README.md" style="text-decoration:none;">The 10 most cited Bioinformatics papers of all time</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Jewish-American-computer-scientists/blob/master/README.md" style="text-decoration:none;">List of Jewish American computer scientists</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Brain Segmentation Papers </a></li>
