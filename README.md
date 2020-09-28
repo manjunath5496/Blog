@@ -6,6 +6,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/README.md" style="text-decoration:none;">Machine Translation Reading List </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Paper-List-for-Style-Transfer-in-Text/blob/master/README.md" style="text-decoration:none;">Paper List for Style Transfer in Text</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-programming-language-researchers/blob/master/README.md" style="text-decoration:none;">List of programming language researchers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/The-19-most-popular-academic-papers/blob/master/README.md" style="text-decoration:none;">The 19 most popular academic papers</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/List-of-computer-scientists/blob/master/README.md" style="text-decoration:none;">List of computer scientists</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/README.md" style="text-decoration:none;">Top Cited Articles of All Time</a></li>
