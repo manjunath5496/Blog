@@ -8,6 +8,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Paper-List-for-Style-Transfer-in-Text/blob/master/README.md" style="text-decoration:none;">Paper List for Style Transfer in Text</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/The-19-most-popular-academic-papers/blob/master/README.md" style="text-decoration:none;">The 19 most popular academic papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/README.md" style="text-decoration:none;">Top Cited Articles of All Time</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/README.md" style="text-decoration:none;">Technical papers for Engineering students</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-equations/blob/master/README.md" style="text-decoration:none;">List of Equations</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Wireless-communication-Based-on-DL-Papers/blob/master/README.md" style="text-decoration:none;">Wireless Communication Based on DL Papers</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Virtual-Reality-Papers/blob/master/README.md" style="text-decoration:none;">Virtual Reality Papers</a></li>  
