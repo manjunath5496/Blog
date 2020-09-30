@@ -9,6 +9,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Leslie-Valiant-Publications/blob/master/README.md" style="text-decoration:none;">Leslie Valiant Publications</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/10-Computer-Scientists-Who-Made-History/blob/master/README.md" style="text-decoration:none;">10 Computer Scientists Who Made History</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-programming-language-researchers/blob/master/README.md" style="text-decoration:none;">List of programming language researchers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Edmund-Melson-Clarke-Publications/blob/master/README.md" style="text-decoration:none;">Edmund Melson Clarke Publications</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/The-19-most-popular-academic-papers/blob/master/README.md" style="text-decoration:none;">The 19 most popular academic papers</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Judea-Pearl-Publications/blob/master/README.md" style="text-decoration:none;">Judea Pearl Publications</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/List-of-computer-scientists/blob/master/README.md" style="text-decoration:none;">List of computer scientists</a></li>
