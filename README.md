@@ -23,6 +23,7 @@ Geoffrey E. Hinton Publications</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/List-of-computer-scientists/blob/master/README.md" style="text-decoration:none;">List of computer scientists</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/README.md" style="text-decoration:none;">Top Cited Articles of All Time</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/README.md" style="text-decoration:none;">Technical papers for Engineering students</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Linux-kernel-security-papers/blob/master/README.md" style="text-decoration:none;">Linux kernel security papers</a></li>   
     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/README.md" style="text-decoration:none;">Technical oriented Papers</a></li>  
      <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/README.md" style="text-decoration:none;">Butler W. Lampson Publications</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-Russian-IT-developers/blob/master/README.md" style="text-decoration:none;">List of Russian IT developers</a></li>    
