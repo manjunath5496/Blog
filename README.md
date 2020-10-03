@@ -7,6 +7,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/README.md" style="text-decoration:none;">Machine Translation Reading List </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Manuel-Blum-Publications/blob/master/README.md" style="text-decoration:none;">Manuel Blum Publications </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Paper-List-for-Style-Transfer-in-Text/blob/master/README.md" style="text-decoration:none;">Paper List for Style Transfer in Text</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Guard-Extensions-Papers/blob/master/README.md" style="text-decoration:none;">Software Guard Extensions Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Stephen-A-Cook-Publications/blob/master/README.md" style="text-decoration:none;">Stephen A. Cook Publications</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Leslie-Valiant-Publications/blob/master/README.md" style="text-decoration:none;">Leslie Valiant Publications</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Jeffrey-Ullman-Publications/blob/master/README.md" style="text-decoration:none;">Jeffrey Ullman Publications</a></li> 
