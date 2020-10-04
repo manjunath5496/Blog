@@ -25,6 +25,7 @@ Geoffrey E. Hinton Publications</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/The-19-most-popular-academic-papers/blob/master/README.md" style="text-decoration:none;">The 19 most popular academic papers</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Judea-Pearl-Publications/blob/master/README.md" style="text-decoration:none;">Judea Pearl Publications</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/List-of-computer-scientists/blob/master/README.md" style="text-decoration:none;">List of computer scientists</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/List-of-dyes/blob/master/README.md" style="text-decoration:none;">List of dyes with Colour Index International generic names and numbers.</a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/README.md" style="text-decoration:none;">Top Cited Articles of All Time</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/README.md" style="text-decoration:none;">Technical papers for Engineering students</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Linux-kernel-security-papers/blob/master/README.md" style="text-decoration:none;">Linux kernel security papers</a></li>   
