@@ -9,7 +9,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Paper-List-for-Style-Transfer-in-Text/blob/master/README.md" style="text-decoration:none;">Paper List for Style Transfer in Text</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-organic-reactions/blob/master/README.md" style="text-decoration:none;">List of organic reactions</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-purification-methods-in-chemistry/blob/master/README.md" style="text-decoration:none;">List of purification methods in chemistry</a></li>
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/MARL-Opponent-Aware-algorithms-papers/blob/master/README.md" style="text-decoration:none;">Multi-Agent Reinforcement Learning (MARL) Opponent-Aware algorithms Papers</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-ester-odorants/blob/master/README.md" style="text-decoration:none;">List of ester odorants</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/README.md" style="text-decoration:none;">Computational Intelligence Papers</a></li>
