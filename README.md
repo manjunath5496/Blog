@@ -11,6 +11,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-purification-methods-in-chemistry/blob/master/README.md" style="text-decoration:none;">List of purification methods in chemistry</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/MARL-Opponent-Aware-algorithms-papers/blob/master/README.md" style="text-decoration:none;">Multi-Agent Reinforcement Learning (MARL) Opponent-Aware algorithms Papers</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-ester-odorants/blob/master/README.md" style="text-decoration:none;">List of ester odorants</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/4-Papers-on-CNNs-Every-Data-Scientist-Should-Read/blob/master/README.md" style="text-decoration:none;">4 Papers on CNNs Every Data Scientist Should Read</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/README.md" style="text-decoration:none;">Computational Intelligence Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Guard-Extensions-Papers/blob/master/README.md" style="text-decoration:none;">Software Guard Extensions (SGX) Papers</a></li>
