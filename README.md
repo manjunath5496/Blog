@@ -29,6 +29,7 @@ Awesome Game AI papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-programming-language-researchers/blob/master/README.md" style="text-decoration:none;">List of programming language researchers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Edmund-Melson-Clarke-Publications/blob/master/README.md" style="text-decoration:none;">Edmund Melson Clarke Publications</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/The-19-most-popular-academic-papers/blob/master/README.md" style="text-decoration:none;">The 19 most popular academic papers</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/README.md" style="text-decoration:none;">Vision based Robotic Grasping Papers</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Judea-Pearl-Publications/blob/master/README.md" style="text-decoration:none;">Judea Pearl Publications</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/List-of-computer-scientists/blob/master/README.md" style="text-decoration:none;">List of computer scientists</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/List-of-dyes/blob/master/README.md" style="text-decoration:none;">List of dyes with Colour Index International generic names and numbers.</a></li>   
