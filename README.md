@@ -7,6 +7,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/README.md" style="text-decoration:none;">Machine Translation Reading List </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Paper-List/blob/master/README.md" style="text-decoration:none;">Multi Object Tracking Paper List</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Disentangled-Representation-Papers/blob/master/README.md" style="text-decoration:none;">Disentangled Representation Papers </a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Understanding-Papers/blob/master/README.md" style="text-decoration:none;">Scene Text Understanding Papers </a></li>   
     <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/README.md" style="text-decoration:none;">Recurrent Neural Network Papers </a></li>   
    <li><a target="_blank" href="https://github.com/manjunath5496/Lane-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Lane Detection Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Manuel-Blum-Publications/blob/master/README.md" style="text-decoration:none;">Manuel Blum Publications </a></li>    <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/README.md" style="text-decoration:none;">Python Papers </a></li>
