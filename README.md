@@ -6,6 +6,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/README.md" style="text-decoration:none;">Machine Translation Reading List </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Paper-List/blob/master/README.md" style="text-decoration:none;">Multi Object Tracking Paper List</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/README.md" style="text-decoration:none;">Machine Learning for Cyber Security Papers</a></li>   
    <li><a target="_blank" href="https://github.com/manjunath5496/Disentangled-Representation-Papers/blob/master/README.md" style="text-decoration:none;">Disentangled Representation Papers </a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Understanding-Papers/blob/master/README.md" style="text-decoration:none;">Scene Text Understanding Papers </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/DL-papers-on-text-detection-and-recognition/blob/master/README.md" style="text-decoration:none;">Deep Learning papers on text detection and recognition </a></li>     
