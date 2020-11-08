@@ -12,7 +12,10 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/README.md" style="text-decoration:none;">9 Most Popular AI  Presentations</a></li>   
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/README.md" style="text-decoration:none;">Machine Learning for Cyber Security Papers</a></li>   
    <li><a target="_blank" href="https://github.com/manjunath5496/Disentangled-Representation-Papers/blob/master/README.md" style="text-decoration:none;">Disentangled Representation Papers </a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Top-15-Google-AI-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 15 Google AI Research Papers </a></li>   
+    <li><a target="_blank" href="https://github.com/manjunath5496/IoT-Reading-List/blob/master/README.md" style="text-decoration:none;">IoT Reading List </a></li>   
+     <li><a target="_blank" href="https://github.com/manjunath5496/Person-Search-Papers/blob/master/README.md" style="text-decoration:none;">Person Search Papers </a></li>   
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-15-Google-AI-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 15 Google AI Research Papers </a></li>   
     <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Understanding-Papers/blob/master/README.md" style="text-decoration:none;">Scene Text Understanding Papers </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/DL-papers-on-text-detection-and-recognition/blob/master/README.md" style="text-decoration:none;">Deep Learning papers on text detection and recognition </a></li>     
     <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/README.md" style="text-decoration:none;">Recurrent Neural Network Papers </a></li>  
