@@ -20,7 +20,8 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-15-Google-AI-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 15 Google AI Research Papers </a></li>   
     <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Understanding-Papers/blob/master/README.md" style="text-decoration:none;">Scene Text Understanding Papers </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/DL-papers-on-text-detection-and-recognition/blob/master/README.md" style="text-decoration:none;">Deep Learning papers on text detection and recognition </a></li>     
-    <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/README.md" style="text-decoration:none;">Recurrent Neural Network Papers </a></li>  
+    <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/README.md" style="text-decoration:none;">Recurrent Neural Network Papers </a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/README.md" style="text-decoration:none;">CS Papers </a></li>      
   <li><a target="_blank" href="https://github.com/manjunath5496/Text-to-image-papers/blob/master/README.md" style="text-decoration:none;">Text to image papers </a></li>   
    <li><a target="_blank" href="https://github.com/manjunath5496/Lane-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Lane Detection Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Manuel-Blum-Publications/blob/master/README.md" style="text-decoration:none;">Manuel Blum Publications </a></li>    <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/README.md" style="text-decoration:none;">Python Papers </a></li>
