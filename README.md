@@ -5,6 +5,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-women-in-mathematics/blob/master/README.md" style="text-decoration:none;">Timeline of women in mathematics </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/README.md" style="text-decoration:none;">Aerial object detection papers</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Data Science Research Papers</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Git-Commands/blob/master/README.md" style="text-decoration:none;">Git Commands</a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/README.md" style="text-decoration:none;">Machine Translation Reading List </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/README.md" style="text-decoration:none;">Deepfakes Papers </a></li>  
