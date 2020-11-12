@@ -14,6 +14,7 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-ML-Papers/blob/master/README.md" style="text-decoration:none;"> Chemistry ML Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-to-Image-papers/blob/master/README.md" style="text-decoration:none;">Image to Image papers</a></li>  
    <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Paper-List/blob/master/README.md" style="text-decoration:none;">Multi Object Tracking Paper List</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/README.md" style="text-decoration:none;">Open Set Recognition Paper List</a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/README.md" style="text-decoration:none;">9 Most Popular AI  Presentations</a></li>  
    <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/README.md" style="text-decoration:none;">Math ML Papers</a></li>  
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/README.md" style="text-decoration:none;">Machine Learning for Cyber Security Papers</a></li>   
