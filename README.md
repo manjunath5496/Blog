@@ -40,7 +40,8 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Keras-Reading-List/blob/master/README.md" style="text-decoration:none;">Keras Reading List</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-organic-reactions/blob/master/README.md" style="text-decoration:none;">List of organic reactions</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Bayesian Deep Learning Papers</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/README.md" style="text-decoration:none;">38 Must Read Papers on AI</a></li>     
+    <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/README.md" style="text-decoration:none;">38 Must Read Papers on AI</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Chip-Papers/blob/master/README.md" style="text-decoration:none;">AI Chip Papers</a></li>     
      <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Style-Transfer-Papers/blob/master/README.md" style="text-decoration:none;">Neural Style Transfer Papers</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Neuroeconomics-Papers/blob/master/README.md" style="text-decoration:none;">Neuroeconomics Papers</a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Cloud-Computing-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 Cloud Computing Papers</a></li>
