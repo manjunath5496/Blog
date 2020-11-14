@@ -10,6 +10,7 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Question-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Question Generation Papers</a></li>   
      <li><a target="_blank" href="https://github.com/manjunath5496/Single-Object-Visual-Tracking-Papers/blob/master/README.md" style="text-decoration:none;">Single Object Visual Tracking Papers</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Data Science Research Papers</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Model-Compression-Paper-List/blob/master/README.md" style="text-decoration:none;">Model Compression Paper List</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Network-Speed-and-Compression-Papers/blob/master/README.md" style="text-decoration:none;">Network Speed and Compression Papers</a></li>    
    <li><a target="_blank" href="https://github.com/manjunath5496/Dialogue-and-Interactive-Systems-Papers/blob/master/README.md" style="text-decoration:none;">Dialogue and Interactive Systems Papers</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Git-Commands/blob/master/README.md" style="text-decoration:none;">Git Commands</a></li>   
