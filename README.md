@@ -5,7 +5,8 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-women-in-mathematics/blob/master/README.md" style="text-decoration:none;">Timeline of women in mathematics </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/README.md" style="text-decoration:none;">Aerial object detection papers</a></li>
-     <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/README.md" style="text-decoration:none;">Multi Object Tracking Papers</a></li>   
+     <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/README.md" style="text-decoration:none;">Multi Object Tracking Papers</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Trajectory-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Trajectory Prediction Papers</a></li>     
     <li><a target="_blank" href="https://github.com/manjunath5496/Zero-Shot-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Zero Shot Learning Papers</a></li> 
      <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/README.md" style="text-decoration:none;">Automated DL Papers</a></li>    
       <li><a target="_blank" href="https://github.com/manjunath5496/Question-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Question Generation Papers</a></li> 
