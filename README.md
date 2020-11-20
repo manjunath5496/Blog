@@ -16,6 +16,7 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Network-Pruning-Papers/blob/master/README.md" style="text-decoration:none;">Neural Network Pruning Papers</a></li> 
      <li><a target="_blank" href="https://github.com/manjunath5496/Human-Trajectory-Forecasting-Papers/blob/master/README.md" style="text-decoration:none;">Human Trajectory Forecasting Papers</a></li>      
       <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-DL-Papers/blob/master/README.md" style="text-decoration:none;">Bayesian Deep Learning Papers</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Omics-Paper-List/blob/master/README.md" style="text-decoration:none;">Multi Omics Paper List</a></li>      
 <li><a target="_blank" href="https://github.com/manjunath5496/miRNA-target-gene-prediction-papers/blob/master/README.md" style="text-decoration:none;">miRNA Target Gene Prediction Papers</a></li>         
      <li><a target="_blank" href="https://github.com/manjunath5496/Single-Object-Visual-Tracking-Papers/blob/master/README.md" style="text-decoration:none;">Single Object Visual Tracking Papers</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Data Science Research Papers</a></li>  
