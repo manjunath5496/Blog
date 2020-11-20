@@ -7,7 +7,8 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/README.md" style="text-decoration:none;">Aerial object detection papers</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/README.md" style="text-decoration:none;">Multi Object Tracking Papers</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Statistical-Genetics-Papers/blob/master/README.md" style="text-decoration:none;">Statistical Genetics Papers</a></li>    
-      <li><a target="_blank" href="https://github.com/manjunath5496/Trajectory-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Trajectory Prediction Papers</a></li>     
+      <li><a target="_blank" href="https://github.com/manjunath5496/Trajectory-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Trajectory Prediction Papers</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/README.md" style="text-decoration:none;">Genomics Papers</a></li>      
     <li><a target="_blank" href="https://github.com/manjunath5496/Zero-Shot-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Zero Shot Learning Papers</a></li> 
      <li><a target="_blank" href="https://github.com/manjunath5496/Applied-ML-Papers/blob/master/README.md" style="text-decoration:none;">Applied ML Papers</a></li>    
    <li><a target="_blank" href="https://github.com/manjunath5496/Topic-Modeling-Papers/blob/master/README.md" style="text-decoration:none;">Topic Modeling Papers</a></li>    
