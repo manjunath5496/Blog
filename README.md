@@ -42,7 +42,8 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Efficient-DNN-Paper-List/blob/master/README.md" style="text-decoration:none;">Efficient DNN Paper List </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/README.md" style="text-decoration:none;">Deepfakes Papers </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Ordinary-Differential-Equation-Based-Analysis-Papers/blob/master/README.md" style="text-decoration:none;"> Ordinary Differential Equation (ODE) Based Analysis Papers </a></li> 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Separation-Papers/blob/master/README.md" style="text-decoration:none;"> Speech Separation Papers </a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Separation-Papers/blob/master/README.md" style="text-decoration:none;"> Speech Separation Papers </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Temporal-Logic-Papers/blob/master/README.md" style="text-decoration:none;"> Temporal Logic Papers </a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Image-Super-Resolution-Papers/blob/master/README.md" style="text-decoration:none;"> Single Image Super Resolution Papers </a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-ML-Papers/blob/master/README.md" style="text-decoration:none;"> Chemistry ML Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-to-Image-papers/blob/master/README.md" style="text-decoration:none;">Image to Image papers</a></li>  
