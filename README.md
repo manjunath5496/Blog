@@ -12,7 +12,8 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Trajectory-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Trajectory Prediction Papers</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Acoustic-Scene-Classification-Papers/blob/master/README.md" style="text-decoration:none;">Acoustic Scene Classification Papers</a></li>      
   <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/README.md" style="text-decoration:none;">Genomics Papers</a></li>      
-    <li><a target="_blank" href="https://github.com/manjunath5496/Zero-Shot-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Zero Shot Learning Papers</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Zero-Shot-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Zero Shot Learning Papers</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-Networks-Papers/blob/master/README.md" style="text-decoration:none;">Bayesian Networks Papers</a></li>     
      <li><a target="_blank" href="https://github.com/manjunath5496/Applied-ML-Papers/blob/master/README.md" style="text-decoration:none;">Applied ML Papers</a></li>    
    <li><a target="_blank" href="https://github.com/manjunath5496/Topic-Modeling-Papers/blob/master/README.md" style="text-decoration:none;">Topic Modeling Papers</a></li>    
  <li><a target="_blank" href="https://github.com/manjunath5496/Autoencoders-Papers/blob/master/README.md" style="text-decoration:none;">Autoencoders Papers</a></li>     
