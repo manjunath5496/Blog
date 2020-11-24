@@ -13,7 +13,9 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Trajectory-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Trajectory Prediction Papers</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Feature-Extraction-Papers/blob/master/README.md" style="text-decoration:none;">Feature Extraction Papers</a></li>      
      <li><a target="_blank" href="https://github.com/manjunath5496/Acoustic-Scene-Classification-Papers/blob/master/README.md" style="text-decoration:none;">Acoustic Scene Classification Papers</a></li>
-      <li><a target="_blank" href="https://github.com/manjunath5496/Transformer-Papers/blob/master/README.md" style="text-decoration:none;">Transformer Papers</a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-View-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Multi-View Learning Papers</a></li>     
+     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Transformer-Papers/blob/master/README.md" style="text-decoration:none;">Transformer Papers</a></li>    
   <li><a target="_blank" href="https://github.com/manjunath5496/Missing-Data-Papers/blob/master/README.md" style="text-decoration:none;">Missing Data Papers</a></li>      
   <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/README.md" style="text-decoration:none;">Genomics Papers</a></li>      
     <li><a target="_blank" href="https://github.com/manjunath5496/Zero-Shot-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Zero Shot Learning Papers</a></li>
