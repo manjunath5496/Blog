@@ -13,6 +13,7 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Enhancement-Papers/blob/master/README.md" style="text-decoration:none;">Speech Enhancement Papers</a></li>  
       <li><a target="_blank" href="https://github.com/manjunath5496/Adversarial-Defense-Papers/blob/master/README.md" style="text-decoration:none;">Adversarial Defense Papers</a></li>         
       <li><a target="_blank" href="https://github.com/manjunath5496/Trajectory-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Trajectory Prediction Papers</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/README.md" style="text-decoration:none;">Data Visualization Papers</a></li>      
       <li><a target="_blank" href="https://github.com/manjunath5496/Feature-Extraction-Papers/blob/master/README.md" style="text-decoration:none;">Feature Extraction Papers</a></li>   
 <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Armed-Bandits-Papers/blob/master/README.md" style="text-decoration:none;">Multi Armed Bandits Papers</a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/Speaker-Verification-Papers/blob/master/README.md" style="text-decoration:none;">Speaker Verification Papers</a></li>
