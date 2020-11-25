@@ -30,6 +30,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Autoencoders-Papers/blob/master/README.md" style="text-decoration:none;">Autoencoders Papers</a></li>     
      <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/README.md" style="text-decoration:none;">Automated DL Papers</a></li>    
       <li><a target="_blank" href="https://github.com/manjunath5496/Question-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Question Generation Papers</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Feature-Selection-Papers/blob/master/README.md" style="text-decoration:none;">Feature Selection Papers</a></li>       
       <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Network-Pruning-Papers/blob/master/README.md" style="text-decoration:none;">Neural Network Pruning Papers</a></li> 
      <li><a target="_blank" href="https://github.com/manjunath5496/Human-Trajectory-Forecasting-Papers/blob/master/README.md" style="text-decoration:none;">Human Trajectory Forecasting Papers</a></li>      
       <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-DL-Papers/blob/master/README.md" style="text-decoration:none;">Bayesian Deep Learning Papers</a></li>
