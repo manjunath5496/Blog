@@ -12,6 +12,7 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Top-7-Machine-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Top 7 Machine Learning Papers</a></li>
        <li><a target="_blank" href="https://github.com/manjunath5496/Optimization-Papers/blob/master/README.md" style="text-decoration:none;">Optimization Papers</a></li>      
       <li><a target="_blank" href="https://github.com/manjunath5496/Statistical-Genetics-Papers/blob/master/README.md" style="text-decoration:none;">Statistical Genetics Papers</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/README.md" style="text-decoration:none;">Chemistry Textbooks</a></li>      
    <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/README.md" style="text-decoration:none;">Complex Networks Papers</a></li>     
       <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Enhancement-Papers/blob/master/README.md" style="text-decoration:none;">Speech Enhancement Papers</a></li>  
       <li><a target="_blank" href="https://github.com/manjunath5496/Adversarial-Defense-Papers/blob/master/README.md" style="text-decoration:none;">Adversarial Defense Papers</a></li> 
