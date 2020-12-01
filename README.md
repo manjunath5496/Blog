@@ -19,6 +19,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Interpretable-Machine-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Interpretable Machine Learning Papers</a></li>     
       <li><a target="_blank" href="https://github.com/manjunath5496/Trajectory-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Trajectory Prediction Papers</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/README.md" style="text-decoration:none;">Data Visualization Papers</a></li>
+       <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/README.md" style="text-decoration:none;">Psychiatry ML Papers</a></li>     
       <li><a target="_blank" href="https://github.com/manjunath5496/Top-50-Earth-and-Planetary-Sciences-Articles/blob/master/README.md" style="text-decoration:none;">Top 50 Earth and Planetary Sciences Articles</a></li>         
       <li><a target="_blank" href="https://github.com/manjunath5496/Feature-Extraction-Papers/blob/master/README.md" style="text-decoration:none;">Feature Extraction Papers</a></li>   
 <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Armed-Bandits-Papers/blob/master/README.md" style="text-decoration:none;">Multi Armed Bandits Papers</a></li>  
