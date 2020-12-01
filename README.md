@@ -1,4 +1,4 @@
-<img src="partners.jpg" alt="Smiley face">
+<img src="blog.jpg" alt="Smiley face">
  <ul>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/README.md" style="text-decoration:none;">Classic Papers in Applied Mathematics </a></li>
