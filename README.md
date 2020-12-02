@@ -53,6 +53,7 @@
      <li><a target="_blank" href="https://github.com/manjunath5496/Single-Object-Visual-Tracking-Papers/blob/master/README.md" style="text-decoration:none;">Single Object Visual Tracking Papers</a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/Crowd-Counting-Papers/blob/master/README.md" style="text-decoration:none;">Crowd Counting Papers</a></li>         
     <li><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Data Science Research Papers</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/README.md" style="text-decoration:none;">Variational Autoencoder Papers</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/README.md" style="text-decoration:none;">Voice Conversion Papers</a></li>    
   <li><a target="_blank" href="https://github.com/manjunath5496/Model-Compression-Paper-List/blob/master/README.md" style="text-decoration:none;">Model Compression Paper List</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Network-Speed-and-Compression-Papers/blob/master/README.md" style="text-decoration:none;">Network Speed and Compression Papers</a></li>
