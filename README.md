@@ -18,7 +18,8 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/README.md" style="text-decoration:none;">Complex Networks Papers</a></li>     
       <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Enhancement-Papers/blob/master/README.md" style="text-decoration:none;">Speech Enhancement Papers</a></li>  
       <li><a target="_blank" href="https://github.com/manjunath5496/Adversarial-Defense-Papers/blob/master/README.md" style="text-decoration:none;">Adversarial Defense Papers</a></li> 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Interpretable-Machine-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Interpretable Machine Learning Papers</a></li>     
+   <li><a target="_blank" href="https://github.com/manjunath5496/Interpretable-Machine-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Interpretable Machine Learning Papers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Global-Sustainability-Research-Papers/blob/master/README.md" style="text-decoration:none;">Global Sustainability Research Papers</a></li>      
       <li><a target="_blank" href="https://github.com/manjunath5496/Trajectory-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Trajectory Prediction Papers</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/README.md" style="text-decoration:none;">Data Visualization Papers</a></li>
        <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/README.md" style="text-decoration:none;">Psychiatry ML Papers</a></li>     
