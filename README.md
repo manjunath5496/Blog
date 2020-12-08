@@ -12,6 +12,7 @@
      <li><a target="_blank" href="https://github.com/manjunath5496/Image-Inpainting-Papers/blob/master/README.md" style="text-decoration:none;">Image Inpainting Papers</a></li>     
    <li><a target="_blank" href="https://github.com/manjunath5496/Decision-Tree-Paper-List/blob/master/README.md" style="text-decoration:none;">Decision Tree Paper List</a></li> <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Federated Learning Papers</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Top-7-Machine-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Top 7 Machine Learning Papers</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/README.md" style="text-decoration:none;">Geoscience ML Papers</a></li>     
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/README.md" style="text-decoration:none;">ML Lectures</a></li>      
        <li><a target="_blank" href="https://github.com/manjunath5496/Optimization-Papers/blob/master/README.md" style="text-decoration:none;">Optimization Papers</a></li>      
       <li><a target="_blank" href="https://github.com/manjunath5496/Statistical-Genetics-Papers/blob/master/README.md" style="text-decoration:none;">Statistical Genetics Papers</a></li> 
