@@ -20,7 +20,8 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/README.md" style="text-decoration:none;">Chemistry Textbooks</a></li>      
    <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/README.md" style="text-decoration:none;">Complex Networks Papers</a></li>      <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Random-Forest-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Random Forest Papers</a></li>     
       <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Enhancement-Papers/blob/master/README.md" style="text-decoration:none;">Speech Enhancement Papers</a></li>  
-      <li><a target="_blank" href="https://github.com/manjunath5496/Natural-Language-Understanding-Papers/blob/master/README.md" style="text-decoration:none;">Natural Language Understanding Papers</a></li>        
+      <li><a target="_blank" href="https://github.com/manjunath5496/Natural-Language-Understanding-Papers/blob/master/README.md" style="text-decoration:none;">Natural Language Understanding Papers</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/README.md" style="text-decoration:none;">Algorithmic Trading DL Papers</a></li>       
       <li><a target="_blank" href="https://github.com/manjunath5496/Classic-Big-Data-Papers/blob/master/README.md" style="text-decoration:none;">Classic Big Data Papers</a></li>       
       <li><a target="_blank" href="https://github.com/manjunath5496/Adversarial-Defense-Papers/blob/master/README.md" style="text-decoration:none;">Adversarial Defense Papers</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/README.md" style="text-decoration:none;">Ecology DL Papers</a></li>      
