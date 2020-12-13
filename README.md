@@ -7,7 +7,8 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Enhancement-Papers/blob/master/README.md" style="text-decoration:none;">Image Enhancement Papers </a></li>   <li><a target="_blank" href="https://github.com/manjunath5496/Medical-Image-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Medical Image Segmentation Papers </a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/README.md" style="text-decoration:none;">Aerial object detection papers</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Economics-Books/blob/master/README.md" style="text-decoration:none;">Open Source Economics Books</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Few-Shot-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Few Shot Learning Papers</a></li>   
+    <li><a target="_blank" href="https://github.com/manjunath5496/Few-Shot-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Few Shot Learning Papers</a></li> 
+     <li><a target="_blank" href="https://github.com/manjunath5496/Drone-Navigation-DL-Papers/blob/master/README.md" style="text-decoration:none;">Drone Navigation DL Papers</a></li>     
     <li><a target="_blank" href="https://github.com/manjunath5496/Top-4-Analytical-Chemistry-Articles/blob/master/README.md" style="text-decoration:none;">Top 4 Analytical Chemistry Articles</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Typography-Papers/blob/master/README.md" style="text-decoration:none;">Typography Papers</a></li>   
      <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/README.md" style="text-decoration:none;">Deep Computational Phenotyping Papers</a></li> 
