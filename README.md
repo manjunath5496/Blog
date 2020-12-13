@@ -8,6 +8,7 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/README.md" style="text-decoration:none;">Aerial object detection papers</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Generalization-Papers/blob/master/README.md" style="text-decoration:none;">Domain Generalization Papers</a></li>   
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Economics-Books/blob/master/README.md" style="text-decoration:none;">Open Source Economics Books</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Geometry-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Geometry Learning Papers</a></li>   
     <li><a target="_blank" href="https://github.com/manjunath5496/Few-Shot-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Few Shot Learning Papers</a></li> 
      <li><a target="_blank" href="https://github.com/manjunath5496/Drone-Navigation-DL-Papers/blob/master/README.md" style="text-decoration:none;">Drone Navigation DL Papers</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Geometry-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Geometry Learning Papers</a></li>       
