@@ -11,6 +11,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Economics-Books/blob/master/README.md" style="text-decoration:none;">Open Source Economics Books</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Geometry-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Geometry Learning Papers</a></li>   
     <li><a target="_blank" href="https://github.com/manjunath5496/Few-Shot-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Few Shot Learning Papers</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/README.md" style="text-decoration:none;">Fairness DL Papers</a></li>     
      <li><a target="_blank" href="https://github.com/manjunath5496/Drone-Navigation-DL-Papers/blob/master/README.md" style="text-decoration:none;">Drone Navigation DL Papers</a></li> 
      <li><a target="_blank" href="https://github.com/manjunath5496/Top-4-Analytical-Chemistry-Articles/blob/master/README.md" style="text-decoration:none;">Top 4 Analytical Chemistry Articles</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Typography-Papers/blob/master/README.md" style="text-decoration:none;">Typography Papers</a></li>   
