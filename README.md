@@ -75,6 +75,7 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Common-Sense-Reasoning-Papers/blob/master/README.md" style="text-decoration:none;">Common Sense Reasoning Papers</a></li>       
    <li><a target="_blank" href="https://github.com/manjunath5496/Feature-Selection-Papers/blob/master/README.md" style="text-decoration:none;">Feature Selection Papers</a></li>       
       <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Network-Pruning-Papers/blob/master/README.md" style="text-decoration:none;">Neural Network Pruning Papers</a></li> 
+      <li><a target="_blank" href="https://github.com/manjunath5496/100-most-influential-people-in-the-world/blob/master/README.md" style="text-decoration:none;">100 most influential people in the world</a></li>      
      <li><a target="_blank" href="https://github.com/manjunath5496/Human-Trajectory-Forecasting-Papers/blob/master/README.md" style="text-decoration:none;">Human Trajectory Forecasting Papers</a></li>      
       <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-DL-Papers/blob/master/README.md" style="text-decoration:none;">Bayesian Deep Learning Papers</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/README.md" style="text-decoration:none;">Chatbot Research Papers</a></li>      
