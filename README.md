@@ -35,7 +35,8 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Enhancement-Papers/blob/master/README.md" style="text-decoration:none;">Speech Enhancement Papers</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/README.md" style="text-decoration:none;">Oncology ML Papers</a></li>      
       <li><a target="_blank" href="https://github.com/manjunath5496/Natural-Language-Understanding-Papers/blob/master/README.md" style="text-decoration:none;">Natural Language Understanding Papers</a></li> 
-  <li><a target="_blank" href="https://github.com/manjunath5496/11-Great-Computational-Biology-Papers/blob/master/README.md" style="text-decoration:none;">11 Great Computational Biology Papers</a></li>      
+  <li><a target="_blank" href="https://github.com/manjunath5496/11-Great-Computational-Biology-Papers/blob/master/README.md" style="text-decoration:none;">11 Great Computational Biology Papers</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/README.md" style="text-decoration:none;">Open Source Books</a></li>   
    <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/README.md" style="text-decoration:none;">Algorithmic Trading DL Papers</a></li>       
       <li><a target="_blank" href="https://github.com/manjunath5496/Classic-Big-Data-Papers/blob/master/README.md" style="text-decoration:none;">Classic Big Data Papers</a></li>       
       <li><a target="_blank" href="https://github.com/manjunath5496/Adversarial-Defense-Papers/blob/master/README.md" style="text-decoration:none;">Adversarial Defense Papers</a></li> 
