@@ -8,6 +8,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/README.md" style="text-decoration:none;">Sketch Synthesis Papers </a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Enhancement-Papers/blob/master/README.md" style="text-decoration:none;">Image Enhancement Papers </a></li>   <li><a target="_blank" href="https://github.com/manjunath5496/Medical-Image-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Medical Image Segmentation Papers </a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/README.md" style="text-decoration:none;">Aerial object detection papers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Image-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Brain Image Analysis Papers</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Generalization-Papers/blob/master/README.md" style="text-decoration:none;">Domain Generalization Papers</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Edge Detection Papers</a></li>      
      <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/README.md" style="text-decoration:none;">Hand Pose Estimation Papers</a></li>  
