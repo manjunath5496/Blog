@@ -7,7 +7,8 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/README.md" style="text-decoration:none;">Image Colorization Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/README.md" style="text-decoration:none;">Sketch Synthesis Papers </a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Enhancement-Papers/blob/master/README.md" style="text-decoration:none;">Image Enhancement Papers </a></li>   <li><a target="_blank" href="https://github.com/manjunath5496/Medical-Image-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Medical Image Segmentation Papers </a></li> 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/README.md" style="text-decoration:none;">Financial Audit Data Analytics Papers </a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/README.md" style="text-decoration:none;">Financial Audit Data Analytics Papers </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automotive-Engineering-Papers/blob/master/README.md" style="text-decoration:none;">Automotive Engineering Papers</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/README.md" style="text-decoration:none;">Aerial object detection papers</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/README.md" style="text-decoration:none;">Human Object Interaction Papers</a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/Text-Clustering-Papers/blob/master/README.md" style="text-decoration:none;">Text Clustering Papers</a></li>      
