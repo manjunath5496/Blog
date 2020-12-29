@@ -11,6 +11,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Bug Detection Papers </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/README.md" style="text-decoration:none;">Sketch Synthesis Papers </a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Enhancement-Papers/blob/master/README.md" style="text-decoration:none;">Image Enhancement Papers </a></li>   <li><a target="_blank" href="https://github.com/manjunath5496/Medical-Image-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Medical Image Segmentation Papers </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/master/README.md" style="text-decoration:none;">Computational Advertising Papers</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Traffic-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Traffic Prediction Papers </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Long-Tailed-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Long Tailed Recognition Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/README.md" style="text-decoration:none;">Multi Task ML Paper List </a></li>  
