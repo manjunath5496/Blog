@@ -32,6 +32,7 @@
      <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/README.md" style="text-decoration:none;">Financial Audit Data Analytics Papers</a></li>      
     <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Edge Detection Papers</a></li>       <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/README.md" style="text-decoration:none;">Multimodal ML Papers</a></li> 
      <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/README.md" style="text-decoration:none;">Hand Pose Estimation Papers</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/MLOps-Papers/blob/master/README.md" style="text-decoration:none;">MLOps Papers</a></li>      
     <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/README.md" style="text-decoration:none;">Vehicle Security Papers</a></li>       
      <li><a target="_blank" href="https://github.com/manjunath5496/Software-Engineering-AI-Papers/blob/master/README.md" style="text-decoration:none;">Software Engineering AI Papers</a></li>     
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Economics-Books/blob/master/README.md" style="text-decoration:none;">Open Source Economics Books</a></li> 
