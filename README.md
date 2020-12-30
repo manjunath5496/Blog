@@ -5,6 +5,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-women-in-mathematics/blob/master/README.md" style="text-decoration:none;">Timeline of women in mathematics </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/README.md" style="text-decoration:none;">Image Colorization Papers </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Influence Maximization Learning Papers </a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Advertising-papers/blob/master/README.md" style="text-decoration:none;">Advertising Papers </a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/README.md" style="text-decoration:none;">Speech Bandwidth Extension Papers </a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Large-Scale-Control-DL-Papers/blob/master/README.md" style="text-decoration:none;">Large Scale Control DL Papers </a></li>  
