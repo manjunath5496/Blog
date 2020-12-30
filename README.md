@@ -25,6 +25,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/README.md" style="text-decoration:none;">Multi Task ML Paper List </a></li>   <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/README.md" style="text-decoration:none;">Multibody Dynamics Simulation Papers</a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-and-Language-PreTrained-Model-Papers/blob/master/README.md" style="text-decoration:none;">Vision and Language PreTrained Model Papers</a></li>   
    <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/README.md" style="text-decoration:none;">Financial Audit Data Analytics Papers </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Correlation-Filter-Tracker-Papers/blob/master/README.md" style="text-decoration:none;">Correlation Filter Tracker Papers </a></li>    
    <li><a target="_blank" href="https://github.com/manjunath5496/Automotive-Engineering-Papers/blob/master/README.md" style="text-decoration:none;">Automotive Engineering Papers</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/README.md" style="text-decoration:none;">Aerial object detection papers</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/README.md" style="text-decoration:none;">Human Object Interaction Papers</a></li>  
