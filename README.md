@@ -19,7 +19,8 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/FastMRI-Papers/blob/master/README.md" style="text-decoration:none;">FastMRI Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/README.md" style="text-decoration:none;">Smart Contract Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Collision-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Collision Detection Papers </a></li>  
- <li><a target="_blank" href="https://github.com/manjunath5496/Object-Detection-Imbalance-Papers/blob/master/README.md" style="text-decoration:none;">Object Detection Imbalance Papers </a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Object-Detection-Imbalance-Papers/blob/master/README.md" style="text-decoration:none;">Object Detection Imbalance Papers </a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/README.md" style="text-decoration:none;">Entity Alignment Papers </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Long-Tailed-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Long Tailed Recognition Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Image-Distortion-Correction-Papers/blob/master/README.md" style="text-decoration:none;">Image Distortion Correction Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Video Analysis Papers </a></li> 
