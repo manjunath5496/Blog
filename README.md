@@ -2589,7 +2589,33 @@ Top 10 inventors of all time </a></li>
 <br>
 
 
+<h2>Awesome Kids Books </h2>
 
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/kid(1).pdf" style="text-decoration:none;">An Umbrella for Druvi</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/kid(2).pdf" style="text-decoration:none;">Disagreement Among
+Occupations</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/kid(3).pdf" style="text-decoration:none;">Goat, Dog and Cow</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/kid(4).pdf" style="text-decoration:none;">Greeting card making for kids</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/kid(5).pdf" style="text-decoration:none;">Stories And Their Values</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/kid(6).pdf" style="text-decoration:none;">I want to be a baker!</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/kid(7).pdf" style="text-decoration:none;">Ma, Is That You?</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/kid(8).pdf" style="text-decoration:none;"> Megan and the Mystery of the
+Moving Rock </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/kid(9).pdf" style="text-decoration:none;">Tania Is Confused:
+Grappling with god in the modern universe</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/kid(10).pdf" style="text-decoration:none;">The Monster in My Basement</a></li>                              
+</ul>
 
 
 
