@@ -7,7 +7,8 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/README.md" style="text-decoration:none;">Image Colorization Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Influence Maximization Learning Papers </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/README.md" style="text-decoration:none;">Event Extraction Papers </a></li>  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Advertising-papers/blob/master/README.md" style="text-decoration:none;">Advertising Papers </a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Advertising-papers/blob/master/README.md" style="text-decoration:none;">Advertising Papers </a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Text Generation Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/README.md" style="text-decoration:none;">Speech Bandwidth Extension Papers </a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Large-Scale-Control-DL-Papers/blob/master/README.md" style="text-decoration:none;">Large Scale Control DL Papers </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Mobility-ML-Papers/blob/master/README.md" style="text-decoration:none;">Mobility ML Papers</a></li>     
