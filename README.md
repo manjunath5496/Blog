@@ -24,6 +24,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/README.md" style="text-decoration:none;">Entity Alignment Papers </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Long-Tailed-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Long Tailed Recognition Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Image-Distortion-Correction-Papers/blob/master/README.md" style="text-decoration:none;">Image Distortion Correction Papers </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/README.md" style="text-decoration:none;">Text Summarization Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Video Analysis Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Weakly-Supervised-Semantic-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Weakly Supervised Semantic Segmentation Papers </a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/README.md" style="text-decoration:none;">Multi Task ML Paper List </a></li>   <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/README.md" style="text-decoration:none;">Multibody Dynamics Simulation Papers</a></li> 
