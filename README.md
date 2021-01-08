@@ -63,7 +63,8 @@
      <li><a target="_blank" href="https://github.com/manjunath5496/Drone-Navigation-DL-Papers/blob/master/README.md" style="text-decoration:none;">Drone Navigation DL Papers</a></li> 
       <li><a target="_blank" href="https://github.com/manjunath5496/Trade-ML-Papers/blob/master/README.md" style="text-decoration:none;">Trade ML Papers</a></li>     
      <li><a target="_blank" href="https://github.com/manjunath5496/Top-4-Analytical-Chemistry-Articles/blob/master/README.md" style="text-decoration:none;">Top 4 Analytical Chemistry Articles</a></li> 
-  <li><a target="_blank" href="https://github.com/manjunath5496/EHR-DL-Papers/blob/master/README.md" style="text-decoration:none;">EHR (electronic health records) DL Papers</a></li>      
+  <li><a target="_blank" href="https://github.com/manjunath5496/EHR-DL-Papers/blob/master/README.md" style="text-decoration:none;">EHR (electronic health records) DL Papers</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/README.md" style="text-decoration:none;">Computed Tomography Papers</a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Typography-Papers/blob/master/README.md" style="text-decoration:none;">Typography Papers</a></li>   
      <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/README.md" style="text-decoration:none;">Deep Computational Phenotyping Papers</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Most-cited-DL-Literature/blob/master/README.md" style="text-decoration:none;">Top 10 Most cited DL Literature</a></li>       
