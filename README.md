@@ -39,6 +39,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Automotive-Engineering-Papers/blob/master/README.md" style="text-decoration:none;">Automotive Engineering Papers</a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Medical-Imaging-Papers/blob/master/README.md" style="text-decoration:none;">GAN Medical Imaging Papers</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/README.md" style="text-decoration:none;">Aerial object detection papers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/README.md" style="text-decoration:none;">Gradient Boosting Papers</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/README.md" style="text-decoration:none;">Human Object Interaction Papers</a></li>  
      <li><a target="_blank" href="https://github.com/manjunath5496/Matching-Task-Paper-Reading-List/blob/master/README.md" style="text-decoration:none;">Matching Task Paper Reading List</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/README.md" style="text-decoration:none;">Misinformation Papers</a></li>     
