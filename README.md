@@ -389,6 +389,8 @@ Awesome Game AI papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Legged-Robots-Papers/blob/master/README.md" style="text-decoration:none;">Legged Robots Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Navigation-Papers/blob/master/README.md" style="text-decoration:none;">Visual Navigation Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-environmental-studies/blob/master/README.md" style="text-decoration:none;">Outline of environmental studies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/master/README.md" style="text-decoration:none;">List of Effects</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/README.md" style="text-decoration:none;">Open Access Books</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-control-engineering/blob/master/README.md" style="text-decoration:none;">Outline of control engineering</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Robotic-Grasping-Papers/blob/master/README.md" style="text-decoration:none;">Robotic Grasping Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/README.md" style="text-decoration:none;">CRM Articles</a></li>
