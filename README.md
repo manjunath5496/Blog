@@ -51,6 +51,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Language-Grounding-to-Vision-and-Control-Papers/blob/master/README.md" style="text-decoration:none;">Language Grounding to Vision and Control Papers</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Generalization-Papers/blob/master/README.md" style="text-decoration:none;">Domain Generalization Papers</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Image-and-Video-Deblurring-Papers/blob/master/README.md" style="text-decoration:none;">Image and Video Deblurring Papers</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Point-Cloud-Denoising-Papers/blob/master/README.md" style="text-decoration:none;">3D Point Cloud Denoising Papers</a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/README.md" style="text-decoration:none;">Software Defined Networking Papers</a></li>   
      <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/README.md" style="text-decoration:none;">Financial Audit Data Analytics Papers</a></li>      
     <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Edge Detection Papers</a></li>       <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/README.md" style="text-decoration:none;">Multimodal ML Papers</a></li> 
