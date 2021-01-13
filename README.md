@@ -19,6 +19,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/README.md" style="text-decoration:none;">The Best Science Books</a></li>    
   <li><a target="_blank" href="https://github.com/manjunath5496/Traffic-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Traffic Prediction Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Dynamic-Convolution-Papers/blob/master/README.md" style="text-decoration:none;">Dynamic Convolution Papers </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Small-Object-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Small Object Detection Papers </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/FastMRI-Papers/blob/master/README.md" style="text-decoration:none;">FastMRI Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/README.md" style="text-decoration:none;">Smart Contract Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Collision-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Collision Detection Papers </a></li>  
