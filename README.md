@@ -2636,6 +2636,113 @@ Grappling with god in the modern universe</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/kid(10).pdf" style="text-decoration:none;">The Monster in My Basement</a></li>                              
 </ul>
+</br>
 
-
+<table class="table table-bordered">
+<thead>
+<tr>
+<th>
+<h3><strong>Year</strong></h3>
+</th>
+<th>
+<h3><strong>Discovery</strong></h3>
+</th>
+<th>
+<h3><strong>Scientist Name</strong></h3>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1905</td>
+<td>Photon</td>
+<td>Albert Einstein</td>
+</tr>
+<tr>
+<td>1897</td>
+<td>Electron</td>
+<td>J.J. Thomson</td>
+</tr>
+<tr>
+<td>1919</td>
+<td>Proton</td>
+<td>Ernest Rutherford</td>
+</tr>
+<tr>
+<td>1808</td>
+<td>Atom</td>
+<td>John Dalton</td>
+</tr>
+<tr>
+<td>1932</td>
+<td>Neutron</td>
+<td>James Chadwick</td>
+</tr>
+<tr>
+<td>1687</td>
+<td>Law of Motion</td>
+<td>Isaac Newton</td>
+</tr>
+<tr>
+<td>1779</td>
+<td>Coulomb</td>
+<td>Charles-Augustin de Coulomb</td>
+</tr>
+<tr>
+<td>1827</td>
+<td>Ohm&rsquo;s Law</td>
+<td>Georg Simon Ohm</td>
+</tr>
+<tr>
+<td>1831</td>
+<td>Electromagnetic Induction</td>
+<td>Michael Faraday</td>
+</tr>
+<tr>
+<td>1880</td>
+<td>Thermionic Emission</td>
+<td>Thomas Edison</td>
+</tr>
+<tr>
+<td>1896</td>
+<td>Radioactivity</td>
+<td>Henri Becquerel</td>
+</tr>
+<tr>
+<td>1898</td>
+<td>Radium</td>
+<td>Marie Sklodowska-Curie</td>
+</tr>
+<tr>
+<td>1900</td>
+<td>Quantum theory</td>
+<td>Max Planck</td>
+</tr>
+<tr>
+<td>1905</td>
+<td>Photoelectric Effect</td>
+<td>Heinrich Rudolf Hertz</td>
+</tr>
+<tr>
+<td>1895</td>
+<td>X-Ray</td>
+<td>R&ouml;ntgen</td>
+</tr>
+<tr>
+<td>1905</td>
+<td>Relativity</td>
+<td>Albert Einstein</td>
+</tr>
+<tr>
+<td>1913</td>
+<td>Atomic Structure</td>
+<td>Neils Bohr&nbsp;and Rutherford</td>
+</tr>
+<tr>
+<td>1942</td>
+<td>Nuclear Reactor</td>
+<td>Enrico Fermi</td>
+</tr>
+</tbody>
+</table>
 
