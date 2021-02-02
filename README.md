@@ -147,6 +147,7 @@
       <li><a target="_blank" href="https://github.com/manjunath5496/100-most-influential-people-in-the-world/blob/master/README.md" style="text-decoration:none;">100 most influential people in the world</a></li>      
      <li><a target="_blank" href="https://github.com/manjunath5496/Human-Trajectory-Forecasting-Papers/blob/master/README.md" style="text-decoration:none;">Human Trajectory Forecasting Papers</a></li>      
       <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-DL-Papers/blob/master/README.md" style="text-decoration:none;">Bayesian Deep Learning Papers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/README.md" style="text-decoration:none;">Open Access Astronomy Books</a></li>     
       <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/README.md" style="text-decoration:none;">Chatbot Research Papers</a></li>      
     <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Omics-Paper-List/blob/master/README.md" style="text-decoration:none;">Multi Omics Paper List</a></li>       <li><a target="_blank" href="https://github.com/manjunath5496/Five-Geospatial-Analytics-DL-Papers/blob/master/README.md" style="text-decoration:none;">Five Geospatial Analytics DL Papers</a></li>      
 <li><a target="_blank" href="https://github.com/manjunath5496/miRNA-target-gene-prediction-papers/blob/master/README.md" style="text-decoration:none;">miRNA Target Gene Prediction Papers</a></li>         
