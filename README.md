@@ -189,6 +189,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-15-Google-AI-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 15 Google AI Research Papers </a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Network-Compression-Papers/blob/master/README.md" style="text-decoration:none;">Neural Network Compression Papers </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Understanding-Papers/blob/master/README.md" style="text-decoration:none;">Scene Text Understanding Papers </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/README.md" style="text-decoration:none;">Open Access Physics Books </a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/DL-papers-on-text-detection-and-recognition/blob/master/README.md" style="text-decoration:none;">Deep Learning papers on text detection and recognition </a></li>     
     <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/README.md" style="text-decoration:none;">Recurrent Neural Network Papers </a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/README.md" style="text-decoration:none;">CS Papers [Part 1]</a></li>
