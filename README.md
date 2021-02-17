@@ -4,6 +4,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/README.md" style="text-decoration:none;">Classic Papers in Applied Mathematics </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-women-in-mathematics/blob/master/README.md" style="text-decoration:none;">Timeline of women in mathematics </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/10-AI-Papers-That-Made-an-Impact/blob/master/README.md" style="text-decoration:none;">10 AI Papers That Made an Impact </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/README.md" style="text-decoration:none;">Image Colorization Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Influence Maximization Learning Papers </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/README.md" style="text-decoration:none;">Event Extraction Papers </a></li>  
