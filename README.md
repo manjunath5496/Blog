@@ -63,7 +63,8 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/README.md" style="text-decoration:none;">Code Switching Papers</a></li>    
     
 <li><a target="_blank" href="https://github.com/manjunath5496/Text-Clustering-Papers/blob/master/README.md" style="text-decoration:none;">Text Clustering Papers</a></li>      
-  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Image-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Brain Image Analysis Papers</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Image-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Brain Image Analysis Papers</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/README.md" style="text-decoration:none;">Open Access Philosophy Books</a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Language-Grounding-to-Vision-and-Control-Papers/blob/master/README.md" style="text-decoration:none;">Language Grounding to Vision and Control Papers</a></li>    
      <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Generalization-Papers/blob/master/README.md" style="text-decoration:none;">Domain Generalization Papers</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Image-and-Video-Deblurring-Papers/blob/master/README.md" style="text-decoration:none;">Image and Video Deblurring Papers</a></li> 
