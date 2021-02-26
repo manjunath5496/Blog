@@ -143,6 +143,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Missing-Data-Papers/blob/master/README.md" style="text-decoration:none;">Missing Data Papers</a></li>      
   <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/README.md" style="text-decoration:none;">Genomics Papers</a></li>      
     <li><a target="_blank" href="https://github.com/manjunath5496/Zero-Shot-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Zero Shot Learning Papers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Niels-Bohr-Publications/blob/master/README.md" style="text-decoration:none;">Niels Bohr Publications</a></li>    
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-CS-Books/blob/master/README.md" style="text-decoration:none;">Open Source CS Books</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Data-Poisoning-Papers/blob/master/README.md" style="text-decoration:none;">Data Poisoning Papers</a></li>    
     <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-Networks-Papers/blob/master/README.md" style="text-decoration:none;">Bayesian Networks Papers</a></li>
