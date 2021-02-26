@@ -38,6 +38,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/README.md" style="text-decoration:none;">Open Access Law Books </a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/Rabindranath-Tagore-Books/blob/master/README.md" style="text-decoration:none;">Rabindranath Tagore Books </a></li>  <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Multiple Instance Learning Papers </a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/README.md" style="text-decoration:none;">Open Access Economics Books </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Galileo-Galilei-Publications/blob/master/README.md" style="text-decoration:none;">Galileo Galilei Publications </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Max-Planck-Papers/blob/master/README.md" style="text-decoration:none;">Max Planck Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/README.md" style="text-decoration:none;">Entity Alignment Papers </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Long-Tailed-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Long Tailed Recognition Papers </a></li> 
