@@ -88,7 +88,8 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/README.md" style="text-decoration:none;">Fairness DL Papers</a></li>     
      <li><a target="_blank" href="https://github.com/manjunath5496/Drone-Navigation-DL-Papers/blob/master/README.md" style="text-decoration:none;">Drone Navigation DL Papers</a></li> 
       <li><a target="_blank" href="https://github.com/manjunath5496/Trade-ML-Papers/blob/master/README.md" style="text-decoration:none;">Trade ML Papers</a></li>     
-     <li><a target="_blank" href="https://github.com/manjunath5496/Top-4-Analytical-Chemistry-Articles/blob/master/README.md" style="text-decoration:none;">Top 4 Analytical Chemistry Articles</a></li> 
+     <li><a target="_blank" href="https://github.com/manjunath5496/Top-4-Analytical-Chemistry-Articles/blob/master/README.md" style="text-decoration:none;">Top 4 Analytical Chemistry Articles</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Papers-of-Albert-Einstein/blob/master/README.md" style="text-decoration:none;">The Papers of Albert Einstein</a></li>     
   <li><a target="_blank" href="https://github.com/manjunath5496/EHR-DL-Papers/blob/master/README.md" style="text-decoration:none;">EHR (electronic health records) DL Papers</a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/README.md" style="text-decoration:none;">Computed Tomography Papers</a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Typography-Papers/blob/master/README.md" style="text-decoration:none;">Typography Papers</a></li>   
