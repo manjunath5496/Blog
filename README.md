@@ -39,6 +39,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/FastMRI-Papers/blob/master/README.md" style="text-decoration:none;">FastMRI Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/README.md" style="text-decoration:none;">Smart Contract Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Collision-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Collision Detection Papers </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Arthur-Stanley-Eddington-Papers/blob/master/README.md" style="text-decoration:none;">Arthur Stanley Eddington Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Max-Born-Publications/blob/master/README.md" style="text-decoration:none;">Max Born Publications </a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Richard-Feynman-Papers/blob/master/README.md" style="text-decoration:none;">Richard Feynman Papers </a></li>   
  <li><a target="_blank" href="https://github.com/manjunath5496/Object-Detection-Imbalance-Papers/blob/master/README.md" style="text-decoration:none;">Object Detection Imbalance Papers </a></li> 
