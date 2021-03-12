@@ -2781,4 +2781,55 @@ Grappling with god in the modern universe</a></li>
 </tr>
 </tbody>
 </table>
+</br>
+<h2><strong>Data Science Questions</strong></h2>
+<ul>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/">40 Interview Questions asked at Startups in Machine Learning/Data Science</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/">40 Questions on Probability for Data Science</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2015/06/correlation-common-questions/">7 Most Commonly Asked Questions on Correlation</a></li>
+<li>&nbsp;<a href="https://www.analyticsvidhya.com/blog/2017/05/41-questions-on-statisitics-data-scientists-analysts/">41 Questions on Statistics for Data Scientists and Analysts</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/">30 Questions to Test a Data Scientist on Linear Regression</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/">30 Questions to test your Understanding of Logistic Regression</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-machine-learning-solution-skillpower-machine-learning-datafest-2017/">40 Questions to test a Data Scientist on Machine Learning</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/">30 Questions to test a Data Scientist on Natural Language Processing</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/">30 Questions to test a Data Scientist on Tree Based Models</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/">25 Questions to test a Data Scientist on Support Vector Machines</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/03/questions-dimensionality-reduction-data-scientist/">40 Questions to test a Data Scientist on Dimensionality Reduction Techniques</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/">40 Questions to test a Data Scientist on Clustering Techniques</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/">45 Questions to Test a Data Scientist on the Basics of Deep Learning</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/">30 Questions to test a Data Scientist on Deep Learning</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/">40 Questions to Test a Data Scientist on Deep Learning</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/10/image-skilltest/">25 Questions to test a Data Scientist on Image Processing</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2018/05/deep-learning-faq/">12 Frequently Asked Questions on Deep Learning</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/05/ase-studies-10x-faster-using-dynamic-programming/">Solve Interview Case Studies 10x Faster using Dynamic Programming</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/04/case-study-analytics-interviews-dawn-taxi-aggregators/">Case Study for Analytics Interviews &ndash; Dawn of Taxi Aggregators</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2014/02/interesting-analytics-case-study/">An Analytics Interview Case Study</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/04/case-study-level-medium-call-center-optimization/">Case Study for Freshers: Call Center Optimization (Level: Medium)</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/07/solving-case-study-optimize-products-price-online-vendor-level-hard/">Case Study: Optimize the Price of Products for an Online Vendor (Level: Hard)</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2014/01/tips-crack-guess-estimate-case-study/">Tips to Crack a Guess Estimate Problem</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/07/20-challenging-job-interview-puzzles-which-every-analyst-solve-atleast/">20 Challenging Job Interview Puzzles which every analyst should solve at least once</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/01/3-tricky-puzzles-people-wrong-job-interviews/">3 Tricky Puzzles which most people get Wrong in Job Interviews</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2014/09/commonly-asked-puzzles-analytics-interviews/">Commonly asked Puzzles in Analytics Interview (Part 1)</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2014/10/commonly-asked-interview-puzzles-part-ii/">Commonly asked Puzzles in Analytics Interview (Part 2)</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/05/40-questions-r-for-data-science/">40 Questions to Test your Skill on R for Data Science</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2014/05/tricky-interview-questions/">4 Tricky R Interview Questions</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2013/11/4-sas-tricky-analytics-interview/">4 Tricky SAS Questions Commonly Asked in Interviews</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2014/04/tricky-base-sas-interview-questions-part-ii/">Tricky Base SAS Interview Questions</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/05/questions-python-for-data-science/">40 Questions to Test your Skill in Python for Data Science</a>&nbsp; [<a href="https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+BPDS001+2018_T2/about?utm_source=blog&amp;utm_medium=comprehensive-data-science-machine-learning-interview-guide">Python for Data science for Free</a>]</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/05/questions-sql-for-all-aspiring-data-scientists/">42 Questions on SQL for all Aspiring Data Scientists</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2015/11/tips-crack-campus-interviews-non-core-companies/" target="_blank" rel="noopener noreferrer">Tips for Freshers to Crack Campus Interviews for Analytics/Data Science Companies</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2013/07/prepare-ace-interviews-business-analytics-roles/" target="_blank" rel="noopener noreferrer">How Freshers can Ace Interviews for Business Analytics Roles</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2015/06/analytics-interview-behaviour-to-avoid/">Beware &ndash; Interviewer for the Analytics Job is Observing you Closely!</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2014/07/definitive-guide-prepare-analytics-interview/">Definitive Guide to prepare for an analytics interview</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/10/tips-people-starting-career-data-science/">8 Essential Tips for People Starting a Career in Data Science</a></li>
+<li><a href="https://www.analyticsvidhya.com/10-analytics-related-career/">10 Things you Should Know about Analytics Related Career</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2015/05/moving-analytics-break-career-expect-rosy-land/">Moving into Analytics After a Break in Career? Don&rsquo;t Expect a Rosy Land!</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2014/05/no-analytics-work-experience/">The lack of Analytics Work Experience and how to Overcome it</a></li>
+<li>&nbsp;<a href="https://www.analyticsvidhya.com/blog/2014/05/planning-late-career-shift-analytics-big-data-prepared/">Planning a Late Career Shift to Analytics/Big Data? Better be Prepared!</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2014/01/train-mind-analytical-thinking/">How to Train your Mind for Analytical Thinking?</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2013/09/analytics-job-5-questions/">Taking a New Job in Analytics? Ask these 5 Questions First</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/11/mystory-i-became-a-data-scientist-after-8-years-working-as-a-software-test-engineer/">How I became a Data Scientist after 8 Years Working as a Software Test Engineer</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/09/mystory-i-became-a-data-scientist-after-working-for-10-years-in-it-industry/">How I became a Data Scientist after Working for 10 Years in the IT Industry</a></li>
+</ul>
+<p>&nbsp;</p>
 
