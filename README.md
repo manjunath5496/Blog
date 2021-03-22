@@ -136,7 +136,8 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/11-Great-Computational-Biology-Papers/blob/master/README.md" style="text-decoration:none;">11 Great Computational Biology Papers</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/README.md" style="text-decoration:none;">Open Source Books</a></li>   
    <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/README.md" style="text-decoration:none;">Algorithmic Trading DL Papers</a></li>       
-      <li><a target="_blank" href="https://github.com/manjunath5496/Classic-Big-Data-Papers/blob/master/README.md" style="text-decoration:none;">Classic Big Data Papers</a></li>       
+      <li><a target="_blank" href="https://github.com/manjunath5496/Classic-Big-Data-Papers/blob/master/README.md" style="text-decoration:none;">Classic Big Data Papers</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biometric-Gait-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Biometric Gait Recognition Papers</a></li>         
       <li><a target="_blank" href="https://github.com/manjunath5496/Adversarial-Defense-Papers/blob/master/README.md" style="text-decoration:none;">Adversarial Defense Papers</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/README.md" style="text-decoration:none;">Ecology DL Papers</a></li>      
    <li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/README.md" style="text-decoration:none;">Space Science ML Papers</a></li>       
