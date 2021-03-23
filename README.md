@@ -38,6 +38,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Dynamic-Convolution-Papers/blob/master/README.md" style="text-decoration:none;">Dynamic Convolution Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Affective-Computing-Papers/blob/master/README.md" style="text-decoration:none;">Affective Computing Papers </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Small-Object-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Small Object Detection Papers </a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/README.md" style="text-decoration:none;">Animal ML Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Design-AI-Papers/blob/master/README.md" style="text-decoration:none;">Design AI Papers</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Paul-Dirac-Papers/blob/master/README.md" style="text-decoration:none;">Paul Dirac Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/README.md" style="text-decoration:none;">Open Access Agriculture Books </a></li>  
