@@ -49,7 +49,8 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/README.md" style="text-decoration:none;">Animal ML Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Design-AI-Papers/blob/master/README.md" style="text-decoration:none;">Design AI Papers</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Paul-Dirac-Papers/blob/master/README.md" style="text-decoration:none;">Paul Dirac Papers </a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/README.md" style="text-decoration:none;">Open Access Agriculture Books </a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/README.md" style="text-decoration:none;">Open Access Agriculture Books </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/README.md" style="text-decoration:none;">Neural Rendering Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Papers/blob/master/README.md" style="text-decoration:none;">Text Mining Papers </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Imbalanced-Time-series-Classification-DL-Papers/blob/master/README.md" style="text-decoration:none;">Imbalanced Time series Classification DL Papers</a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/master/README.md" style="text-decoration:none;">Image 2 Image Translation Papers </a></li>
