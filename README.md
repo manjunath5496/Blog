@@ -17,6 +17,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Large-Scale-Control-DL-Papers/blob/master/README.md" style="text-decoration:none;">Large Scale Control DL Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Performance-Capture-Papers/blob/master/README.md" style="text-decoration:none;">Performance Capture Papers </a></li>   
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/README.md" style="text-decoration:none;">Open Access Botany Books </a></li>   <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/README.md" style="text-decoration:none;">1 Day of Python Learning Tutorial </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-Exploratory-Data-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Automated Exploratory Data Analysis Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-5-Low-Thermal-Conductivity-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 5 Low Thermal Conductivity Research Papers </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-papers-for-Engineering-students/blob/master/README.md" style="text-decoration:none;">Technical papers for Engineering students </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Law-NLP-Papers/blob/master/README.md" style="text-decoration:none;">Law NLP Papers</a></li> 
