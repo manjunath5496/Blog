@@ -40,6 +40,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/master/README.md" style="text-decoration:none;">Linus Pauling Papers</a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/559-Quantum-Physics-Articles/blob/master/README.md" style="text-decoration:none;">559 Quantum Physics Articles</a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/30-Python-Scripts-for-Beginners/blob/master/README.md" style="text-decoration:none;">30 Python Scripts for Beginners</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/30-Bash-Scripts-for-Beginners/blob/master/README.md" style="text-decoration:none;">30 Bash Scripts for Beginners</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/README.md" style="text-decoration:none;">Open Access Technology Books</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/README.md" style="text-decoration:none;">3D Human Body Papers</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Hierarchical Reinforcement Learning Papers</a></li>
