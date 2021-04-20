@@ -52,6 +52,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Hierarchical Reinforcement Learning Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Emotion Cause Analysis Papers</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/README.md" style="text-decoration:none;">Basic Docker Commands</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/README.md" style="text-decoration:none;">Deep Learning EE Design Papers</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/README.md" style="text-decoration:none;">Deep Logic Papers</a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/README.md" style="text-decoration:none;">Open Access Microbiology Books</a></li>   
 <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/README.md" style="text-decoration:none;">The Best Science Books</a></li>    
