@@ -93,6 +93,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Max-Planck-Papers/blob/master/README.md" style="text-decoration:none;">Max Planck Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/README.md" style="text-decoration:none;">Entity Alignment Papers </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Long-Tailed-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Long Tailed Recognition Papers </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/README.md" style="text-decoration:none;">Biological and Artificial Neural Networks Papers </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Enrico-Fermi-Papers/blob/master/README.md" style="text-decoration:none;">Enrico Fermi Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/README.md" style="text-decoration:none;">Open Access Biology Books </a></li>   
    <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Economics-Books/blob/master/README.md" style="text-decoration:none;">The Best Economics Books </a></li> 
