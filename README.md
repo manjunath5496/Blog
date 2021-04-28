@@ -41,6 +41,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Knowledge-Graph-Reasoning-Papers/blob/master/README.md" style="text-decoration:none;">Knowledge Graph Reasoning Papers </a></li>   
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-8-most-highly-cited-retracted-papers/blob/master/README.md" style="text-decoration:none;">Top 8 most highly cited retracted papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-Language-Navigation-Papers/blob/master/README.md" style="text-decoration:none;">Vision Language Navigation Papers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/README.md" style="text-decoration:none;">Equivariant Network Papers</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Model-Quantization-Papers/blob/master/README.md" style="text-decoration:none;">Model Quantization Papers</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-Emotion-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Multimodal Emotion Recognition Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Analytics-Papers/blob/master/README.md" style="text-decoration:none;">Data Analytics Papers</a></li>  
