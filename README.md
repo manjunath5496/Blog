@@ -60,6 +60,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/README.md" style="text-decoration:none;">Open Access Microbiology Books</a></li>   
 <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/README.md" style="text-decoration:none;">The Best Science Books</a></li>    
   <li><a target="_blank" href="https://github.com/manjunath5496/Traffic-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Traffic Prediction Papers </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/README.md" style="text-decoration:none;">Resilience Engineering Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/README.md" style="text-decoration:none;">Programming Cheat Sheets </a></li>  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Mapping-Algorithm-Papers/blob/master/README.md" style="text-decoration:none;">Deep Mapping Algorithm Papers </a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Stephen-Hawking-Papers/blob/master/README.md" style="text-decoration:none;">Stephen Hawking Papers </a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Louis-de-Broglie-Papers/blob/master/README.md" style="text-decoration:none;">Louis de Broglie Papers </a></li> 
