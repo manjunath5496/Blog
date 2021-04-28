@@ -84,6 +84,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Papers/blob/master/README.md" style="text-decoration:none;">Text Mining Papers </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Imbalanced-Time-series-Classification-DL-Papers/blob/master/README.md" style="text-decoration:none;">Imbalanced Time series Classification DL Papers</a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/master/README.md" style="text-decoration:none;">Image 2 Image Translation Papers </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/README.md" style="text-decoration:none;">Vehicle Reidentification Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Erwin-Schrodinger-Papers/blob/master/README.md" style="text-decoration:none;">Erwin Schrodinger Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Ernest-Rutherford-Papers/blob/master/README.md" style="text-decoration:none;">Ernest Rutherford Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Scholarly-Works/blob/master/README.md" style="text-decoration:none;">Scholarly Works </a></li>   
