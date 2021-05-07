@@ -38,6 +38,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Chaos-Engineering-Papers/blob/master/README.md" style="text-decoration:none;">Chaos Engineering Papers</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/README.md" style="text-decoration:none;">Basic Docker Commands </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/400-Plus-Software-Security-Papers/blob/master/README.md" style="text-decoration:none;">400+ Software Security Papers </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Einstein-Five-Papers-That-Changed-the-Face-of-Physics/blob/master/README.md" style="text-decoration:none;">Einstein's Five Papers That Changed the Face of Physics </a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/Knowledge-Graph-Reasoning-Papers/blob/master/README.md" style="text-decoration:none;">Knowledge Graph Reasoning Papers </a></li>   
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-8-most-highly-cited-retracted-papers/blob/master/README.md" style="text-decoration:none;">Top 8 most highly cited retracted papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-Language-Navigation-Papers/blob/master/README.md" style="text-decoration:none;">Vision Language Navigation Papers</a></li>
