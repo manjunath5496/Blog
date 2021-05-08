@@ -44,7 +44,8 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-Language-Navigation-Papers/blob/master/README.md" style="text-decoration:none;">Vision Language Navigation Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/README.md" style="text-decoration:none;">Equivariant Network Papers</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Model-Quantization-Papers/blob/master/README.md" style="text-decoration:none;">Model Quantization Papers</a></li> 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-Emotion-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Multimodal Emotion Recognition Papers </a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-Emotion-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Multimodal Emotion Recognition Papers </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Reproducible-Research-Papers/blob/master/README.md" style="text-decoration:none;">Reproducible Research Papers </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Analytics-Papers/blob/master/README.md" style="text-decoration:none;">Data Analytics Papers</a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Carl-Sagan-Papers/blob/master/README.md" style="text-decoration:none;">Carl Sagan Papers </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Joseph-John-Thomson-Publications/blob/master/README.md" style="text-decoration:none;">Joseph John Thomson Publications </a></li>   
