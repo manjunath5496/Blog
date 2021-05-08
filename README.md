@@ -2899,3 +2899,16 @@ Grappling with god in the modern universe</a></li>
 </ul>
 <p>&nbsp;</p>
 
+<h2 class="entry-title">Top 10 Python Open Source Projects</h2>
+<ul>
+<li class="entry-title"><a href="https://github.com/3b1b/manim?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more" target="_blank" rel="nofollow" data-wpel-link="external">Manim</a></li>
+<li class="entry-title"><a href="https://github.com/AtsushiSakai/PythonRobotics?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more" target="_blank" rel="nofollow" data-wpel-link="external">Python Robotics</a>&nbsp;</li>
+<li class="entry-title"><a href="https://github.com/s0md3v/XSStrike?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more" target="_blank" rel="nofollow" data-wpel-link="external">XSStrike</a>&nbsp;</li>
+<li class="entry-title"><a href="https://github.com/hardikvasa/google-images-download?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more" target="_blank" rel="nofollow" data-wpel-link="external">Google Images Download</a>&nbsp;</li>
+<li class="entry-title"><a href="https://github.com/s0md3v/Photon?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more" target="_blank" rel="nofollow" data-wpel-link="external">Photon</a>&nbsp;</li>
+<li class="entry-title"><a href="https://github.com/karpathy/neuraltalk" target="_blank" rel="nofollow" data-wpel-link="external">NeuralTalk</a>&nbsp;</li>
+<li class="entry-title"><a href="https://github.com/jofpin/trape?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more" target="_blank" rel="nofollow" data-wpel-link="external">Trape</a>&nbsp;</li>
+<li class="entry-title"><a href="https://github.com/xonsh/xonsh?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more" target="_blank" rel="nofollow" data-wpel-link="external">Xonsh</a>&nbsp;</li>
+<li class="entry-title"><a href="https://github.com/shobrook/rebound?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more" target="_blank" rel="nofollow" data-wpel-link="external">Rebound</a>&nbsp;</li>
+<li class="entry-title"><a href="https://github.com/snipsco/snips-nlu?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more" target="_blank" rel="nofollow" data-wpel-link="external">Snips NLU</a>&nbsp;</li>
+</ul>
