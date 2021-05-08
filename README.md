@@ -72,7 +72,8 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/README.md" style="text-decoration:none;">Basic Docker Commands</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/README.md" style="text-decoration:none;">Deep Learning EE Design Papers</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/README.md" style="text-decoration:none;">Deep Logic Papers</a></li>  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/README.md" style="text-decoration:none;">Open Access Microbiology Books</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/README.md" style="text-decoration:none;">Open Access Microbiology Books</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/README.md" style="text-decoration:none;">Local and Global Descriptor Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/README.md" style="text-decoration:none;">The Best Science Books</a></li>    
   <li><a target="_blank" href="https://github.com/manjunath5496/Traffic-Prediction-Papers/blob/master/README.md" style="text-decoration:none;">Traffic Prediction Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/README.md" style="text-decoration:none;">Resilience Engineering Papers </a></li> 
