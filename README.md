@@ -29,6 +29,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Random-Papers/blob/master/README.md" style="text-decoration:none;">Random Papers </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-5-Low-Thermal-Conductivity-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top 5 Low Thermal Conductivity Research Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Building-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Building Detection Papers </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/11-Important-Papers-Every-Programmer-Should-Know/blob/master/README.md" style="text-decoration:none;">11 Important Papers Every Programmer Should Know</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/README.md" style="text-decoration:none;">Stream Processing Papers</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-papers-for-Engineering-students/blob/master/README.md" style="text-decoration:none;">Technical papers for Engineering students </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Natural-Language-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Natural Language Generation Papers </a></li>
