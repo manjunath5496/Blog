@@ -6,6 +6,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-AI-Papers-That-Made-an-Impact/blob/master/README.md" style="text-decoration:none;">10 AI Papers That Made an Impact </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/README.md" style="text-decoration:none;">High Energy Physics ML Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Object-Tracking-Papers/blob/master/README.md" style="text-decoration:none;">Multiple Object Tracking Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tiny-ML-Papers/blob/master/README.md" style="text-decoration:none;">Tiny ML Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/README.md" style="text-decoration:none;">Image Colorization Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Automation-Scripts/blob/master/README.md" style="text-decoration:none;">Python Automation Scripts </a></li> 
