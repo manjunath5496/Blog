@@ -21,6 +21,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Text Generation Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/README.md" style="text-decoration:none;">Speech Bandwidth Extension Papers </a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Large-Scale-Control-DL-Papers/blob/master/README.md" style="text-decoration:none;">Large Scale Control DL Papers </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/README.md" style="text-decoration:none;">GAN Inversion Papers </a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Performance-Capture-Papers/blob/master/README.md" style="text-decoration:none;">Performance Capture Papers </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Audio-Adversarial-Examples-Papers/blob/master/README.md" style="text-decoration:none;">Audio Adversarial Examples Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Language-Guided-Image-Editing-Papers/blob/master/README.md" style="text-decoration:none;">Language Guided Image Editing Papers </a></li> 
