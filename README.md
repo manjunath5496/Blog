@@ -496,6 +496,7 @@ Awesome Game AI papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-female-scientists-in-the-20th-century/blob/master/README.md" style="text-decoration:none;">List of female scientists in the 20th century</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Malware-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Malware Detection Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Semantic-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 Semantic Segmentation Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mobile-Application-Energy-Papers/blob/master/README.md" style="text-decoration:none;">Mobile Application Energy Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/10-Interesting-ICML-Papers/blob/master/README.md" style="text-decoration:none;">10 Interesting ICML [International Conference on Machine Learning] Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/README.md" style="text-decoration:none;">Sau Lan Wu Publications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Papers-On-Transfer-Learning/blob/master/README.md" style="text-decoration:none;">Top 10 Papers On Transfer Learning</a></li>
