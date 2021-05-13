@@ -23,7 +23,8 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Large-Scale-Control-DL-Papers/blob/master/README.md" style="text-decoration:none;">Large Scale Control DL Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Performance-Capture-Papers/blob/master/README.md" style="text-decoration:none;">Performance Capture Papers </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/Audio-Adversarial-Examples-Papers/blob/master/README.md" style="text-decoration:none;">Audio Adversarial Examples Papers </a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Language-Guided-Image-Editing-Papers/blob/master/README.md" style="text-decoration:none;">Language Guided Image Editing Papers </a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Language-Guided-Image-Editing-Papers/blob/master/README.md" style="text-decoration:none;">Language Guided Image Editing Papers </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Nonintrusive-Load-Monitoring-Papers/blob/master/README.md" style="text-decoration:none;">Nonintrusive Load Monitoring Papers </a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/Gaze-Estimation-Papers/blob/master/README.md" style="text-decoration:none;">Gaze Estimation Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/README.md" style="text-decoration:none;">Open Access Botany Books </a></li>   <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/README.md" style="text-decoration:none;">1 Day of Python Learning Tutorial </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Label-Noise-Papers/blob/master/README.md" style="text-decoration:none;">Label Noise Papers </a></li>
