@@ -11,6 +11,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/README.md" style="text-decoration:none;">Image Colorization Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Automation-Scripts/blob/master/README.md" style="text-decoration:none;">Python Automation Scripts </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Tiny-Object-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Tiny Object Detection Papers </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Embedding-Model-Papers/blob/master/README.md" style="text-decoration:none;">Embedding Model Papers </a></li>  
  <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Influence Maximization Learning Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Scene Text Localization and Recognition Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Werner-Heisenberg-Papers/blob/master/README.md" style="text-decoration:none;">Werner Heisenberg Papers </a></li>
