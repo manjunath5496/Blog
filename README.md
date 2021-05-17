@@ -41,6 +41,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/README.md" style="text-decoration:none;">Stream Processing Papers</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-papers-for-Engineering-students/blob/master/README.md" style="text-decoration:none;">Technical papers for Engineering students </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Natural-Language-Generation-Papers/blob/master/README.md" style="text-decoration:none;">Natural Language Generation Papers </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Probabilistic-Planning-Papers/blob/master/README.md" style="text-decoration:none;">Probabilistic Planning Papers </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/README.md" style="text-decoration:none;">Explainable AI Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Law-NLP-Papers/blob/master/README.md" style="text-decoration:none;">Law NLP Papers</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/README.md" style="text-decoration:none;">Quality Diversity Optimisation Algorithm Papers</a></li>
