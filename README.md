@@ -5,6 +5,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-women-in-mathematics/blob/master/README.md" style="text-decoration:none;">Timeline of women in mathematics </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Capsule-Networks-Papers/blob/master/README.md" style="text-decoration:none;">Capsule Networks Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Radiance-Fields-Papers/blob/master/README.md" style="text-decoration:none;">Neural Radiance Fields Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Cross-lingual-Information-Retrieval-Papers/blob/master/README.md" style="text-decoration:none;">Cross lingual Information Retrieval Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Implicit-Neural-Representation-Papers/blob/master/README.md" style="text-decoration:none;">Implicit Neural Representation Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/10-AI-Papers-That-Made-an-Impact/blob/master/README.md" style="text-decoration:none;">10 AI Papers That Made an Impact </a></li> 
