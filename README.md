@@ -18,6 +18,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Object-Tracking-Papers/blob/master/README.md" style="text-decoration:none;">Multiple Object Tracking Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tiny-ML-Papers/blob/master/README.md" style="text-decoration:none;">Tiny ML Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/README.md" style="text-decoration:none;">Image Colorization Papers </a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/README.md" style="text-decoration:none;">TrojAI Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Automation-Scripts/blob/master/README.md" style="text-decoration:none;">Python Automation Scripts </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Tiny-Object-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Tiny Object Detection Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Embedding-Model-Papers/blob/master/README.md" style="text-decoration:none;">Embedding Model Papers </a></li>  
