@@ -5,7 +5,8 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-women-in-mathematics/blob/master/README.md" style="text-decoration:none;">Timeline of women in mathematics </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Capsule-Networks-Papers/blob/master/README.md" style="text-decoration:none;">Capsule Networks Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Radiance-Fields-Papers/blob/master/README.md" style="text-decoration:none;">Neural Radiance Fields Papers </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Radiance-Fields-Papers/blob/master/README.md" style="text-decoration:none;">Neural Radiance Fields Papers </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/README.md" style="text-decoration:none;">FakeNews Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Papers-on-Modules/blob/master/README.md" style="text-decoration:none;">Awesome Papers on Modules</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Normalizing-Flow-Papers/blob/master/README.md" style="text-decoration:none;"> Normalizing Flow Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/JAX-Papers/blob/master/README.md" style="text-decoration:none;">JAX Papers</a></li>  
