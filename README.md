@@ -13,6 +13,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Fact-Verification-Papers/blob/master/README.md" style="text-decoration:none;"> Fact Verification Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Network-Functions-Virtualization-Papers/blob/master/README.md" style="text-decoration:none;">Network Functions Virtualization Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Temporal-Action-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Temporal Action Detection Papers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/README.md" style="text-decoration:none;">Delineation Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Weakly-Supervised-Temporal-Action-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Weakly Supervised Temporal Action Detection Papers </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Backdoor-Papers/blob/master/README.md" style="text-decoration:none;">Neural Backdoor Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Implicit-Neural-Representation-Papers/blob/master/README.md" style="text-decoration:none;">Implicit Neural Representation Papers </a></li> 
