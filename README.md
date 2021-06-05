@@ -10,6 +10,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Google-Earth-Engine-Papers/blob/master/README.md" style="text-decoration:none;">Google Earth Engine Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Shadowsocks-Papers/blob/master/README.md" style="text-decoration:none;">Shadowsocks Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Source Code Analysis Papers </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/README.md" style="text-decoration:none;">Graphics Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-8-Papers-on-eCommerce-Search-Algorithms/blob/master/README.md" style="text-decoration:none;">Top 8 Papers on eCommerce Search Algorithms </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Epigenetic-Clocks-Predicting-Age-Papers/blob/master/README.md" style="text-decoration:none;">Epigenetic Clocks Predicting Age Papers </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Search-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Search Papers </a></li> 
