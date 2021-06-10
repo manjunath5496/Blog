@@ -38,6 +38,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/README.md" style="text-decoration:none;">Music DL Papers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/README.md" style="text-decoration:none;">Neural Computational Morphology Papers</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Object-Tracking-Papers/blob/master/README.md" style="text-decoration:none;">Multiple Object Tracking Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Wireframe-Papers/blob/master/README.md" style="text-decoration:none;">Wireframe Papers</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Tiny-ML-Papers/blob/master/README.md" style="text-decoration:none;">Tiny ML Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/README.md" style="text-decoration:none;">Image Colorization Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/TrojAI-Papers/blob/master/README.md" style="text-decoration:none;">TrojAI Papers </a></li>
