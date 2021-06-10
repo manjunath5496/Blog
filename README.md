@@ -34,6 +34,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Backdoor-Papers/blob/master/README.md" style="text-decoration:none;">Neural Backdoor Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Implicit-Neural-Representation-Papers/blob/master/README.md" style="text-decoration:none;">Implicit Neural Representation Papers </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/10-AI-Papers-That-Made-an-Impact/blob/master/README.md" style="text-decoration:none;">10 AI Papers That Made an Impact </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Parking-Slot-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Parking Slot Detection Papers </a></li>  
 <li><a target="_blank" href="https://github.com/manjunath5496/High-Energy-Physics-ML-Papers/blob/master/README.md" style="text-decoration:none;">High Energy Physics ML Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Object-Proposals-Paper-List/blob/master/README.md" style="text-decoration:none;">Object Proposals Paper List</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/README.md" style="text-decoration:none;">Music DL Papers</a></li>
