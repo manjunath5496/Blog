@@ -32,6 +32,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Fact-Verification-Papers/blob/master/README.md" style="text-decoration:none;"> Fact Verification Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/README.md" style="text-decoration:none;"> 3D Shape Analysis Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Network-Functions-Virtualization-Papers/blob/master/README.md" style="text-decoration:none;">Network Functions Virtualization Papers </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/HDR-Image-Synthesis-Papers/blob/master/README.md" style="text-decoration:none;">HDR Image Synthesis Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Based-DL-Papers/blob/master/README.md" style="text-decoration:none;">Sketch Based DL Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Temporal-Action-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Temporal Action Detection Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/README.md" style="text-decoration:none;">Person Reidentification Papers</a></li>
