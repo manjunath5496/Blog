@@ -17,6 +17,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/README.md" style="text-decoration:none;">Holistic 3D Reconstruction Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Shadowsocks-Papers/blob/master/README.md" style="text-decoration:none;">Shadowsocks Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Source Code Analysis Papers </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/5-ML-Research-Papers-on-Deep-Fake-Detection/blob/master/README.md" style="text-decoration:none;">5 ML Research Papers on Deep Fake Detection </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Fact-Checking-Papers/blob/master/README.md" style="text-decoration:none;">Fact Checking Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/README.md" style="text-decoration:none;">Graphics Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-8-Papers-on-eCommerce-Search-Algorithms/blob/master/README.md" style="text-decoration:none;">Top 8 Papers on eCommerce Search Algorithms </a></li>
