@@ -9,6 +9,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Radiance-Fields-Papers/blob/master/README.md" style="text-decoration:none;">Neural Radiance Fields Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Optical-Flow-Algorithm-Papers/blob/master/README.md" style="text-decoration:none;">Optical Flow Algorithm Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Aspect Based Sentiment Analysis Papers </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Active-Inference-Papers/blob/master/README.md" style="text-decoration:none;">Active Inference Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Inverse-Rendering-Papers/blob/master/README.md" style="text-decoration:none;">Inverse Rendering Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/README.md" style="text-decoration:none;">Environmental Sound Classification Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Internal-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Internal Learning Papers </a></li>
