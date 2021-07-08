@@ -7,6 +7,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/README.md" style="text-decoration:none;">Best AI Papers </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Radiance-Fields-Papers/blob/master/README.md" style="text-decoration:none;">Neural Radiance Fields Papers </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Promising-Synthesis-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 Promising Synthesis Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Optical-Flow-Algorithm-Papers/blob/master/README.md" style="text-decoration:none;">Optical Flow Algorithm Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/README.md" style="text-decoration:none;">Remote Sensing Data Fusion Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/README.md" style="text-decoration:none;">Quantum Annealing Papers </a></li> 
