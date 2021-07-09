@@ -24,6 +24,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Internal-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Internal Learning Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/AI-conference-Papers/blob/master/README.md" style="text-decoration:none;">AI Conference Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Log-based-Anomaly-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Log based Anomaly Detection Papers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ChIP-Seq-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">ChIP Seq Analysis Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Cytodata-Papers/blob/master/README.md" style="text-decoration:none;">Cytodata Papers </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-Reliability-Papers/blob/master/README.md" style="text-decoration:none;">ML Reliability Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Generative-Modeling-Papers/blob/master/README.md" style="text-decoration:none;">Generative Modeling Papers </a></li>
