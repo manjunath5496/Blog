@@ -936,8 +936,10 @@ Top 10 inventors of all time </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Blockchain-Papers/blob/master/README.md" style="text-decoration:none;">Blockchain Papers </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Compilers-Papers/blob/master/README.md" style="text-decoration:none;">Compilers Papers </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-mathematical-logic/blob/master/README.md" style="text-decoration:none;">Timeline of mathematical logic</a></li>       
-<li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers-on-Programming-Languages/blob/master/README.md" style="text-decoration:none;">Research Papers on Programming Languages </a></li>    
+<li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers-on-Programming-Languages/blob/master/README.md" style="text-decoration:none;">Research Papers on Programming Languages </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/566-CS-Articles/blob/master/README.md" style="text-decoration:none;">500+ CS Articles</a></li>   
        <li><a target="_blank" href="https://github.com/manjunath5496/The-5-Best-Data-Science-Books-for-Non-Techies/blob/master/README.md" style="text-decoration:none;">The 5 Best Data Science Books for Non-Techies </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-CS-Articles/blob/master/README.md" style="text-decoration:none;">900+ CS Articles</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/The-top-35-most-cited-research-papers-of-all-time/blob/master/README.md" style="text-decoration:none;">The top 35 most cited research papers of all time </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-concurrent-parallel-and-distributed-computing/blob/master/README.md" style="text-decoration:none;">List of important publications in concurrent, parallel and distributed computing </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/6-Essential-Books-Featuring-Dinosaurs-in-Science-Fiction/blob/master/README.md" style="text-decoration:none;">6 Essential Books Featuring Dinosaurs in Science Fiction </a></li>
