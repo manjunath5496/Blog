@@ -6,6 +6,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/README.md" style="text-decoration:none;">Cataloging Pseudotime Based Algorithm Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Capsule-Networks-Papers/blob/master/README.md" style="text-decoration:none;">Capsule Networks Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/README.md" style="text-decoration:none;">Cognitive ML Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/10-Best-Ecommerce-Research-Papers/blob/master/README.md" style="text-decoration:none;">10 Best Ecommerce Research Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Log-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Log Analysis Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/README.md" style="text-decoration:none;">Best AI Papers </a></li>
