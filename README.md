@@ -41,6 +41,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/README.md" style="text-decoration:none;">Spoken Language Understanding Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Contrastive-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Contrastive Learning Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Text-2-Speech-Synthesis-Papers/blob/master/README.md" style="text-decoration:none;">Text 2 Speech Synthesis Papers </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/DL-Related-Survey-Papers/blob/master/README.md" style="text-decoration:none;">DL Related Survey Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/README.md" style="text-decoration:none;">Visual Question Answering Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/README.md" style="text-decoration:none;">Visual Grounding Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/README.md" style="text-decoration:none;">Holistic 3D Reconstruction Papers </a></li>
