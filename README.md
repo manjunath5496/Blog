@@ -35,6 +35,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/README.md" style="text-decoration:none;">Single Cell Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Crop-Field-Phenotyping-DL-Papers/blob/master/README.md" style="text-decoration:none;">Crop Field Phenotyping DL Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Google-Earth-Engine-Papers/blob/master/README.md" style="text-decoration:none;">Google Earth Engine Papers </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-8-Neural-Network-Compression-Techniques-Papers/blob/master/README.md" style="text-decoration:none;">Top 8 Neural Network Compression Techniques Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-State-Papers/blob/master/README.md" style="text-decoration:none;">Single Cell State Papers </a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/README.md" style="text-decoration:none;">Spoken Language Understanding Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Contrastive-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Contrastive Learning Papers </a></li>
