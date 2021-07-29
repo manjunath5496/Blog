@@ -29,6 +29,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Active-Inference-Papers/blob/master/README.md" style="text-decoration:none;">Active Inference Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Inverse-Rendering-Papers/blob/master/README.md" style="text-decoration:none;">Inverse Rendering Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Environmental-Sound-Classification-Papers/blob/master/README.md" style="text-decoration:none;">Environmental Sound Classification Papers </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Fluid-Mechanics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Fluid Mechanics ML Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Internal-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Internal Learning Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/AI-conference-Papers/blob/master/README.md" style="text-decoration:none;">AI Conference Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Log-based-Anomaly-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Log based Anomaly Detection Papers</a></li>
