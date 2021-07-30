@@ -13,6 +13,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/README.md" style="text-decoration:none;">Best AI Papers </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Radiance-Fields-Papers/blob/master/README.md" style="text-decoration:none;">Neural Radiance Fields Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Vector-Search-Engine-Papers/blob/master/README.md" style="text-decoration:none;">Vector Search Engine Papers </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Visual Place Recognition Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Papers-on-Neural-Machine-Translation/blob/master/README.md" style="text-decoration:none;">Top 10 Papers on Neural Machine Translation </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Deconvolution-Papers/blob/master/README.md" style="text-decoration:none;">Deconvolution Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Promising-Synthesis-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 Promising Synthesis Papers </a></li>
