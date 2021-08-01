@@ -3019,31 +3019,25 @@ Grappling with god in the modern universe</a></li>
 
 <ul>
 
-                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(1).pdf" style="text-decoration:none;">A Discriminative CNN Video Representation for Event Detection</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(1).pdf" style="text-decoration:none;">A Discriminative CNN Video Representation for Event Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(2).pdf" style="text-decoration:none;">Learning Spatiotemporal Features with 3D Convolutional Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(2).pdf" style="text-decoration:none;">Learning Spatiotemporal Features with 3D Convolutional Networks</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(3).pdf" style="text-decoration:none;">Translating Videos to Natural Language
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(3).pdf" style="text-decoration:none;">Translating Videos to Natural Language
 Using Deep Recurrent Neural Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(4).pdf" style="text-decoration:none;">Describing Videos by Exploiting Temporal Structure</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(5).pdf" style="text-decoration:none;">Jointly Modeling Embedding and Translation to Bridge Video and Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(6).pdf" style="text-decoration:none;">Video Paragraph Captioning using Hierarchical Recurrent Neural Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(7).pdf" style="text-decoration:none;">Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(4).pdf" style="text-decoration:none;">Describing Videos by Exploiting Temporal Structure</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(5).pdf" style="text-decoration:none;">Jointly Modeling Embedding and Translation to Bridge Video and Language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(6).pdf" style="text-decoration:none;">Video Paragraph Captioning using Hierarchical Recurrent Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(7).pdf" style="text-decoration:none;">Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(8).pdf" style="text-decoration:none;"> Recognizing Activities of Daily Living with a Wrist-mounted Camera </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(9).pdf" style="text-decoration:none;">Parallel Architecture for Hierarchical Optical Flow Estimation Based on FPGA</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(8).pdf" style="text-decoration:none;"> Recognizing Activities of Daily Living with a Wrist-mounted Camera </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(9).pdf" style="text-decoration:none;">Parallel Architecture for Hierarchical Optical Flow Estimation Based on FPGA</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(10).pdf" style="text-decoration:none;">EpicFlow: Edge-Preserving Interpolation of
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(10).pdf" style="text-decoration:none;">EpicFlow: Edge-Preserving Interpolation of
 Correspondences for Optical Flow </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(11).pdf" style="text-decoration:none;">DeepFlow: Large displacement optical flow with deep
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(11).pdf" style="text-decoration:none;">DeepFlow: Large displacement optical flow with deep
 matching</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/blob/master/cv(12).pdf" style="text-decoration:none;">Efficient Hardware Implementation of the Horn-Schunck
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/cv(12).pdf" style="text-decoration:none;">Efficient Hardware Implementation of the Horn-Schunck
 Algorithm for High-Resolution Real-Time Dense Optical Flow Sensor</a></li>
 </ul>
-
-
-
-
