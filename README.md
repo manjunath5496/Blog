@@ -41,6 +41,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Fluid-Mechanics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Fluid Mechanics ML Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Internal-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Internal Learning Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Novel-StyleGAN-Inversion-Papers/blob/master/README.md" style="text-decoration:none;">Novel StyleGAN Inversion Papers </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/New-View-Synthesis-Papers/blob/master/README.md" style="text-decoration:none;">New View Synthesis Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/AI-conference-Papers/blob/master/README.md" style="text-decoration:none;">AI Conference Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Log-based-Anomaly-Detection-Papers/blob/master/README.md" style="text-decoration:none;">Log based Anomaly Detection Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/ChIP-Seq-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">ChIP Seq Analysis Papers</a></li>
