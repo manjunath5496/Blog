@@ -10,6 +10,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/README.md" style="text-decoration:none;">Neural ODE Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/README.md" style="text-decoration:none;">Cognitive ML Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/10-Best-Ecommerce-Research-Papers/blob/master/README.md" style="text-decoration:none;">10 Best Ecommerce Research Papers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Information-Retrieval-Papers/blob/master/README.md" style="text-decoration:none;">Neural Information Retrieval Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-ML-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 ML Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Reconfigurable-Intelligent-Surface-Papers/blob/master/README.md" style="text-decoration:none;">Reconfigurable Intelligent Surface Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/StarCraft-AI-Papers/blob/master/README.md" style="text-decoration:none;">StarCraft AI Papers</a></li>
