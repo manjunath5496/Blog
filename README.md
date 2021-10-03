@@ -30,6 +30,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/README.md" style="text-decoration:none;">Remote Sensing Data Fusion Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/README.md" style="text-decoration:none;">Cell Detection Segmentation Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Combinatorial-Optimization-ML-Papers/blob/master/README.md" style="text-decoration:none;">Combinatorial Optimization ML Papers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/DL-Recommendation-Papers/blob/master/README.md" style="text-decoration:none;">DL Recommendation Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Privacy-Papers/blob/master/README.md" style="text-decoration:none;">Privacy Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/README.md" style="text-decoration:none;">Quantum Annealing Papers </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Agriculture-DL-Papers/blob/master/README.md" style="text-decoration:none;">Agriculture DL Papers </a></li>
