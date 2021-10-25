@@ -422,9 +422,8 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Neuroeconomics-Papers/blob/master/README.md" style="text-decoration:none;">Neuroeconomics Papers</a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Cloud-Computing-Papers/blob/master/README.md" style="text-decoration:none;">Top 10 Cloud Computing Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/108-C-Programs/blob/main/README.md" style="text-decoration:none;">108 C Programs</a></li>
- 
-       <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Cryptography-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Cryptography Papers</a></li> 
-     <li><a target="_blank" href="https://github.com/manjunath5496/Top-5-Research-Papers-on-Computational-Linguistics/blob/master/README.md" style="text-decoration:none;">Top 5 Research Papers on Computational Linguistics</a></li>    
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Cryptography-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Cryptography Papers</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-5-Research-Papers-on-Computational-Linguistics/blob/master/README.md" style="text-decoration:none;">Top 5 Research Papers on Computational Linguistics</a></li>    
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-purification-methods-in-chemistry/blob/master/README.md" style="text-decoration:none;">List of purification methods in chemistry</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/MARL-Opponent-Aware-algorithms-papers/blob/master/README.md" style="text-decoration:none;">Multi-Agent Reinforcement Learning (MARL) Opponent-Aware algorithms Papers</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-ester-odorants/blob/master/README.md" style="text-decoration:none;">List of ester odorants</a></li>
