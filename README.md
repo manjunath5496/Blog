@@ -26,6 +26,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Log-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Log Analysis Papers</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/README.md" style="text-decoration:none;">Best AI Papers </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Radiance-Fields-Papers/blob/master/README.md" style="text-decoration:none;">Neural Radiance Fields Papers </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Important-Github-ML-Repositories/blob/master/README.md" style="text-decoration:none;">100+ Important Github ML Repositories</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Novel-View-Synthesis-Papers/blob/master/README.md" style="text-decoration:none;">Novel View Synthesis Papers </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Vector-Search-Engine-Papers/blob/master/README.md" style="text-decoration:none;">Vector Search Engine Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Visual Place Recognition Papers </a></li>
