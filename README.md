@@ -4,6 +4,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/README.md" style="text-decoration:none;">Classic Papers in Applied Mathematics </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-women-in-mathematics/blob/master/README.md" style="text-decoration:none;">Timeline of women in mathematics </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/README.md" style="text-decoration:none;">Cataloging Pseudotime Based Algorithm Papers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-Datascience-Papers/blob/master/README.md" style="text-decoration:none;">6 Data Science Papers</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Capsule-Networks-Papers/blob/master/README.md" style="text-decoration:none;">Capsule Networks Papers </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/README.md" style="text-decoration:none;">Classical Papers in Genetics </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/README.md" style="text-decoration:none;">Surgical Video Analysis Papers
